@@ -1,0 +1,44 @@
+{
+  "champ:SealCommonReward": {
+    "TEXT": [
+      "将一张普通牌加入牌组。"
+    ]
+  },
+  "champ:SealSealReward": {
+    "TEXT": [
+      "将一张封印牌加入牌组。"
+    ]
+  },
+  "champ:TechniqueMod": {
+    "TEXT": [
+      " NL 获得 champ:技术 奖励。"
+    ]
+  },
+  "champ:OpenerMod": {
+    "TEXT": [
+      " NL 进入 champ:战狂 。 ",
+      " NL 进入 champ:防守 。",
+      " NL 进入 *角斗 。"
+    ]
+  },
+  "champ:RetainCardMod": {
+    "TEXT": [
+      "保留 。 NL "
+    ]
+  },
+  "champ:EnchantUI": {
+    "TEXT": [
+      "选择一张牌耗能变为0",
+      "选择一张牌提高伤害",
+      "选择一张牌提高格挡"
+    ]
+  },
+  "champ:highlightCombos": {
+    "TEXT": [
+      "champ:战狂 champ:连段 ：",
+      "[#5ebf2a]战狂 champ:连段 ：",
+      "champ:防守 champ:连段 ：",
+      "[#5ebf2a]防守 champ:连段 ："
+    ]
+  }
+}

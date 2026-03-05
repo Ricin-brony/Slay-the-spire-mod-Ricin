@@ -1,0 +1,11 @@
+{
+  "downfall:CursedFountainPotion": {
+    "NAME": "呪いの泉のしずく",
+    "DESCRIPTIONS": [
+      "#y脱力 #b",
+      " #y弱体 #b",
+      " を与え、 #y筋力 ",
+      " を失わせる。"
+    ]
+  }
+}

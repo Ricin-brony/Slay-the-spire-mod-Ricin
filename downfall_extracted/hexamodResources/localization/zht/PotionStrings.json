@@ -1,0 +1,33 @@
+{
+  "hexamod:SoulburnPotion": {
+    "NAME": "燃燒彈",
+    "DESCRIPTIONS": [
+      "給予 #b",
+      " 層 #y灼魂 。"
+    ]
+  },
+  "hexamod:DoubleChargePotion": {
+    "NAME": "流動燃料",
+    "DESCRIPTIONS": [
+      " #y點燃 當前鬼火 #b",
+      " 次。"
+    ]
+  },
+  "hexamod:EctoCoolerPotion": {
+    "NAME": "外部冷却剂",
+    "DESCRIPTIONS": [
+      "从 #b3 张随机 #y虚无 牌中选择 #b1 张加入手牌，其本回合首次耗能为 #b0 。",
+      "从 #b3 张随机 #y虚无 牌中选择 #b1 张，将其 #b",
+      " 份复制品加入手牌，其本回合首次耗能为 #b0 。"
+    ]
+  },
+
+  "hexamod:InfernoChargePotion": {
+    "NAME": "獄焱藥水",
+    "DESCRIPTIONS": [
+      " #y點燃 #y獄焱 鬼火。",
+      " #y點燃 #y獄焱 鬼火 #b",
+	  " 次。"
+    ]
+  }
+}

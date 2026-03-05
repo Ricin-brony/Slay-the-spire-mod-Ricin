@@ -1,0 +1,75 @@
+[
+  {
+    "PROPER_NAME": "Snekproof",
+    "NAMES": [
+      "snekproof"
+    ],
+    "DESCRIPTION": "Snekproof cards aren't affected by #yConfusion and cannot be #yMuddled. NOTE FOR LOC: 不用翻譯。"
+  },
+  {
+  "PROPER_NAME": "Suit",
+  "NAMES": [
+  "suit",
+  "suits"
+],
+  "DESCRIPTION": "Suits refer to card's color. Token cards do not count as Suits. NOTE FOR LOC: 不用翻譯。"
+  },
+  {
+    "PROPER_NAME": "溢出",
+    "NAMES": [
+      "Overflow",
+      "overflow",
+      "溢出"
+    ],
+    "DESCRIPTION": "手牌超過 #b5 張時，溢出牌被打出觸發溢出效果。"
+  },
+  {
+    "PROPER_NAME": "混淆",
+    "NAMES": [
+      "muddle",
+      "muddled",
+      "muddles",
+      "混淆"
+    ],
+    "DESCRIPTION": "將1張牌本回合第1次打出的耗能隨機變為 #b0 ~ #b3 點。混淆後牌的耗能一定會改變。"
+  },
+  {
+    "PROPER_NAME": "異色",
+    "NAMES": [
+      "offclass",
+      "異色"
+    ],
+    "DESCRIPTION": "異蛇牌以外的所有可獲得牌。（包括 #y詛咒 和 #y狀態 牌）"
+  },
+  {
+    "PROPER_NAME": "贈禮",
+    "NAMES": [
+      "gift",
+      "贈禮"
+    ],
+    "DESCRIPTION": "當你獲得這張牌，可獲得以下 異色 牌獎勵（甚至金幣）。"
+  },
+  {
+    "PROPER_NAME": "Identify",
+    "NAMES": [
+      "identify"
+    ],
+    "DESCRIPTION": "Replace an #yUnidentified card with its current random card permanently. NOTE FOR LOC: 不用翻譯"
+  },
+  {
+    "PROPER_NAME": "劇毒",
+    "NAMES": [
+      "venom",
+      "劇毒"
+    ],
+    "DESCRIPTION": "擁有 #y劇毒 的敵人獲得非 #y劇毒 的負面效果時，失去對應生命。"
+  },
+  {
+    "PROPER_NAME": "幸運",
+    "NAMES": [
+      "lucky",
+      "幸運"
+    ],
+    "DESCRIPTION": "溢出效果一定觸發，與手牌大小無關。"
+  }
+]

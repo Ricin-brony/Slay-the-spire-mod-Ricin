@@ -1,0 +1,17 @@
+{
+  "hermit:bountygold": {
+    "TEXT": [
+      " 金币（赏金）"
+    ]
+  },
+  "hermit:LoneWolfAction": {
+    "TEXT": [
+      "保留 。"
+    ]
+  },
+  "hermit:SpecialFriend": {
+    "TEXT": [
+      "小橘"
+    ]
+  }
+}

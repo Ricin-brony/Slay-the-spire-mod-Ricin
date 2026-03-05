@@ -1,0 +1,27 @@
+{
+  "slimeboundConfigMenuText": {
+    "TEXT": [
+      "允许其他角色遇到史莱姆相关【遗物】",
+      "允许其他角色遇到史莱姆相关【药水】",
+      "允许其他角色遇到史莱姆相关【事件】",
+      "解锁全部内容（不推荐）"
+    ]
+  },
+    "slimeboundmod:CommandMod": {
+    "TEXT": [
+      " NL slimeboundmod:命令 。"
+    ]
+  },
+  "slimeboundmod:lickDescriptor": {
+    "TEXT": [
+      "舔舔",
+      "slimeboundmod:舔舔 。 NL "
+    ]
+  },
+  "slimeboundmod:tackleDescriptor": {
+    "TEXT": [
+      "冲撞",
+      "slimeboundmod:冲撞 。 NL "
+    ]
+  }
+}

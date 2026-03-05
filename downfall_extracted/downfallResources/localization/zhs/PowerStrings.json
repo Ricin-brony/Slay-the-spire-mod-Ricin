@@ -1,0 +1,468 @@
+{
+  "downfall:FairyPotion": {
+    "NAME": "瓶中精灵",
+    "DESCRIPTIONS": [
+      "当你要被杀死时，免死并回复到最大生命值的 #b30% ，移除本效果。",
+      "哈！瓶中精灵，没想到吧！"
+    ]
+  },
+  "downfall:SoulSteal": {
+    "NAME": "灵魂窃取",
+    "DESCRIPTIONS": [
+      "已经偷走了你 #b",
+      " 灵魂。"
+    ]
+  },
+  "downfall:NeowInvulnerable": {
+    "NAME": "生命之神",
+    "DESCRIPTIONS": [
+      "每当你打出一张牌， #y涅奥 恢复 #b",
+      " 点生命。"
+    ]
+  },
+  "downfall:TransformDrawnCardsPower": {
+    "NAME": "变化抽牌",
+    "DESCRIPTIONS": [
+      "将本回合抽到的前 #b",
+      " 张牌 #y变化 。（还剩 ",
+      " 张牌）"
+    ]
+  },
+  "downfall:TotemInvulnerable": {
+    "NAME": "活墙壁",
+    "DESCRIPTIONS": [
+      "只有在其他头生命均为 #b1 时才会死亡。死亡时其他头同时死亡。"
+    ]
+  },
+  "downfall:ExhaustCardsPower": {
+    "NAME": "遗忘",
+    "DESCRIPTIONS": [
+      "你的回合结束时，选择 #y消耗 #b1 张手牌。"
+    ]
+  },
+  "downfall:SpotWeakness": {
+    "NAME": "观察弱点",
+    "DESCRIPTIONS": [
+      "若你本回合打出一张攻击，该单位获得 #b",
+      " 点 #y力量 。",
+      "你本回合已打出一张攻击，该单位将获得 #b",
+      " 点 #y力量 。"
+    ]
+  },
+  "downfall:FearNoEvil": {
+    "NAME": "不惧妖邪",
+    "DESCRIPTIONS": [
+      "若本回合你打出一张攻击牌， #y观者 在打出不惧妖邪后将会进入 #y平静 。",
+      "本回合 #y观者 在打出不惧妖邪后将会进入 #y平静 。"
+    ]
+  },
+  "downfall:PoisonResist": {
+    "NAME": "拭毒",
+    "DESCRIPTIONS": [
+      "每当你造成 #y攻击 伤害，失去 #b",
+      " 层 #y中毒 。"
+    ]
+  },
+  "downfall:OnPlayerPoison": {
+    "NAME": "中毒",
+    "DESCRIPTIONS": [
+      "你的回合结束时，受到 #b",
+      " 点伤害。"
+    ]
+  },
+  "downfall:NeowBuff": {
+    "NAME": "涅奥的活力",
+    "DESCRIPTIONS": [
+      "回合结束时获得 #b2 点 #y力量 。"
+    ]
+  },
+  "downfall:WatcherAngryPower": {
+    "NAME": "无遏狂怒",
+    "DESCRIPTIONS": [
+      " #y观者 的回合结束时，若其生命不高于 #b50% ，她将永久进入 #y愤怒 。 NL #y愤怒 时造成与受到的伤害增加 #b50% 而非 #b100% 。",
+      "#y观者 的 #y愤怒 姿态使其造成与受到的伤害增加 #b50% 而非 #b100% 。"
+    ]
+  },
+  "downfall:NeowUnbridledRage": {
+    "NAME": "无遏狂怒",
+    "DESCRIPTIONS": [
+      "当回合结束时， #y涅奥 的生命低于 #b50% 时，她获得 #b6 点 #y力量 。 NL 每场战斗只能触发一次。"
+    ]
+  },
+  "downfall:WatcherCripplePower": {
+    "NAME": "神罚",
+    "DESCRIPTIONS": [
+      "每当 #y观者 失去 #b",
+      " 点生命，她同时失去 #b1 点 #y力量 ，每回合最多触发 #b3 次。 NL #y点穴 的伤害可以被 #y格挡 抵消。",
+      "本回合 #y观者 已经失去了 #b3  点 #y力量 。"
+    ]
+  },
+  "downfall:WatcherSkillPower": {
+    "NAME": "失谐掠夺者",
+    "DESCRIPTIONS": [
+      "每当你打出一张 #y攻击 ， #y观者 获得 #b",
+      " 层 #y临时敏捷 ，打出 #y技能 时获得 #b",
+      " 层 #y临时力量 ，打出能力时均获得。",
+      "",
+      "若你在一回合打出超过 #b",
+      " 张牌， #y观者 失去所有负面效果。",
+      "本回合你已打出 #b",
+      " 张牌。"
+    ]
+  },
+  "downfall:WrathNextTurnPower": {
+    "NAME": "怒火中烧",
+    "DESCRIPTIONS": [
+      "#y观者 的回合开始时，她将进入 #y愤怒 。"
+    ]
+  },
+  "downfall:NeowBlasphemersDemise": {
+    "NAME": "渎神者",
+    "DESCRIPTIONS": [
+      "除非 #y涅奥 再失去 #b",
+      " 生命，她下次强化时将会获得 #b10 点 #y力量 。",
+      " #y涅奥 下次强化时将不会获得 #b10 点 #y力量 。"
+    ]
+  },
+  "downfall:WatcherDivinityPower": {
+    "NAME": "消逝的信仰",
+    "DESCRIPTIONS": [
+      "每当你打出 #b1 张牌时， #y观者 获得 #b1 层 #p真言 ，你的回合开始时其失去 #b5 层 。 NL 当 #y观者 进入 #y神格 时，她将获得 #b3 点 #y力量 ，而且不会自动退出 #y神格 。"
+    ]
+  },
+  "downfall:SimpleWatcherDivinityPower": {
+    "NAME": "消逝的信仰",
+    "DESCRIPTIONS": [
+      "若你在一回合打出 #b6 张牌， #y观者 获得 #b1 层 #y真言 与 #y无实体 。",
+      " NL 本回合你已打出 #b",
+      " 张牌。",
+      " NL (本回合已触发)",
+      " NL NL #y观者 不会退出 #p神格 ，但造成的伤害仅提升 #b200% 。"
+    ]
+  },
+  "downfall:NeowFleetingFaith": {
+    "NAME": "消逝的信仰",
+    "DESCRIPTIONS": [
+      "每当你打出一张牌， #y涅奥 获得 #b1 层 #p真言 。 NL 每回合开始时 #y涅奥 失去 #b5 层 #p真言 。"
+    ]
+  },
+  "downfall:SilentShivTimeEaterPower": {
+    "NAME": "满包小刀",
+    "DESCRIPTIONS": [
+      "每回合你首次打出 #b2 耗能以上的牌时， #y静默猎手 获得 #b2 张 #y小刀 。"
+      ]
+  },
+  "downfall:NeowBagOfKnives": {
+    "NAME": "满包小刀",
+    "DESCRIPTIONS": [
+      "每回合你首次打出 #b2 耗能以上的牌时， 受到 #b4 点伤害两次。"
+    ]
+  },
+  "downfall:SilentMirrorImagePower": {
+    "NAME": "复视",
+    "DESCRIPTIONS": [
+      "每回合开始时 #y静默猎手 将使用 #y残影 来隐蔽自己。攻击其中 #b1 名能暴露她 #y本体 的位置。"
+    ]
+  },
+  "downfall:NeowSeeingDouble": {
+    "NAME": "复视",
+    "DESCRIPTIONS": [
+      "每回合你的首张 #y攻击牌 不对 #y涅奥 造成伤害。"
+    ]
+  },
+  "downfall:SilentPoisonPower": {
+    "NAME": "警告：剧毒",
+    "DESCRIPTIONS": [
+      " #y中毒 在你的回合结束时触发且伤害能被 #y格挡 抵消。",
+      " #y中毒 在你的回合结束时触发、伤害能被 #y格挡 抵消，且层数不衰减。"
+    ]
+  },
+  "downfall:NeowHighlyToxic": {
+    "NAME": "警告：剧毒",
+    "DESCRIPTIONS": [
+      " #y涅奥 每回合给予你 #b5 层 #y中毒 。 #y中毒 在你的回合结束时触发且伤害能被 #y格挡 抵消，战斗开始时将两张 #y解毒剂 洗入你的抽牌堆。"
+    ]
+  },
+  "downfall:DefectVoidPower": {
+    "NAME": "能量窃取",
+    "DESCRIPTIONS": [
+      "每当 #y故障机器人 生成 #y虚空 时，反而将其加入你的弃牌堆。"
+    ]
+  },
+  "downfall:NeowEnergyThief": {
+    "NAME": "能量窃取",
+    "DESCRIPTIONS": [
+      "每当 #y涅奥 将 #r诅咒 加入你的抽牌堆时，同时加入 #b1 张 #y虚空 。"
+    ]
+  },
+  "downfall:DefectAncientConstructPower": {
+    "NAME": "先古造物",
+    "DESCRIPTIONS": [
+      "战斗开始时， #y故障机器人 将召唤 #b2 个 #y铜制圆球 。 NL #y故障机器人 的 #y核心电涌 不会消耗。"
+    ]
+  },
+  "downfall:NeowAncientConstruct": {
+    "NAME": "先古造物",
+    "DESCRIPTIONS": [
+      "每回合开始时如果 #y涅奥 没有 #y人工制品 ，获得 #b2 层。"
+    ]
+  },
+  "downfall:DefectCuriosity": {
+    "NAME": "無偏认知",
+    "DESCRIPTIONS": [
+      "每当你打出 #b1 张 #y能力牌 时， #y故障机器人 获得 #b",
+      " 点 #y集中 。",
+      "当故障机器人的#y力量改变时，它的#y集中也会相应改变。",
+      ""
+    ]
+  },
+  "downfall:DefectBiasCuriosity": {
+    "NAME": "正确认知",
+    "DESCRIPTIONS": [
+      "战斗开始时， #y故障机器人 将打出一张 #y无偏认知。 NL 每当你打出 #b1 张 #y能力牌 时， #y故障机器人 的 #y偏差 在本回合失效。",
+      "每当你打出 #b1 张 #y能力牌 时， #y故障机器人 的 #y偏差 在本回合失效。",
+      "#y故障机器人 的 #y偏差 在本回合失效",
+      "偏差"
+    ]
+  },
+  "downfall:DefectCuriosityLighning": {
+    "NAME": "無偏认知",
+    "DESCRIPTIONS": [
+      "每当你打出 #b1 张 #y能力牌 时， #y故障机器人 #y生成 #b",
+      " 个 #y闪电 充能球。"
+    ]
+  },
+  "downfall:NeowUnbiasedCognition": {
+    "NAME": "無偏认知",
+    "DESCRIPTIONS": [
+      "每当你打出一张 #y能力牌 ， #y涅奥 获得 #b2 点 #y力量 。"
+    ]
+  },
+  "downfall:IroncladStatusPower": {
+    "NAME": "同步",
+    "DESCRIPTIONS": [
+      "每当 #y铁甲战士 生成 #y状态牌 时，反而将其加入你的弃牌堆。"
+    ]
+  },
+  "downfall:NeowSyncronize": {
+    "NAME": "同步",
+    "DESCRIPTIONS": [
+      " #y涅奥 将在每回合结束时随机将一张 #y状态牌 加入你的弃牌堆。"
+    ]
+  },
+  "downfall:IroncladMushroomPower": {
+    "NAME": "掠食",
+    "DESCRIPTIONS": [
+      " #y铁甲战士 的 #y死亡收割 不会消耗且对所有蘑菇生效。 NL 每当 #y铁甲战士 击杀 #b1 个蘑菇时，他获得 #b1 点 #y力量 。"
+    ]
+  },
+  "downfall:NeowFeedingFrenzy": {
+    "NAME": "掠食",
+    "DESCRIPTIONS": [
+      " #y涅奥 回复其造成的未被格挡伤害的生命。"
+    ]
+  },
+  "downfall:IroncladFortificationPower": {
+    "NAME": "堡垒",
+    "DESCRIPTIONS": [
+      " #y铁甲战士 构筑了 #y堡垒 。每回合 #y堡垒 将给予他 #b",
+      " 点 #y格挡 。 NL 当 #y堡垒 被摧毁时， #y铁甲战士 失去 #y壁垒 ，但每回合将会获得 #b5 点 #y力量 。"
+    ]
+  },
+  "downfall:NeowBastion": {
+    "NAME": "堡垒",
+    "DESCRIPTIONS": [
+      " #y涅奥 拥有 #y壁垒 且在每回合开始时获得 #b10 点 #y格挡 。"
+    ]
+  },
+  "downfall:MerchantStrengthPower": {
+    "NAME": "灵魂窃取",
+    "DESCRIPTIONS": [
+      " #y商人 加倍了本局灵魂窃取获得的 #y力量 。同时还获得了等量的 #y敏捷 。"
+    ]
+  },
+  "downfall:NeowMantra": {
+    "NAME": "真言",
+    "DESCRIPTIONS": [
+      "每当 #y涅奥 拥有 #b10 层 #y真言 时，它进入 #p神格 。"
+    ]
+  },
+  "downfall:NeowSeeingDoubleProduct": {
+    "NAME": "???",
+    "DESCRIPTIONS": [
+      "本回合你的下一张攻击牌对 #y涅奥 造成 #b0 点伤害。"
+    ]
+  },
+  "downfall:CrowbotRitualPower": {
+    "NAME": "重编程：邪教",
+    "DESCRIPTIONS": [
+      "当 #y乌鸦机器人 的生命不高于 #b50% 时，其回合结束时失去 #b3 点生命并获得 #b",
+      " 点 #y力量 。"
+    ]
+  },
+  "downfall:DamageMultiplier": {
+    "NAME": "伤害增幅",
+    "DESCRIPTIONS": [
+      " #y攻击牌 造成 #b",
+      " 倍伤害。"
+    ]
+  },
+  "downfall:CompressionMold": {
+    "NAME": "压模",
+    "DESCRIPTIONS": [
+      "升级被 #y发射 后的弹药。"
+    ]
+  },
+  "downfall:OnDeathEveryoneStr": {
+    "NAME": "奄息：垂死之怒",
+    "DESCRIPTIONS": [
+      "该单位死亡时，所有单位获得 #b",
+      " 点 #y力量 。"
+    ]
+  },
+  "downfall:OnDeathEveryoneThorns": {
+    "NAME": "奄息：蒺藜蔓延",
+    "DESCRIPTIONS": [
+      "该单位死亡时，所有单位获得 #b",
+      " 层 #y荆棘 。"
+    ]
+  },
+  "downfall:OnDeathEveryoneBuffer": {
+    "NAME": "奄息：局部时滞",
+    "DESCRIPTIONS": [
+      "该单位死亡时，所有单位获得 #b",
+      " 层 #y缓冲 。"
+    ]
+  },
+  "downfall:OnDeathEveryoneVigor": {
+    "NAME": "奄息：鲜火之环",
+    "DESCRIPTIONS": [
+      "该单位死亡时，所有单位获得 #b",
+      " 层 #y活力 。"
+    ]
+  },
+  "downfall:OnDeathEveryoneRuggedVuln": {
+    "NAME": "奄息：不屈决心",
+    "DESCRIPTIONS": [
+      "该单位死亡时，所有单位获得 #b",
+      " 层 #y坚固 与 #b",
+      " 层 #y易伤 。"
+    ]
+  },
+  "downfall:MonsterVigor": {
+    "NAME": "活力",
+    "DESCRIPTIONS": [
+      "该单位下次攻击额外造成 #b",
+      " 点伤害。"
+    ]
+  },
+  "downfall:HermitConcentrateAdder": {
+    "NAME": "致命专注",
+    "DESCRIPTIONS": [
+      " #y亡命之徒 每回合都进入 #y专注 状态，使其 #y精准 牌触发额外效果。 NL 使其失去 #b10 点生命能打破其 #y专注 #b1 回合。"
+    ]
+  },
+  "downfall:HermitConcentrationPower": {
+    "NAME": "致命专注",
+    "DESCRIPTIONS": [
+      " #y亡命之徒 每回合都进入 #y专注 状态，使其 #y精准 牌触发额外效果。 本回合再使其失去 #b",
+      " 点生命来打破其 #y专注 状态。",
+      " 它本回合已被扰乱，一定不触发 #y精准 效果。"
+    ]
+  },
+  "downfall:TangerinePower": {
+    "NAME": "副手",
+    "DESCRIPTIONS": [
+      "小橘死亡时，将 #y亡命之徒 的 #y专注 打破，但其获得 #b",
+      " 点 #y力量 。"
+    ]
+  },
+  "downfall:HermitWheelOfFortune": {
+    "NAME": "幸运大转盘",
+    "DESCRIPTIONS": [
+      "本场战斗 #y亡命之徒 的牌耗能不会改变。每当你打出一张 攻击牌，它丢弃最左边的牌并抽 #b1 张牌。",
+      ""
+    ]
+  },
+  "downfall:HermitDoomsday": {
+    "NAME": "末日",
+    "DESCRIPTIONS": [
+      "#y亡命之徒 以 #b1 层 #y仪式 的状态开始战斗。每当其打出 #y炼狱 时，召唤一只 #r末日匕首 。"
+    ]
+  },
+  "downfall:NeowEclipse": {
+    "NAME": "月蚀",
+    "DESCRIPTIONS": [
+      " #y涅奥 每回合将一张带有 #y虚无 的 #r末日将临 加入你的手牌。"
+    ]
+  },
+  "downfall:NeowWheelOfDeath": {
+    "NAME": "死亡之轮",
+    "DESCRIPTIONS": [
+      "你每打出 #b",
+      " 张牌， #y涅奥 获得 #b",
+      " 点 #y力量 。"
+    ]
+  },
+  "downfall:NeowDistracting": {
+    "NAME": "侵扰",
+    "DESCRIPTIONS": [
+      "对 #y涅奥 造成攻击伤害后，下回合少获得 [E] 。"
+    ]
+  },
+  "downfall:NextTurnPowerPower": {
+    "NAME": "Next Turn ",
+    "DESCRIPTIONS": [
+      "BUG! You should not see this",
+      "Next turn, gain #b",
+      " ",
+      ".",
+      "LOCALIZATION NOTE: Please keep the space after 'Next Turn' in the NAME field."
+    ]
+  },
+  "downfall:NeowStayAt1Hp": {
+    "NAME": "涅槃",
+    "DESCRIPTIONS": [
+      "你无法使 #y涅奥 降至 #b1 点生命以下。它将完全回复生命并进入下一阶段。"
+    ]
+  },
+  "downfall:NeowDivinity": {
+    "NAME": "神格",
+    "DESCRIPTIONS": [
+      " #y涅奥 本回合造成 #b3 倍伤害。"
+    ]
+  },
+  "downfall:NeowSpirit": {
+    "NAME": "英雄精魂",
+    "DESCRIPTIONS": [
+      " #y涅奥 强化自身时，其获得 #b6 点 #y力量 并：",
+      " NL 获得 #b1 层 #y恶魔形态 。",
+      " NL 获得 #b2 层 #y荆棘 。",
+      " NL 获得 #b2 层 #y缓冲 。",
+      " NL 获得 #b5 层 #y真言 。",
+      " NL 将 #b1 张 #r腐朽 加入你的抽牌堆。"
+    ]
+  },
+  "downfall:HeartsFavorPower": {
+    "NAME": "心脏的助力",
+    "DESCRIPTIONS": [
+      "每当你使 #y涅奥 耗尽 #y坚不可摧 时，降低其 #y生命之神 #b",
+      " 层。"
+    ]
+  },
+    "downfall:CultistRevivePower": {
+    "NAME": "妄奉",
+    "DESCRIPTIONS": [
+      "抵抗一次死亡，并将生命回复至 #b50% 。",
+      "咔咔！"
+    ]
+  },
+  "downfall:SilentDelayedWraithPower": {
+    "NAME": "Fatal Possession",
+    "DESCRIPTIONS": [
+      "#y静默猎手 首次生命值降至 #b0 时，免死并开启 #y幽魂形态 ",
+      " ，再回复 #b",
+      " 点生命。"
+    ]
+  }
+}

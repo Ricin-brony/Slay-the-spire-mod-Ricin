@@ -1,0 +1,143 @@
+{
+  "Gremlin:ImpeccablePecs": {
+    "NAME": "不変のペックス",
+    "FLAVOR": "栄光を手に入れろ。",
+    "DESCRIPTIONS": [
+      "自分が #y筋力 を得る度に、同量の #y一時的な体力 を得る。 NL 戦闘開始時、 #y筋力 #b1 を得る。"
+    ]
+  },
+  "Gremlin:FragmentationGrenade": {
+    "NAME": "破片手榴弾",
+    "FLAVOR": "あえてみんな聞かない。グレムリンがどこからこれを持ってきたのか。",
+    "DESCRIPTIONS": [
+      "ランダムな敵に与えるダメージが #b"," 増加。"
+    ]
+  },
+  "Gremlin:GremlinBomb": {
+    "NAME": "グレムリンボム",
+    "FLAVOR": "グレムリンには危険な物を見つける不思議な才能がある。時にはそれを奪って生き残る事も。",
+    "DESCRIPTIONS": [
+      "グレムリンが1体死亡する度に敵全体に #b", " ダメージ。"
+    ]
+  },
+  "Gremlin:GremlinGravestone": {
+    "NAME": "グレムリンの墓石",
+    "FLAVOR": "グレムリンは死んだらどこに行くんだ？まだ血が足りないよ。",
+    "DESCRIPTIONS": [
+      "死んだグレムリンを休憩所で行動を消費せずに復活させられる。"
+    ]
+  },
+  "Gremlin:GremlinKnob": {
+    "NAME": "モブリーダースタッフ",
+    "FLAVOR": "グレムリン達の中では、最高の角笛を持つものが一族を支配する。それは他の者に角笛を盗まれるまで続く。",
+    "DESCRIPTIONS": [
+      "戦闘開始時、 [E] を得て、カードを #b1 枚引き、次のグレムリンと #y交代 する。"
+    ]
+  },
+  "Gremlin:GremlinKnobUpgrade": {
+    "NAME": "モブリーダークラウン",
+    "FLAVOR": "シンボルが派手であればあるほど盗まれる確率が高くなる。",
+    "DESCRIPTIONS": [
+      " ",
+      " と置き換える。 NL 1ターンに1回、山札をシャッフルした時、 [E] を得て、カードを #b1 枚引き、次のグレムリンと #y交代 する。"
+    ]
+  },
+  "Gremlin:GremlinMask": {
+    "NAME": "グレムリンマスク",
+    "FLAVOR": "グレムリン仲間の間で身分証となる物",
+    "DESCRIPTIONS": [
+      "戦闘開始時、 #y一時的な #y筋力 #b1 "
+    ]
+  },
+  "Gremlin:LeaderVoucher": {
+    "NAME": "グレムリンリーダーの伝票",
+    "FLAVOR": "借用書 1 グレムリン",
+    "DESCRIPTIONS": [
+      "毎ターン [E] を得る。 NL 入手時、 #r恒久的に1匹のグレムリンが居なくなる。",
+      " NL #r( #r太っちょグレムリン #r)",
+      " NL #r( #rグレムリンウィザード #r)",
+      " NL #r( #rマッドグレムリン #r)",
+      " NL #r( #rシールドグレムリン #r)",
+      " NL #r( #rスニーキーrグレムリン #r)"
+    ]
+  },
+  "Gremlin:MagicalMallet": {
+    "NAME": "魔法の槌",
+    "FLAVOR": "つま先が2倍硬くなる。",
+    "DESCRIPTIONS": [
+      "#y脱力 を与えた時、 #y魔力 #b1 を得る。1ターンに #b3 回まで。"
+    ]
+  },
+  "Gremlin:PricklyShields": {
+    "NAME": "トゲトゲシールド",
+    "FLAVOR": "グレムリンはどんなゴミでも武器や防具にしてしまう。ある物はその両方を兼ねている。",
+    "DESCRIPTIONS": [
+      " #yブロック を得る度、ランダムな敵に #b", " ダメージを与える。"
+    ]
+  },
+  "Gremlin:ShortStature": {
+    "NAME": "小さな彫像",
+    "FLAVOR": "その効能には驚かされる。",
+    "DESCRIPTIONS": [
+      "グレムリンが初めて戦闘で死んだとき、代わりに最大HPの #b75% まで回復させる。",
+      "既にこの戦闘で死んでいる。"
+    ]
+  },
+  "Gremlin:StolenMerchandise": {
+    "NAME": "盗難商品",
+    "FLAVOR": "「チクショウ！盗人グレムリン達め！」",
+    "DESCRIPTIONS": [
+      " #y交代 するたびに、ランダムな #yエコー 付きの無色のカードを得る。 NL 戦闘開始時、商人は 筋力 #b",
+      " を得る。",
+      "このろくでなしの泥棒め！",
+      "この卑怯者、害虫野郎！!",
+      "貪欲なグレムリン！"
+    ]
+  },
+  "Gremlin:SupplyScroll": {
+    "NAME": "サプライスクロール",
+    "FLAVOR": "暴徒の持つアイテムを驚くほど詳細に分類化しています。",
+    "DESCRIPTIONS": [
+      "3ターン目の開始時に、 [E] [E] を得てカードを #b2 枚引く。"
+    ]
+  },
+  "Gremlin:TagTeamwork": {
+    "NAME": "タッグチームワーク",
+    "FLAVOR": "チームワークが夢をかなえる。",
+    "DESCRIPTIONS": [
+      " #yタッグチーム をドローした時、もう一枚カードを引く。 NL 入手時、デッキに2枚の #yタッグチーム を加える。"
+    ]
+  },
+  "Gremlin:WizardHat": {
+    "NAME": "ウィザードハット",
+    "FLAVOR": "付属のローブならとっくに盗まれたよ。",
+    "DESCRIPTIONS": [
+      "#y魔力 を消費する度、ランダムなデバフを解除する。"
+    ]
+  },
+  "Gremlin:WizardStaff": {
+    "NAME": "ウィザードスタッフ",
+    "FLAVOR": "グレムリンウィザード自慢の杖。敵対するモブによく盗まれる。",
+    "DESCRIPTIONS": [
+      "#y魔力 が追加で #b7 ダメージを与える。"
+    ]
+  },
+  "Gremlin:WoundPoker": {
+    "NAME": "創傷ポーカー",
+    "FLAVOR": "これって痛いの？",
+    "DESCRIPTIONS": [
+      "各ターン終了時、 #y脱力 を持つ敵に #b", " ダメージを与える。"
+    ]
+  },
+  "Gremlin:PatchFixes": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "入手時、全てのグレムリンの 最大 HP + #b",
+      "デッキにカードを加える時、代わりに 全てのグレムリンの 最大 HP + #b1 が可能になる。",
+      " #yゴールド。 NL 全てのグレムリンの 最大 HP + #b",
+      "戦闘 5 回毎に、全てのグレムリンの 最大 HP + #b1",
+      "+1 Max HP"
+    ]
+  }
+}

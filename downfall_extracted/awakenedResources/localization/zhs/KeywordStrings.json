@@ -1,0 +1,71 @@
+[
+  {
+    "PROPER_NAME": "能力药水",
+    "NAMES": [
+      "能力药水",
+      "能力药水",
+      "能力药水",
+      "能力药水",
+      "Power Potion",
+      "Power_Potion",
+      "power_potion",
+      "powerpotion"
+    ],
+    "DESCRIPTION": "#y药水 [REMOVE_SPACE] : 从 #b3 张随机 #y能力牌 中选择 #b1 张加入你的手牌 ｡ 这张牌在本回合耗能变为 #b0 ｡"
+  },
+  {
+    "PROPER_NAME": "念咒",
+    "NAMES": [
+      "念咒",
+      " 念咒",
+      "觉醒",
+      "conjure",
+      "conjured",
+      "awaken"
+    ],
+    "DESCRIPTION": "从你的咒典中将下一张咒文卡加入你的手牌 ｡"
+  },
+  {
+    "PROPER_NAME": "吟唱",
+    "NAMES": [
+      "吟唱",
+      "chant"
+    ],
+    "DESCRIPTION": "若打出含有 #y吟唱 效果的卡牌时上一张打出的卡牌为 #y能力牌 , 该效果在战斗结束前会自动激活 ｡"
+  },
+  {
+    "PROPER_NAME": "Hex",
+    "NAMES": [
+      "hex",
+      "hexxed",
+      "hexx"
+    ],
+    "DESCRIPTION": "Creatures with #yHex take #b20% more damage from the next Attack for each stack. #yHex is removed all at once after being attacked."
+  },
+  {
+    "PROPER_NAME": "力竭",
+    "NAMES": [
+      "力竭",
+      "力竭",
+      "drain",
+      "drained"
+    ],
+    "DESCRIPTION": "任何令你失去 [E] 的效果 , [E] 为0时仍能触发（不包括打出卡牌消耗的 [E] ｡ ）"
+  },
+  {
+    "PROPER_NAME": "灼气",
+    "NAMES": [
+      "灼气",
+      "manaburn"
+    ],
+    "DESCRIPTION": "任何令你失去 [E] 的效果 , 此敌人失去等同 #y灼气 [REMOVE_SPACE]层数的生命值 ｡ [E] 为0时仍能触发（不包括打出卡牌消耗的 [E] ｡ ）"
+  },
+  {
+    "PROPER_NAME": "好奇",
+    "NAMES": [
+      "好奇",
+      "curiosity"
+    ],
+    "DESCRIPTION": "你每打出一张 #y能力牌 , 获得 #b1 点 #y力量 ｡"
+  }
+]

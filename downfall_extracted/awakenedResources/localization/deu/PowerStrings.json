@@ -1,0 +1,249 @@
+{
+  "awakened:IntensifyPower": {
+    "NAME": "Intensiviert",
+    "DESCRIPTIONS": [
+      "In diesem Zug kosten Zaubersprücke #b0 [REMOVE_SPACE].",
+      "Zaubersprüche kosten in den nächsten #b",
+      " Zügen #b0 [REMOVE_SPACE]."
+    ]
+  },
+  "awakened:IntensifyDebuffPower": {
+    "NAME": "Ausgebrannt",
+    "DESCRIPTIONS": [
+      "Du kannst in diesem Zug nicht mehr #yaufrufen [REMOVE_SPACE].",
+      "Du kannst in den nächsten #b",
+      " nicht #yaufrufen [REMOVE_SPACE]."
+    ]
+  },
+  "awakened:RisingChantPower": {
+    "NAME": "Aufstiegschor",
+    "DESCRIPTIONS": [
+      " #b",
+      " Mal pro Zug werden #yChor Effekte zweimal aktiviert. NL In diesem Zug noch #b",
+      " Mal."
+    ]
+  },
+  "awakened:CursedStrength": {
+    "NAME": "Neumond",
+    "DESCRIPTIONS": [
+      "Erhalte immer, wenn du #yausgelaugt wirst, #b",
+      " #yStärke [REMOVE_SPACE]."
+    ]
+  },
+  "awakened:ThaumaturgyPower": {
+    "NAME": "Quacksalbereien",
+    "DESCRIPTIONS": [
+      "Erhalte zu Beginn des Zuges eine #yZeremonie - noch #b",
+      " Mal."
+    ]
+  },
+  "awakened:SacramentPower": {
+    "NAME": "Sakrament",
+    "DESCRIPTIONS": [
+      "Erhalte immer, wenn du eine #yMacht ausspielst, #b",
+      " #yBlock [REMOVE_SPACE]."
+    ]
+  },
+  "awakened:FlarePower": {
+    "NAME": "Federflackern",
+    "DESCRIPTIONS": [
+      "Immer wenn du in diesem Zug einen #ynicht-Angriff spielst verlieren ALLE Gegner #b",
+      " TP."
+    ]
+  },
+  "awakened:PrimacyPower": {
+    "NAME": "Vorrang",
+    "DESCRIPTIONS": [
+      "Wenn du das erste Mal im Zug #yStärke erhältst, ziehe eine Karte.",
+      "Ziehe die ersten #b",
+      " Male, an denen du im Zug #yStärke erhältst, eine Karte.",
+      " NL Dieser Effekt kann in diesem Zug noch #b",
+      " Mal aktiviert werden.",
+      " Mal aktiviert werden.",
+      " NL Dieser Effekt kann in diesem Zug nicht mehr aktiviert werden."
+    ]
+  },
+  "awakened:SpellbinderPower": {
+    "NAME": "Bezaubert",
+    "DESCRIPTIONS": [
+      "#yRufe zu Beginn des Zuges einen Zaubespruch auf.",
+      "#yRufe zu Beginn des Zuges #b",
+      " Zaubesprüche auf."
+    ]
+  },
+  "awakened:DarkEchoPower": {
+    "NAME": "Dunkles Echo",
+    "DESCRIPTIONS": [
+      "Füge am Ende des Zuges ALLEN Gegnern #b",
+      " Schaden #b",
+      " Mal zu.",
+      " Schaden zu."
+    ]
+  },
+  "awakened:MoonlitVisionPower": {
+    "NAME": "Mondfinsternis",
+    "DESCRIPTIONS": [
+      "Erhalte [E] , wenn du das erste Mal im Zug einen Zauber spielst.",
+      "Die ersten #b",
+      " Male im Zug, an denen du einen Zauber spielst, erhalte [E].",
+      " NL Noch #b",
+      " Mal möglich in diesem Zug."
+    ]
+  },
+  "awakened:EclipseEmbracePower": {
+    "NAME": "Sonnenfinsternis",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine #yLeere #yerschöpfst [REMOVE_SPACE], ziehe im nächsten Zug eine Karte und erhalte [E].",
+      "Immer wenn du eine #yLeere #yerschöpfst [REMOVE_SPACE], erhalte im nächsten Zug #b",
+      " [E] und ziehe #b",
+      " Karten."
+    ]
+  },
+  "awakened:SongOfSorrowPower": {
+    "NAME": "Leidenslieder",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine #yLeere erhältst, verlieren ALLE Gegner #b",
+      " TP."
+    ]
+  },
+  "awakened:ShroudOfMiasmaPower": {
+    "NAME": "Miasma-Schleier",
+    "DESCRIPTIONS": [
+      "Erhalte immer, wenn du einen #yverhexten Gegner angreifst, #b",
+      " #yBlock [REMOVE_SPACE]."
+    ]
+  },
+  "awakened:StrengthReturnPower": {
+    "NAME": "Aufgeschlitzt",
+    "DESCRIPTIONS": [
+      "Wenn du diesen Gegner triffst, erhältst du #b",
+      " #ytemporäre #yStärke [REMOVE_SPACE]."
+    ]
+  },
+  "awakened:ManaburnPower": {
+    "NAME": "Manabrand",
+    "DESCRIPTIONS": [
+      "Verliert immer wenn du #yausgelaugt wirst #b",
+      " TP."
+    ]
+  },
+  "awakened:ArchmagusPower": {
+    "NAME": "Erzmagier",
+    "DESCRIPTIONS": [
+      "Der erste in deinem Zug gespielte #yZauber wird zweimal gespielt.",
+      "Die ersten #b",
+      " in deinem Zug gespielten #yZauber werden zweimal gespielt.",
+      " NL (Noch #b",
+      " Zauberwiederholungen für diesen Zug übrig)"
+    ]
+  },
+  "awakened:DoubleSpellPower": {
+    "NAME": "Zauberwiederholung",
+    "DESCRIPTIONS": [
+      "In diesem Zug spielst du den nächsten #yZauber doppelt.",
+      "In diesem Zug spielst du die nächsten ",
+      " #yZauber doppelt."
+    ]
+  },
+  "awakened:DarknessFallsPower": {
+    "NAME": "Ringfinsternis",
+    "DESCRIPTIONS": [
+      "Erhalte immer, wenn du #yausgelaugt wirst, #b",
+      " #yBlock [REMOVE_SPACE]."
+    ]
+  },
+  "awakened:VoidRefundPower": {
+    "NAME": "Kriegsfanfare",
+    "DESCRIPTIONS": [
+      "Erhalte das nächste Mal an dem du #yausgelaugt wirst [E].",
+      "Erhalte das nächste Mal an dem du #yausgelaugt wirst #b",
+      " [E]."
+    ]
+  },
+  "awakened:DemonGlyphPower": {
+    "NAME": "Dämonenglyphen",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yStärke und #yGeschicklichkeit sobald du #yerwachst [REMOVE_SPACE]."
+    ]
+  },
+  "awakened:ReverseRitualPower": {
+    "NAME": "Erweckte Form",
+    "DESCRIPTIONS": [
+      "Erhalte zu Beginn deines Zuges #b",
+      " #yRitual [REMOVE_SPACE]."
+    ]
+  },
+  "awakened:EnsorcelatePower": {
+    "NAME": "Zauberformel",
+    "DESCRIPTIONS": [
+      "Ignoriere die Energiekosten der nächsten gespielten #yMacht [REMOVE_SPACE].",
+      "Ignoriere die Energiekosten der nächsten #b",
+      " gespielten #yMächte [REMOVE_SPACE]."
+    ]
+  },
+  "awakened:ConjureNextPower": {
+    "NAME": "Rupfen",
+    "DESCRIPTIONS": [
+      "Nimm das nächste Mal wenn du #yausgelaugt wirst #yFederstiche auf die Hand.",
+      "Nimm das nächste Mal wenn du #yausgelaugt wirst #b",
+      " #yFederstiche auf die Hand."
+    ]
+  },
+  "awakened:ChosensVersePower": {
+    "NAME": "Auserwählter Vers",
+    "DESCRIPTIONS": [
+      "Das nächste Mal, wenn du in diesem Zug einen #ynicht-Angriff spielst, erhalte #b",
+      " #yBlock und ziehe eine Karte.",
+      "Die nächsten #b",
+      " Male im Zug, an denen du einen #ynicht-Angriff spielst, erhalte #b",
+      " #yBlock und ziehe eine Karte."
+    ]
+  },
+  "awakened:AphoticFountPower": {
+    "NAME": "Gefrorene Quellen",
+    "DESCRIPTIONS": [
+      "Erhalte immer, wenn du #yKryostase spielst, #b",
+      " #yPanzerrüstung [REMOVE_SPACE]."
+    ]
+  },
+  "awakened:GrimoirePower": {
+    "NAME": "Donnergott",
+    "DESCRIPTIONS": [
+      "Deine #yBlitzstrahlen fügen #b",
+      " mehr Schaden zu."
+    ]
+  },
+  "awakened:SpellshieldPower": {
+    "NAME": "Zauberschild",
+    "DESCRIPTIONS": [
+      "Erhalte am Ende des Zuges #b",
+      " #yBlock für jede Karte die du #ybehältst [REMOVE_SPACE]."
+    ]
+  },
+  "awakened:DaggerstormPower": {
+    "NAME": "Dolchsturm",
+    "DESCRIPTIONS": [
+      "Immer wenn du eine Karte generierst, füge einem zufälligen Gegner #b",
+      " Schaden zu."
+    ]
+  },
+  "awakened:SchemePower": {
+    "NAME": "Böser Plan",
+    "DESCRIPTIONS": [
+      "In diesem Zug spielst du die nächsten #b",
+      " Karten mit Kosten von höchstens #b1 doppelt.",
+      "In diesem Zug spielst du die nächste Karte mit Kosten von höchstens #b1 doppelt."
+    ]
+  },
+  "awakened:FourthDimensionPower": {
+    "NAME": "Vierte Dimension",
+    "DESCRIPTIONS": [
+      "Für #b",
+      " folgenden Zug, ",
+      " folgende Züge, ",
+      "spiele und #yerschöpfe eine Kopie von ",
+      " [REMOVE_SPACE]."
+    ]
+  }
+}

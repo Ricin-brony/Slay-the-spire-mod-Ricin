@@ -1,0 +1,89 @@
+[
+  {
+    "PROPER_NAME": "蛇避け",
+    "NAMES": [
+      "snekproof",
+      "蛇避け"
+    ],
+    "DESCRIPTION": "蛇避けを持つカードは #y混乱 や #y泥まみれ の影響を受けない。"
+  },
+  {
+  "PROPER_NAME": "Suit",
+  "NAMES": [
+  "suit",
+  "suits"
+],
+  "DESCRIPTION": "Suits refer to card's color. Token cards do not count as Suits. NOTE FOR LOC: NOT USED DO NOT TRANSLATE."
+  },
+  {
+    "PROPER_NAME": "オーバーフロー",
+    "NAMES": [
+      "Overflow", "overflow", "オーバーフロー"
+    ],
+    "DESCRIPTION": "手札が #b6 枚以上の場合に発動する効果。"
+  },
+  {
+    "PROPER_NAME": "泥まみれ",
+    "NAMES": [
+      "muddle",
+      "muddled",
+      "muddles",
+      "泥まみれ"
+    ],
+    "DESCRIPTION": "このターンの間、カードを泥まみれにしてコストをランダムで #b0 ～ #b3 に変化させる。"
+  },
+  {
+    "PROPER_NAME": "オフクラス",
+    "NAMES": [
+      "offclass",
+      "オフクラス"
+    ],
+    "DESCRIPTION": "オフクラス カードは自分以外のキャラクターのカードを指す。 (無色、呪い、状態異常カードを含む)"
+  },
+  {
+    "PROPER_NAME": "ギフト",
+    "NAMES": [
+      "gift",
+      "ギフト"
+    ],
+    "DESCRIPTION": "このカードを取得したとき、次のカードタイプのカード報酬を得る。"
+  },
+  {
+    "PROPER_NAME": "識別",
+    "NAMES": [
+      "identify",
+      "識別"
+    ],
+    "DESCRIPTION": " #y未識別 のランダムなカードを現在のカードに確定する。"
+  },
+  {
+    "PROPER_NAME": "猛毒",
+    "NAMES": [
+      "venom",
+      "猛毒"
+    ],
+    "DESCRIPTION": "#y猛毒 を持つ敵に #y猛毒 以外のデバフを与えた時HPを減少させる。"
+  },
+  {
+    "PROPER_NAME": "抹消",
+    "NAMES": [
+      "抹消"
+    ],
+    "DESCRIPTION": "使用後デッキから削除される。"
+  },
+    {
+    "PROPER_NAME": "変身",
+    "NAMES": [
+      "変身"
+    ],
+    "DESCRIPTION": "カードやポーションを別の物に変化させる。"
+  },
+  {
+    "PROPER_NAME": "ラッキー",
+    "NAMES": [
+      "lucky",
+      "ラッキー"
+    ],
+    "DESCRIPTION": "このターン、手札の枚数に関係なくオーバーフロー効果が発動する。"
+  }
+]

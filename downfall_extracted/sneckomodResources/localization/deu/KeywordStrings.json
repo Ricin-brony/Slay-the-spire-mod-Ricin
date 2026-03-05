@@ -1,0 +1,89 @@
+[
+  {
+    "PROPER_NAME": "Irrsicher",
+    "NAMES": [
+      "irrsicher",
+      "irrsicherer",
+      "irrsichere",
+      "snekproof"
+    ],
+    "DESCRIPTION": "Die Kosten irrsicherer Karten können durch #yIrren und #yVerwirrung nicht verändert werden."
+  },
+  {
+    "PROPER_NAME": "Suit",
+    "NAMES": [
+      "suit",
+      "suits"
+    ],
+    "DESCRIPTION": "Suits refer to card's color. Token cards do not count as Suits. NOTE FOR LOC: NOT USED DO NOT TRANSLATE."
+  },
+  {
+    "PROPER_NAME": "Überschuss",
+    "NAMES": [
+      "überschuss",
+      "Overflow",
+      "overflow"
+    ],
+    "DESCRIPTION": "Überschuss-Effekte werden aktiviert wenn beim Ausspielen mindestens #b5 ANDERE Karten auf der Hand sind."
+  },
+  {
+    "PROPER_NAME": "Irren",
+    "NAMES": [
+      "muddle",
+      "muddled",
+      "muddles",
+      "irre",
+      "irren",
+      "irrst",
+      "irrt",
+      "geirrt",
+      "geirrte"
+    ],
+    "DESCRIPTION": "Das Irren einer Karte verändert ihre Kosten in diesem Zug auf einen Zufallswert zwischen #b0 und #b3 [REMOVE_SPACE]. Durch das Irren werden die Kosten IMMER verändert."
+  },
+  {
+    "PROPER_NAME": "Fremd",
+    "NAMES": [
+      "fremdklasse",
+      "fremdklassen",
+      "fremd",
+      "fremde",
+      "fremden",
+      "offclass"
+    ],
+    "DESCRIPTION": "Alle Karten, die nicht dem eigenen Charakter zugehörig sind, zählen als #yfremd (darunter auch farblose Karten, #rFlüche [REMOVE_SPACE], und #yStatuskarten [REMOVE_SPACE])."
+  },
+  {
+    "PROPER_NAME": "Geschenk",
+    "NAMES": [
+      "geschenk",
+      "gift"
+    ],
+    "DESCRIPTION": "Wenn du diese Karte in dein Deck aufnimmst, erhältst du eine zusätzliche spezifische Kartenbelohnung."
+  },
+  {
+    "PROPER_NAME": "Identifizieren",
+    "NAMES": [
+      "identifiziert",
+      "identify"
+    ],
+    "DESCRIPTION": "Ersetze eine #yunindentifizierte Karte durch die Karte, die sie aktuell verkörpert."
+  },
+  {
+    "PROPER_NAME": "Toxin",
+    "NAMES": [
+      "toxin",
+      "venom"
+    ],
+    "DESCRIPTION": "Wesen mit #yToxin verlieren TP in dessen Höhe wenn sie einen Debuff, abgesehen von #yToxin [REMOVE_SPACE], erleiden."
+  },
+  {
+    "PROPER_NAME": "Glück",
+    "NAMES": [
+      "glück",
+      "glücklich",
+      "lucky"
+    ],
+    "DESCRIPTION": "#yÜberschuss Effekte werden unabhängig von der Anzahl der Handkarten aktiviert."
+  }
+]

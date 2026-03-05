@@ -1,0 +1,25 @@
+{
+  "hexamod:SealCommonReward": {
+    "TEXT": [
+      "將一張普通牌加入牌組"
+    ]
+  },
+  "hexamod:SealSealReward": {
+    "TEXT": [
+      "將一張封印加入牌組",
+      "選擇一張牌"
+    ]
+  },
+  "hexamod:SealDescriptor": {
+    "TEXT": [
+      "封印",
+      "hexamod:封印. NL "
+    ]
+  },
+  "hexamod:SealMode": {
+    "TEXT": [
+      "Legacy Mode - Six Seals",
+      "Adds Seal rewards periodically in combat. Assemble the Seals to earn a special relic. Playing with this option enabled will make the game easier."
+    ]
+  }
+}

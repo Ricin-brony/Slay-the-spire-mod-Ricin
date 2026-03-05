@@ -1,0 +1,29 @@
+{
+  "gremlin:GremlinPotion": {
+    "NAME": "地精香水",
+    "DESCRIPTIONS": [
+      "触发所有 #b5 名地精的被动效果 #b",
+      " 次。"
+    ]
+  },
+  "gremlin:NecromancyPotion": {
+    "NAME": "罐装地精",
+    "DESCRIPTIONS": [
+      "随机复活一只地精并将其回复至 #b",
+      "% 最大生命。"
+    ]
+  },
+  "gremlin:SwapPotion": {
+    "NAME": "瓶装哄骗",
+    "DESCRIPTIONS": [
+      "随机 #y切换 至一只地精。"
+    ]
+  },
+  "gremlin:WizPotion": {
+    "NAME": "激情药水",
+    "DESCRIPTIONS": [
+      "获得 #b",
+      " 层 #y活力 。"
+    ]
+  }
+}

@@ -1,0 +1,564 @@
+﻿{
+  "downfall:NeowBlessing": {
+    "NAME": "니오우의 축복",
+    "FLAVOR": "분노를 가라앉혀라. 첨탑처럼 거칠고 단호해져라.",
+    "DESCRIPTIONS": [
+      "시작 유물을 대체합니다. 보스의 최대 체력이 증가합니다. 카드를 #b2 장 덜 뽑고 ",
+      " 를 #b1 덜 가집니다. NL 전투 시작 시 보스는 고유한 이로운 효과를 얻습니다. #y기절하지 않습니다."
+    ]
+  },
+  "downfall:NeowBlessing_Player": {
+    "NAME": "니오우의 축복",
+    "FLAVOR": "분노를 가라앉혀라. 첨탑처럼 거칠고 단호해져라.",
+    "DESCRIPTIONS": [
+      "획득 시 최대 체력이 #b100 증가합니다. NL 막마다 최대 체력이 #b100 증가합니다. NL 모든 포션 슬롯을 잃습니다. NL 내 턴 시작 시 카드를 #b1 장 덜 뽑고 [E] 를 잃습니다."
+    ]
+  },
+  "downfall:CoffeeDripper": {
+    "DESCRIPTIONS": [
+      " NL 휴식을 못해 보스의 체력이 최대 체력보다 낮아집니다."
+    ]
+  },
+  "downfall:BustedCrown": {
+    "DESCRIPTIONS": [
+      " NL 최적의 카드를 선택하지 못해 보스는 평소보다 연계하는 카드가 적습니다."
+    ]
+  },
+  "downfall:Girya": {
+    "DESCRIPTIONS": [
+      " NL 휴식 대신 운동을 선택해 보스의 체력이 최대 체력보다 낮아집니다."
+    ]
+  },
+  "downfall:Matroyshka": {
+    "DESCRIPTIONS": [
+      " NL 보스가 추가로 ",
+      " 유물을 획득했습니다."
+    ]
+  },
+  "downfall:Ectoplasm": {
+    "DESCRIPTIONS": [
+      " NL 골드를 얻지 못해 보스는 카드를 ",
+      " 장 제거하지 못했습니다."
+    ]
+  },
+  "downfall:BlackStar": {
+    "DESCRIPTIONS": [
+      " NL 보스가 추가로 ",
+      " 유물을 획득했지만 체력이 최대 체력보다 낮아집니다."
+    ]
+  },
+  "downfall:MoltenEgg": {
+    "DESCRIPTIONS": [
+      " NL 보스가 이 유물로 ",
+      " 공격 카드를 강화했습니다."
+    ]
+  },
+  "downfall:ToxicEgg": {
+    "DESCRIPTIONS": [
+      " NL 보스가 이 유물로 ",
+      " 스킬 카드를 강화했습니다."
+    ]
+  },
+  "downfall:FrozenEgg": {
+    "DESCRIPTIONS": [
+      "보스는 강화된 파워 카드를 많이 가지고 있습니다."
+    ]
+  },
+  "downfall:Shovel": {
+    "DESCRIPTIONS": [
+      " NL 보스가 추가로 ",
+      " 유물을 획득했지만 휴식할 수 없었기 때문에 보스의 체력이 최대 체력보다 낮아집니다."
+    ]
+  },
+  "downfall:CBRSerpentHead": {
+    "DESCRIPTIONS": [
+      " NL 보스가 골드를 사용해 덱에서 카드를 2장 제거했습니다."
+    ]
+  },
+  "downfall:CursedKey": {
+    "DESCRIPTIONS": [
+      " NL 보스가 이 유물로 ",
+      " 저주를 받았습니다."
+    ]
+  },
+  "downfall:DreamCatcher": {
+    "DESCRIPTIONS": [
+      " NL 보스가 휴식해서 추가로 카드를 얻었습니다."
+    ]
+  },
+  "downfall:PrayerWheel": {
+    "DESCRIPTIONS": [
+      " NL 보스가 이 유물로 추가로 ",
+      " 카드를 얻었습니다."
+    ]
+  },
+  "downfall:PeacePipe": {
+    "DESCRIPTIONS": [
+      " NL 보스가 추가로 ",
+      " 카드를 제거했지만 체력이 최대 체력보다 낮아집니다."
+    ]
+  },
+  "downfall:RunicDome": {
+    "DESCRIPTIONS": [
+      " NL 보스가 카드를 제대로 골라서 사용하지 못합니다."
+    ]
+  },
+  "downfall:CentennialPuzzle": {
+    "DESCRIPTIONS": [
+      " NL 보스의 턴에서 발동하지 않습니다."
+    ]
+  },
+  "downfall:CBRFaceOfCleric": {
+    "DESCRIPTIONS": [
+      " 최대 체력을 이 유물로 얻었습니다."
+    ]
+  },
+  "downfall:Omamori": {
+    "DESCRIPTIONS": [
+      " NL 이 유물로 저주를 막았습니다. - "
+    ]
+  },
+  "downfall:DollysMirror": {
+    "DESCRIPTIONS": [
+      " NL 거울로 카드를 복사했습니다. - "
+    ]
+  },
+  "downfall:Vampires": {
+    "NAME": "이벤트: 흡혈귀(?)",
+    "FLAVOR": "주인님의 피... 주인님의 피! 주.인.님.의.피!!!",
+    "DESCRIPTIONS": [
+      "타격이 흡혈로 교체됐습니다. NL 최대 체력을 ",
+      " 잃습니다."
+    ]
+  },
+  "downfall:BonfireSpirits": {
+    "NAME": "이벤트: 모닥불 정령들",
+    "FLAVOR": "불이 두 배로 타오르면서 불꽃이 압도할 듯이 폭발합니다.",
+    "DESCRIPTIONS": [
+      "보스가 덱에서 카드를 1장 제거하고 최대 체력을 10 얻었습니다."
+    ]
+  },
+  "downfall:DesignerInSpire": {
+    "NAME": "이벤트: 탑-클래스 디자이너",
+    "FLAVOR": "이건 아니야, 아니고말고. 이 차림새는 도대체 뭐야? 구역질나! 설마 지금 피이이이이이를 흘리고 있는 거야? 역겨워.",
+    "DESCRIPTIONS": [
+      "보스가 덱에서 카드를 1장 제거하고 카드를 1장 강화했습니다."
+    ]
+  },
+  "downfall:DivineFountain": {
+    "NAME": "이벤트: 신성한 샘",
+    "FLAVOR": "근처 벽에 달린 분수로부터 끝없이 흘러나오는 일렁이는 물과 우연히 마주쳤습니다.",
+    "DESCRIPTIONS": [
+      " 저주들을 덱에서 제거했습니다."
+    ]
+  },
+  "downfall:Duplicator": {
+    "NAME": "이벤트: 복제 성소",
+    "FLAVOR": "당신 앞에 고대의 영혼을 기리는 공들인 제단이 놓여있습니다.",
+    "DESCRIPTIONS": [
+      "보스가 강력한 카드를 복사했습니다."
+    ]
+  },
+  "downfall:BigFish": {
+    "NAME": "이벤트: 월척",
+    "FLAVOR": "당신은 긴 복도를 따라 걷다가 허공에 떠있는 바나나, 도넛, 그리고 상자를 발견했습니다.",
+    "DESCRIPTIONS": [
+      "도넛을 골랐습니다. NL 최대 체력이 5 증가합니다.",
+      "상자를 골랐습니다. NL 후회와 유물을 가집니다."
+    ]
+  },
+  "downfall:LivingWall": {
+    "NAME": "이벤트: 살아있는 벽",
+    "FLAVOR": "네가 알던 것을 잊으면, 너를 보내 주마.",
+    "DESCRIPTIONS": [
+      "보스가 제거했습니다. - ",
+      "보스가 강화했습니다. - ",
+      "보스가 ",
+      " 카드를 변화했습니다. - "
+    ]
+  },
+  "downfall:WheelOfChange": {
+    "NAME": "이벤트: 운명의 돌림판",
+    "FLAVOR": "돌림판을 돌릴 시간이예요! 준비됐나요? 당연히 돼 있죠!",
+    "DESCRIPTIONS": [
+      "돌림판으로 획득 - ",
+      "보스가 돌림판 덕에 체력을 모두 회복했습니다.",
+      "보스가 돌림판 덕에 덱에서 ",
+      " 카드를 제거했습니다.",
+      "보스가 돌림판 덕에 피해를 받았습니다."
+    ]
+  },
+  "downfall:Falling": {
+    "NAME": "이벤트: 추락",
+    "FLAVOR": "추락하는 동안 당신에겐 몇 개의 선택지가 있습니다...",
+    "DESCRIPTIONS": [
+      "덱에서 타격을 제거했습니다."
+    ]
+  },
+  "downfall:Augmenter": {
+    "NAME": "이벤트: 증강자",
+    "FLAVOR": "여보게 거기, 낮선 이여. 과학의 발전에 관심이 있나?",
+    "DESCRIPTIONS": [
+      "보스가 카드를 2장 변화했습니다.",
+      "보스가 J.A.X. 를 얻었습니다.",
+      "보스가 돌연변이의 힘을 얻었습니다."
+    ]
+  },
+  "downfall:AncientWriting": {
+    "NAME": "이벤트: 고대 문자",
+    "FLAVOR": "갑자기 글의 내용이 명확해져 갑니다...",
+    "DESCRIPTIONS": [
+      "보스가 모든 타격과 수비를 강화했습니다."
+    ]
+  },
+  "downfall:Bandits": {
+    "NAME": "이벤트: 붉은 가면 도적단",
+    "FLAVOR": "잡아라 곰!",
+    "DESCRIPTIONS": [
+      "보스가 도적단을 처치하고 붉은 가면을 얻었지만, 최대 체력이 감소한 채로 전투합니다."
+    ]
+  },
+  "downfall:WingStatue": {
+    "NAME": "이벤트: 날개 조각상",
+    "FLAVOR": "돌과 바위들 사이에서, 당신은 날개 모양의 복잡하고 커다란 푸른 조각상을 발견했습니다.",
+    "DESCRIPTIONS": [
+      " 카드를 덱에서 제거했습니다."
+    ]
+  },
+  "downfall:Serpent": {
+    "NAME": "이벤트: 배애애애앰",
+    "FLAVOR": "인생의 가장 좋은 점은 바로 뭐든지 살 수 있다는 것 아니겠어? 너도 그렇게 생각하지?",
+    "DESCRIPTIONS": [
+      "보스가 의심을 받고 금화를 얻어 추가로 유물을 샀습니다."
+    ]
+  },
+  "downfall:Cleric": {
+    "NAME": "이벤트: 성직자",
+    "FLAVOR": "안녕하신가 친구! 난 성직자라네! 나의 서비스에 관심있나?!",
+    "DESCRIPTIONS": [
+      "보스가 덱에서 카드를 제거했습니다."
+    ]
+  },
+  "downfall:OldBeggar": {
+    "NAME": "이벤트: 늙은 거지",
+    "FLAVOR": "몇 푼 좀 내주겠니, 꼬마야?",
+    "DESCRIPTIONS": [
+      "보스가 덱에서 카드를 제거했습니다."
+    ]
+  },
+  "downfall:Library": {
+    "NAME": "이벤트: 도서관",
+    "FLAVOR": "당신이 우연히 발견한 건물은 화려하게 장식되어 있지만 버려진 것 같습니다.",
+    "DESCRIPTIONS": [
+      "보스가 추가로 연계되는 카드를 얻었습니다."
+    ]
+  },
+  "downfall:Mausoleum": {
+    "NAME": "이벤트: 영묘",
+    "FLAVOR": "관에 적혀 있는 글을 알아볼 수는 없지만, 검은 안개가 옆에서 스며 나오는 것을 볼 수 있습니다.",
+    "DESCRIPTIONS": [
+      "보스가 몸부림을 받고 추가로 유물을 얻었습니다."
+    ]
+  },
+  "downfall:Nest": {
+    "NAME": "이벤트: 둥지",
+    "FLAVOR": "까악 까악 까아아아악!",
+    "DESCRIPTIONS": [
+      "보스가 의식용 단검을 얻었습니다."
+    ]
+  },
+  "downfall:Colosseum": {
+    "NAME": "이벤트: 콜로세움",
+    "FLAVOR": "전투를 시작하겠다!!!!",
+    "DESCRIPTIONS": [
+      "보스가 콜로세움 이벤트에서 이기고 추가로 유물을 2개 얻었습니다."
+    ]
+  },
+  "downfall:PleadingVagrant": {
+    "NAME": "이벤트: 애원하는 부랑자",
+    "FLAVOR": "좀 없어 친구? 제발... 아니면 #y동전이라도?",
+    "DESCRIPTIONS": [
+      "보스가 부랑자에게 속아 수치를 얻었습니다. 획득 - "
+    ]
+  },
+  "downfall:Mushroom": {
+    "NAME": "이벤트: 버섯들",
+    "FLAVOR": "당신은 혼을 빼놓는 색깔의 버섯들로 가득찬 통로에 들어섭니다.",
+    "DESCRIPTIONS": [
+      "보스가 체력을 모두 회복하고 기생충을 얻었습니다.",
+      "보스가 이상한 버섯 유물을 얻지만 체력이 최대 체력보다 낮아집니다."
+    ]
+  },
+  "downfall:ShiningLight": {
+    "NAME": "이벤트: 밝은 빛",
+    "FLAVOR": "당신은 방 한가운데에서 일렁이는 빛의 덩어리를 발견했습니다.",
+    "DESCRIPTIONS": [
+      "보스가 ",
+      " 카드와 ",
+      " 카드를 강화했지만 체력이 최대 체력보다 낮아집니다."
+    ]
+  },
+  "downfall:ScrapOoze": {
+    "NAME": "이벤트: 날붙이 수액",
+    "FLAVOR": "당신 앞에는 동강난 날붙이들을 마구 먹어댄 슬라임 같은 생물이 있습니다.",
+    "DESCRIPTIONS": [
+      "보스가 추가로 유물을 얻었습니다."
+    ]
+  },
+  "downfall:GoldenIdolEvent": {
+    "NAME": "이벤트: 황금 우상",
+    "FLAVOR": "제단 꼭대기에는 화려한 장식의 여자 조각상이 팔을 쭉 뻗은 채로 놓여있습니다. NL 그녀는 희생을 요구하며, 당신을 부릅니다.",
+    "DESCRIPTIONS": [
+      "보스가 황금 우상을 얻는 대신 상처를 받았습니다. 추가로 획득한 골드의 사용처 - "
+    ]
+  },
+  "downfall:FaceTrader": {
+    "NAME": "이벤트: 얼굴 상인",
+    "FLAVOR": "얼굴. 만지게 해주지 않겠나? 아니면 거래는?",
+    "DESCRIPTIONS": [
+      "보스가 무작위 얼굴 유물을 1개 얻었습니다."
+    ]
+  },
+  "downfall:OminousForge": {
+    "NAME": "이벤트: 수상한 대장간",
+    "FLAVOR": "깡! 까앙! 깡!",
+    "DESCRIPTIONS": [
+      "보스가 휘어진 집게와 고통을 얻었습니다."
+    ]
+  },
+  "downfall:Purifier": {
+    "NAME": "이벤트: 정화 성소",
+    "FLAVOR": "당신 앞에 잊힌 영혼을 기리는 공들인 성소가 놓여있습니다.",
+    "DESCRIPTIONS": [
+      " 카드를 덱에서 제거했습니다."
+    ]
+  },
+  "downfall:MatchAndKeep": {
+    "NAME": "이벤트: 맞추고 가져가!",
+    "FLAVOR": "카드는 12장! 짝을 맞추면 가져가도 된다! 기회는 5번, 무르기 없기다. 준비됐느냐? 시작하자꾸나!",
+    "DESCRIPTIONS": [
+      "보스가 성공적으로 짝을 맞춰 강력한 카드를 얻었습니다."
+    ]
+  },
+  "downfall:Transmogrifier": {
+    "NAME": "이벤트: 변환 성소",
+    "FLAVOR": "당신 앞에 잊힌 영혼을 기리는 공들인 성소가 놓여있습니다.",
+    "DESCRIPTIONS": [
+      "보스가 기본 카드를 새로운 카드로 변화시켰습니다."
+    ]
+  },
+  "downfall:TombRedMask": {
+    "NAME": "이벤트: 붉은 가면 왕의 무덤",
+    "FLAVOR": "둥둥 떠있는 길의 반대 쪽에 매우 화려하게 장식된 무덤이 보입니다.",
+    "DESCRIPTIONS": [
+      "보스가 붉은 가면 유물을 얻었습니다."
+    ]
+  },
+  "downfall:UpgradeShrine": {
+    "NAME": "이벤트: 강화 성소",
+    "FLAVOR": "당신 앞에 잊힌 영혼을 기리는 공들인 성소가 놓여있습니다.",
+    "DESCRIPTIONS": [
+      "보스가 강화 성소에서 카드를 한 장 #y강화했습니다."
+    ]
+  },
+  "downfall:WeMeetAgain": {
+    "NAME": "이벤트: 또 만났네요!",
+    "FLAVOR": "저예요, #y랜위드! 오늘 저한테 줄 거 있나요? 늘 주시던 그거? 저 같은 놈은 혼자서는 성공할 수 없다는 거 잘 아시잖아요?",
+    "DESCRIPTIONS": [
+      "골드를 주고 추가 유물으로 교환했습니다."
+    ]
+  },
+  "downfall:GoldenShrine": {
+    "NAME": "이벤트: 황금 성소",
+    "FLAVOR": "당신 앞에 잊힌 영혼을 기리는 공들인 성소가 놓여있습니다.",
+    "DESCRIPTIONS": [
+      "보스가 금화를 위해 후회를 받았습니다. 추가로 획득한 골드의 사용처 - "
+    ]
+  },
+  "downfall:GremlinSack": {
+    "NAME": "그렘린 자루",
+    "FLAVOR": "그렘린과 경호원은 상대가 되질 않았습니다.",
+    "DESCRIPTIONS": [
+      "획득 시 아래 카드들을 덱에 추가합니다: NL ",
+      "획득 시 짝을 맞춰서 가져가야했던 카드를 #b6 장 덱에 추가합니다.",
+      "#g(기본) ",
+      "#g(일반) ",
+      "#b(특별) ",
+      "#y(희귀) ",
+      "#b(무색) ",
+      "#r(저주) "
+    ]
+  },
+  "downfall:GremlinWheel": {
+    "NAME": "운명의 돌림판",
+    "FLAVOR": "아무도 두 번 돌릴 순 없어요. 라고 그렘린이 이야기했었죠.",
+    "DESCRIPTIONS": [
+      "휴식 장소에서 돌림판을 한 번 돌릴 수 있습니다. 선택된 보상을 받으면 소모됩니다.",
+      "이미 사용된 유물입니다."
+    ]
+  },
+  "downfall:CloakOfManyFaces": {
+    "NAME": "망토 속 많은 얼굴",
+    "FLAVOR": "이건 스티브, 빌, 이안, 프레드, 존입니다...",
+    "DESCRIPTIONS": [
+      "획득 시 광신자 얼굴, 성직자 얼굴, 느로스의 배고픈 얼굴, 그렘린 얼굴, 뱀 얼굴을 획득합니다."
+    ]
+  },
+  "downfall:BrokenWingStatue": {
+    "NAME": "부서진 날개 조각상",
+    "FLAVOR": "한때 장대했던 부서진 조각상 덩어리입니다.",
+    "DESCRIPTIONS": [
+      "깨어난 자를 숭배하는 광신자들이 이것에 관심을 가질 것입니다.",
+      "매 전투 시작 시 광신자나 선택받은 자가 있다면 광신자들이 이 유물을 가지고 달아납니다."
+    ]
+  },
+  "downfall:ShatteredFragment": {
+    "NAME": "날카로운 조각",
+    "FLAVOR": "한때 부서진 조각상이었지만 지금은 간이 무기입니다.",
+    "DESCRIPTIONS": [
+      "엘리트 또는 보스 전투 동안 #y파워 카드를 사용할 때마다 #y힘을 #b",
+      " 얻습니다."
+    ]
+  },
+  "downfall:RedIOU": {
+    "NAME": "도적단과의 계약",
+    "FLAVOR": "도적단 삼인방과 합의를 봤단 증거입니다. 장신구로 대가를 치를 때도 있지만 대부분 목숨과 맞바꿉니다.",
+    "DESCRIPTIONS": [
+      "#b3 막 보스와 전투 시작 시, 붉은 가면 도적단이 도와줍니다.",
+      "일할 시간이야, 친구들!",
+      "잡아라 곰!",
+      "받은 만큼만 일한다구. NL 이만 실례.",
+      "우리의 새로운 NL ~붉은~ ~가면~ ~왕~ 에게 박수!",
+      "행운을 빌게, 두목!"
+    ]
+  },
+  "downfall:RedIOUUpgrade": {
+    "NAME": "도적단과의 계약+",
+    "FLAVOR": "도적단 삼인방과 합의를 봤단 증거입니다. 장신구로 대가를 치를 때도 있지만 대부분 목숨과 맞바꿉니다.",
+    "DESCRIPTIONS": [
+      "#b3 막 보스와 전투 시작 시, 붉은 가면 도적단이 더 열심히 도와줍니다."
+    ]
+  },
+  "downfall:KnowingSkull": {
+    "NAME": "뭐든지 아는 해골",
+    "FLAVOR": "이거 놔라!",
+    "DESCRIPTIONS": [
+      "매 전투 시작 시 체력을 바치고 영혼, 포션, 무색 카드 중 하나를 얻는 소원을 빌 수 있습니다."
+    ]
+  },
+  "downfall:HeartBlessingRed": {
+    "NAME": "심장의 축복받은 루비",
+    "FLAVOR": "심장이 강해졌습니다. 심장은 기뻐할 것입니다.",
+    "DESCRIPTIONS": [
+      "보스 전투 시작 시 #y힘을 #b1 얻습니다."
+    ]
+  },
+  "downfall:HeartBlessingBlue": {
+    "NAME": "심장의 축복받은 사파이어",
+    "FLAVOR": "심장이 기뻐할 것입니다.",
+    "DESCRIPTIONS": [
+      "보스 전투 시작 시 체력을 #b10 회복합니다."
+    ]
+  },
+  "downfall:HeartBlessingGreen": {
+    "NAME": "심장의 축복받은 에메랄드",
+    "FLAVOR": "심장은 모든 것입니다.",
+    "DESCRIPTIONS": [
+      "보스 전투 시작 시 #y민첩을 #b1 얻습니다."
+    ]
+  },
+  "downfall:BurdenOfKnowledge": {
+    "NAME": "지식의 부담",
+    "FLAVOR": "진리는 때론 상처가 됩니다.",
+    "DESCRIPTIONS": [
+      "획득 시 #r심장의 #r축복을 #r모두 #r잃고 최대 체력을 #b20 #r잃습니다. #y어떤 카드든 #y모두 영구적으로 #y강화합니다. 전투 시작 시 #y힘과 #y민첩을 #b2 잃습니다."
+    ]
+  },
+  "downfall:TeleportStone": {
+    "NAME": "순간이동석",
+    "FLAVOR": "집을 떠나기 전에 꼭 챙겨갈 물건입니다.",
+    "DESCRIPTIONS": [
+      "다음 방을 선택할 때 지도에서 보스를 제외한 방을 선택할 수 있습니다.",
+      "",
+      "이미 사용된 유물입니다."
+    ]
+  },
+  "downfall:HeartsMalice": {
+    "NAME": "심장의 악의",
+    "FLAVOR": "타락한 심장이 선사한 악의입니다.",
+    "DESCRIPTIONS": [
+      "앞으로 #b3 번의 전투 동안 적들이 겁에 질려 도망칩니다.",
+      "이미 사용된 유물입니다."
+    ]
+  },
+  "downfall:Hecktoplasm": {
+    "NAME": "내형질",
+    "FLAVOR": "이 점액질의 기운과 방울은 수백명의 영혼으로 넘쳐 보입니다. 아무도 원하지 않았던 게 당연했겠군요.",
+    "DESCRIPTIONS": [
+      "내 턴 시작 시 [E] 를 얻습니다. 앞으로 #y영혼을 얻을 수 없습니다. 열쇠를 부술 때 #y영혼을 소모하지 않습니다.",
+      "내형질"
+    ]
+  },
+  "downfall:BlackCandle": {
+    "NAME": "검은 양초",
+    "FLAVOR": "어둠 속에서도 불꽃이 환하게 밝혀줍니다.",
+    "DESCRIPTIONS": [
+      "#y사용불가인 #r저주를 사용할 수 있게 됩니다. 사용 가능한 #r저주의 비용은 #b0이 됩니다. #y저주를 사용하면 체력을 #b1 잃고 그 카드를 #y소멸시킵니다.",
+      "검은 양초"
+    ]
+  },
+  "downfall:replacements": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "상인, 보스, 엘리트 전투 동안, 내 턴 시작 시 [E] 를 얻습니다.",
+      "저주받은 동전",
+      "이 낡은 동전의 진정한 값어치를 아는 자는 거의 없습니다...",
+      "MVB 카드",
+      "정말 당신은 심장의 MVB(최고로 값진 보스) 입니다.",
+      "심장의 타락은 끝이 없어 소중한 애완동물도 없습니다.",
+      "타락한 배달원",
+      "심장의 상품이 품절되지 않으며 비용 또한 #b20% 감소합니다.",
+      "전투 후 카드 보상에 무색과 일반 캐릭터 카드가 추가됩니다.",
+      "내 턴 시작 시 [E] 를 얻습니다. 앞으로 #y영혼을 얻을 수 없습니다. 열쇠를 부술 때 #y영혼을 소모하지 않습니다."
+    ]
+  },
+  "downfall:LizardTail": {
+    "NAME": "강력한 도마뱀 꼬리",
+    "FLAVOR": "전투 중에 적들을 속이는 가짜 꼬리입니다.",
+    "DESCRIPTIONS": [
+      "사망 시 한 번에 한해 체력을 #b100% 회복합니다."
+    ]
+  },
+  "downfall:TestRelic": {
+    "NAME": "VFX 시험",
+    "FLAVOR": "어머나, 해내셨네요.",
+    "DESCRIPTIONS": [
+      "#p우클릭 #p시: 다음 카드를 사용합니다."
+    ]
+  },
+  "downfall:ExtraCursedKey": {
+    "NAME": "더욱 저주받은 열쇠",
+    "FLAVOR": "좋은 의도로 잠겨 있었을 것입니다.",
+    "DESCRIPTIONS": [
+      "매 턴 처음으로 #r저주를 뽑으면 [E] 를 얻습니다. NL 보스 이외의 상자를 열 때마다 #r상처를 얻습니다."
+    ]
+  },
+  "downfall:ExtraCursedBell": {
+    "NAME": "더욱 저주받은 방울",
+    "FLAVOR": "방울의 메아리가 들려도 어디 있는지 절대 확인할 수 없습니다.",
+    "DESCRIPTIONS": [
+      "획득 시 #r특별한 #r저주와 일반 유물을 #b3 개 얻습니다.",
+      "방울 소리가 두 번 울리고...",
+      "보상 넘기기",
+      "닫기"
+    ]
+  },
+  "downfall:BustedCrownGagText": {
+    "NAME": "부서진 왕관",
+    "FLAVOR": "모방은 진심 어린 극찬의 형태라는 게... 맞는 말일까요? 투사의 왕관과 닮지도 않았습니다. 오히려 모욕에 가까운 물건입니다.",
+    "DESCRIPTIONS": [
+      "내 턴 시작 시 [E] 를 얻습니다. 카드 보상을 받을 때 선택할 수 있는 카드가 #b2 장 줄어듭니다."
+    ]
+  }
+}

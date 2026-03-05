@@ -1,0 +1,86 @@
+{
+  "sneckomod:Unknown": {
+    "TEXT": [
+      "Inconnue",
+      " Améliorée ",
+      "Au début du combat, les cartes Inconnues se transforment en cartes aléatoires des classes choisies (sauf Frappe et Défense) selon certaines contraintes.",
+      " NL Classes choisies :",
+      "Au début du combat, les cartes Inconnues se transforment en autres cartes aléatoires de N'IMPORTE QUELLE classe (sauf Frappe et Défense) selon certaines contraintes.",
+      "Au début du combat, les cartes Inconnues se transforment en cartes aléatoires d'autres classes (sauf Frappe et Défense) selon certaines contraintes."
+    ]
+  },
+  "sneckomod:UnknownNames": {
+    "TEXT": [
+      "Inconnue"
+    ]
+  },
+  "sneckomod:UnknownClass": {
+    "TEXT": [
+      "???",
+      "Carte ",
+      " de ce Personnage.",
+      " *Inconnue",
+      " ",
+      "Vous n'auriez jamais dû voir ça. Reportez ceci à Vex",
+      "Version *Améliorée d'une "
+    ]
+  },
+  "sneckomod:UpgradedUnknownReward": {
+    "TEXT": [
+      "Ajoutez une carte Inconnue+ à votre deck",
+      "Prenez une Carte."
+    ]
+  },
+  "sneckomod:FreeRetainMod": {
+    "TEXT": [
+      "Retenue. NL "
+    ]
+  },
+  "sneckomod:ExhaustMod": {
+    "TEXT": [
+      " NL Épuisement."
+    ]
+  },
+  "sneckomod:ChallengeMode": {
+    "TEXT": [
+      "Mode Alternatif - Geckobra pur",
+      "Les Cadeaux peuvent être de n'importe quelle classe. Recommandé pour les joueurs qui aiment davantage le hasard et remporter la victoire dans le chaos."
+    ]
+  },
+  "sneckomod:LockInBonfireOptions": {
+    "TEXT": [
+      "Identifier",
+      "Verrouillez une carte Inconnue en carte permanente.",
+      "Requiert une carte Inconnue.",
+      "Sélectionnez une carte à ajouter dans votre deck, retirant son côté Inconnu.",
+      "[Action gratuite] Verrouillez une carte Inconnue en carte permanente."
+    ]
+  },
+  "sneckomod:CommonAttackReward": {
+    "TEXT": [
+      "Ajoutez une carte Hors-classe dans votre deck",
+      "Prenez une Carte."
+    ]
+  },
+  "sneckomod:DiceRollPotionReward": {
+    "TEXT": [
+      "Ajoutez une carte Améliorée dans votre deck.",
+      "Prenez une Carte."
+    ]
+  },
+  "sneckomod:ColorfulPowersCardReward": {
+    "TEXT": [
+      "Ajoutez un Pouvoir Amélioré dans votre deck.",
+      "Prenez une Carte."
+    ]
+  },
+  "sneckomod:AtGameStart": {
+    "TEXT": [
+      "",
+      "",
+      "Les cartes Inconnues peuvent devenir des cartes pour ",
+      " durant cette partie.",
+      "Choisissez."
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "hexamod:SpiritBrand": {
+    "NAME": "精神烙印",
+    "FLAVOR": "对约束的一道保护。",
+    "DESCRIPTIONS": [
+      "每回合首次 #y点燃 时，获得 #b",
+      " 点 #y格挡 。"
+    ]
+  },
+  "hexamod:TheBrokenSeal": {
+    "NAME": "挣破的封印",
+    "FLAVOR": "未阻，无限，不灭的力量。",
+    "DESCRIPTIONS": [
+      "拾起时，获得 #b",
+      " 点最大生命并回复所有生命。 NL 战斗开始时，获得 #b",
+      " 点 #y力量 、 #y敏捷 与 #yhexamod:热烈 。 NL 无法再获得本遗物与任何封印。"
+    ]
+  },
+  "hexamod:UnbrokenSoul": {
+    "NAME": "以太印记",
+    "FLAVOR": "看看我们能不能做得... 更好。",
+    "DESCRIPTIONS": [
+      "替换 ",
+      " 。 NL #y点燃 一枚鬼火时，获得 #b",
+      " 点 #y格挡 。"
+    ]
+  },
+  "hexamod:IceCube": {
+    "NAME": "幽灵雪花",
+    "FLAVOR": "我感觉……好冷。",
+    "DESCRIPTIONS": [
+      "回合开始时获得 [E] 。战斗开始时失去 #b",
+      " 点 #yhexamod:热烈 ，且无法再从 #y狱焱鬼火 获得 #y热烈 。"
+    ]
+  },
+  "hexamod:SoulStone": {
+    "NAME": "魂石",
+    "FLAVOR": "只需一点灵魂就能使这玩意生效！",
+    "DESCRIPTIONS": [
+      "每当你 #y消耗 #b",
+      " 张牌， #yhexamod:点燃 当前鬼火。"
+    ]
+  },
+  "hexamod:RecyclingMachine": {
+    "NAME": "回收器",
+    "FLAVOR": "总有一天它也会被回收掉。",
+    "DESCRIPTIONS": [
+      "每场战斗首张 #y虚无 牌消耗时，若非 #y诅咒 或 #y状态牌 ，将其 #b1 张复制品加入手牌，且单次耗能为 #b0 。"
+    ]
+  },
+  "hexamod:MatchstickCase": {
+    "NAME": "火爆火柴",
+    "FLAVOR": "划在哪儿都能着！",
+    "DESCRIPTIONS": [
+      "每回合首次 #y点燃 时，可选择是否 #y步进 或 #y回退 。"
+    ]
+  },
+  "hexamod:InflammatoryLetter": {
+    "NAME": "火种",
+    "FLAVOR": "火使一切更美好。",
+    "DESCRIPTIONS": [
+      "战斗开始时，获得 #b",
+      " 点 #yhexamod:热烈 。"
+    ]
+  },
+  "hexamod:SoulOfChaos": {
+    "NAME": "混沌灵魂",
+    "FLAVOR": "混乱，现出真身。",
+    "DESCRIPTIONS": [
+      "回合开始时，随机切换至一枚鬼火并将其随机替换。回合结束时，打出抽牌堆顶部的牌。 "
+    ]
+  },
+  "hexamod:JarOfFuel": {
+    "NAME": "谜之盾",
+    "FLAVOR": "按需防护。",
+    "DESCRIPTIONS": [
+      "打出 #y能力 牌时，可积累 #y灼热鬼火 与 #y碾压鬼火 的进度。"
+    ]
+  },
+  "hexamod:BolsterEngine": {
+    "NAME": "高热之杖",
+    "FLAVOR": "火焰护身！火焰助力。",
+    "DESCRIPTIONS": [
+      "每场战斗首次打出 #y能力 时，获得 #b",
+      " 点 #y格挡 与 #b",
+      " 点 #y力量 。"
+    ]
+  },
+  "hexamod:CandleOfCauterizing": {
+    "NAME": "红蜡烛",
+    "FLAVOR": "烈焰炙烤...",
+    "DESCRIPTIONS": [
+      "每当你给予 #y灼魂 时，额外给予 #b",
+      " 层。"
+    ]
+  },
+  "hexamod:Sixitude": {
+    "NAME": "六点烙印",
+    "FLAVOR": "点火，点火，点火，点火，点火，点 火！",
+    "DESCRIPTIONS": [
+      "每打出 #b",
+      " 张牌，获得 1 张耗能为0的基础 #y打击 的 #ygremlin:回响 。"
+    ]
+  },
+  "hexamod:Libra": {
+    "NAME": "天秤座",
+    "FLAVOR": "均衡，存乎万物之间。",
+    "DESCRIPTIONS": [
+      "选择牌组中任意数量的初始打击与防御，将其变化至相反类型。",
+      "纠正哪怕些许的不公。",
+      "选择任意张牌来将其变为相反类型的牌。"
+    ]
+  }
+}

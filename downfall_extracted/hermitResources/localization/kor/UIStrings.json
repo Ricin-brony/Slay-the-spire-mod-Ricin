@@ -1,0 +1,17 @@
+﻿{
+  "hermit:bountygold": {
+    "TEXT": [
+      " 골드 (현상금)"
+    ]
+  },
+  "hermit:LoneWolfAction": {
+    "TEXT": [
+      "킵."
+    ]
+  },
+  "hermit:SpecialFriend": {
+    "TEXT": [
+      "탄제린"
+    ]
+  }
+}

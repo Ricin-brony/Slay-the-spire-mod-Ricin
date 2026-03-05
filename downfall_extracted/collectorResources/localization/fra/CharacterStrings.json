@@ -1,0 +1,13 @@
+{
+  "collector:theCollector": {
+    "NAMES": [
+      "Le Collecteur",
+      "Le Collecteur"
+    ],
+    "TEXT": [
+      "La célèbre sorcière de la ville. NL Revendique les âmes et les reliques.",
+      "NL Votre bâton brille d'une lueur verte...",
+      "Naviguant dans une rue non éclairée, vous rencontrez plusieures figures encapuchonnées au milieu d'un rituel. Alors que vous vous approchez, ils se tournent vers vous en unisson. L'un des plus grands montre ses crocs et étire sa longue et pâle main. NL ~\"Rejoignez~ ~nous~ ~être~ ~spectral,~ ~et~ ~ressentez~ ~la~ ~chaleur~ ~de~ ~la~ ~Tour.\"~"
+    ]
+  }
+}

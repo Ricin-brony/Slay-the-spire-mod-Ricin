@@ -1,0 +1,521 @@
+﻿{
+  "Slimebound:PotencyPower": {
+    "NAME": "잠재력",
+    "DESCRIPTIONS": [
+      "생성된 슬라임의 피해량을 #b",
+      " 증가시킵니다. 각 슬라임의 고유 효과를 #b",
+      " 증가시킵니다."
+    ]
+  },
+  "Slimebound:SlimedPower": {
+    "NAME": "점액",
+    "DESCRIPTIONS": [
+      "해당 적을 #y공격 시 피해량이 #b",
+      " 증가하고 모든 #y점액을 #y소비합니다."
+    ]
+  },
+  "Slimebound:PreventTackleDamagePower": {
+    "NAME": "보호",
+    "DESCRIPTIONS": [
+      "#y태클 카드를 사용해 입는 반동 피해를 #b",
+      " 번 받지 않습니다."
+    ]
+  },
+  "Slimebound:SplitDailyTriggerPower": {
+    "NAME": "슬라임 분열",
+    "DESCRIPTIONS": [
+      "체력이 #b50% 이하라면 체력이 ",
+      "인 슬라임 #b2 마리로 #y분열합니다."
+    ]
+  },
+  "Slimebound:SplitDailyPower": {
+    "NAME": "분열 중",
+    "DESCRIPTIONS": [
+      "이 적은 이번 턴에 분열합니다."
+    ]
+  },
+  "Slimebound:BuffAttackSlimesPower": {
+    "NAME": "강화: 싸움꾼",
+    "DESCRIPTIONS": [
+      "#y싸움꾼 슬라임의 피해량이 #b",
+      " 증가합니다."
+    ]
+  },
+  "Slimebound:BuffPoisonSlimesPower": {
+    "NAME": "강화: 산성",
+    "DESCRIPTIONS": [
+      "#y산성 슬라임이 부여하는 중독이 #b",
+      " 증가합니다."
+    ]
+  },
+  "Slimebound:BuffSlimingSlimesPower": {
+    "NAME": "강화: 진흙탕",
+    "DESCRIPTIONS": [
+      "#y진흙탕 슬라임이 부여하는 #y점액이 #b",
+      " 증가합니다."
+    ]
+  },
+  "Slimebound:BuffShieldSlimesPower": {
+    "NAME": "강화: 거머리",
+    "DESCRIPTIONS": [
+      "#y거머리 슬라임의 피해량이 #b",
+      " 증가합니다."
+    ]
+  },
+  "Slimebound:HexSlimePerTurnPower": {
+    "NAME": "육각의 힘",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 #y유령불꽃 슬라임을 생성합니다.",
+      "내 다음 #b",
+      " 턴 동안 턴 시작 시 #y유령불꽃 슬라임을 생성합니다."
+    ]
+  },
+  "Slimebound:ProtectTheBoss": {
+    "NAME": "두목을 지켜라",
+    "DESCRIPTIONS": [
+      "다음 번 적의 공격으로 체력 잃는 것을 막아줍니다. 대신 최근에 생성한 슬라임을 #y흡수합니다.",
+      "적의 공격으로 체력 잃는 것을 #b",
+      " 번 막아줍니다. 대신 최근에 생성한 슬라임을 #y흡수합니다."
+    ]
+  },
+  "Slimebound:SplitForLessPower": {
+    "NAME": "효과적인 끈적이",
+    "DESCRIPTIONS": [
+      "#y분열에 소모되는 체력을 #b",
+      " 줄입니다. 매 턴 무작위 #y분열 카드를 #b",
+      " 장 얻습니다.",
+      " 장 얻습니다."
+    ]
+  },
+  "Slimebound:ComboAttackPower": {
+    "NAME": "시범을 보여주지",
+    "DESCRIPTIONS": [
+      "가장 최근에 생성된 슬라임이 매 턴 처음으로 카드를 사용한 대상에게 공격합니다.",
+      "가장 최근에 생성된 슬라임이 매 턴 최대 #b",
+      " 번 카드를 사용한 대상에게 공격합니다.",
+      " NL 이 효과는 이번 턴에 #b",
+      " 번 더 발동할 수 있습니다.",
+      " 번 더 발동할 수 있습니다.",
+      " NL 이번 턴에 더 이상 발동하지 않습니다."
+    ]
+  },
+  "Slimebound:RetainCardsOneTurnPower": {
+    "NAME": "카드 준비",
+    "DESCRIPTIONS": [
+      "이번 턴에 카드를 #b",
+      " 장 #y보존합니다.",
+      " 장 #y보존합니다."
+    ]
+  },
+  "Slimebound:EnergizedSlimeboundPower": {
+    "NAME": "에너지 충전",
+    "DESCRIPTIONS": [
+      "다음 턴에 에너지를 #b",
+      " 얻습니다.",
+      " 얻습니다.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "Slimebound:SelfFormingGooPower": {
+    "NAME": "재형성",
+    "DESCRIPTIONS": [
+      "슬라임을 #y흡수할 때마다 #y힘을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Slimebound:SelfFormingGooPowerPlus": {
+    "NAME": "재형성+",
+    "DESCRIPTIONS": [
+      "슬라임을 #y흡수할 때마다 #y민첩을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Slimebound:LoseSlimesPower": {
+    "NAME": "과로",
+    "DESCRIPTIONS": [
+      "다음 턴에 모든 슬라임을 #y흡수합니다.",
+      " 턴 후 모든 슬라임을 #y흡수합니다."
+    ]
+  },
+  "Slimebound:TackleModifyDamagePower": {
+    "NAME": "엉망진창",
+    "DESCRIPTIONS": [
+      "이름에 \"태클\" 이 붙은 카드 하나당 피해량이 #b",
+      " 증가합니다."
+    ]
+  },
+  "Slimebound:LoseThornsPower": {
+    "NAME": "사그라드는 가시",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 #y가시를 #b",
+      " 잃습니다."
+    ]
+  },
+  "Slimebound:SlimedThornsPower": {
+    "NAME": "살아있는 벽",
+    "DESCRIPTIONS": [
+      "이번 턴에 공격자에게 #y점액을 #b",
+      " 부여합니다."
+    ]
+  },
+  "Slimebound:PreventSlimeDecayPower": {
+    "NAME": "점액 투성이",
+    "DESCRIPTIONS": [
+      "다음 #y공격은 #y점액을 소모하지 않고 #y점액 효과가 적용됩니다.",
+      "최대 #b",
+      " 번 다음 #y공격은 #y점액을 소모하지 않고 #y점액 효과가 적용됩니다."
+    ]
+  },
+  "Slimebound:DuplicatedFormPower": {
+    "NAME": "복제의 형상",
+    "DESCRIPTIONS": [
+      "매 턴 처음으로 적에게 사용한 카드가 #b2 번 사용됩니다.",
+      "매 턴 처음으로 적에게 사용한 카드 #b",
+      " 장이 #b2 번 사용됩니다."
+    ]
+  },
+  "Slimebound:DuplicatedFormNoHealPower": {
+    "NAME": "분열",
+    "DESCRIPTIONS": [
+      "최대 체력이 일시적으로 #b",
+      " 감소합니다."
+    ]
+  },
+  "Slimebound:DuplicatedFormEnergyPower": {
+    "NAME": "다 같이 한 몸",
+    "DESCRIPTIONS": [
+      "내 턴 시작 시 에너지를 #b",
+      " 얻습니다."
+    ]
+  },
+  "Slimebound:GluttonyPower": {
+    "NAME": "폭식",
+    "DESCRIPTIONS": [
+      "매 턴 처음으로 #y소비했을 때 #y핥기 카드를 얻습니다.",
+      "매 턴 최대 #b ",
+      " 번 #y소비했을 때 #y핥기 카드를 얻습니다.",
+      " NL 이 효과는 이번 턴에 #b",
+      " 번 더 발동할 수 있습니다.",
+      " 번 더 발동할 수 있습니다.",
+      " NL 이번 턴에 더 이상 발동하지 않습니다."
+    ]
+  },
+  "Slimebound:GluttonyPowerUpgraded": {
+    "NAME": "폭식+",
+    "DESCRIPTIONS": [
+      "매 턴 무작위 #y강화된 #y핥기 카드를 #b",
+      " 장 얻습니다.",
+      " 장 얻습니다."
+    ]
+  },
+  "Slimebound:PoisonThornsPower": {
+    "NAME": "산성 점액",
+    "DESCRIPTIONS": [
+      "#y점액을 보유한 적을 공격하면 #y중독을 #b",
+      " 부여합니다."
+    ]
+  },
+  "Slimebound:SlimeRitualPower": {
+    "NAME": "의식",
+    "DESCRIPTIONS": [
+      "매 턴 시작 시 #y힘을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Slimebound:RecyclingPower": {
+    "NAME": "재수거",
+    "DESCRIPTIONS": [
+      "내 턴 시작 시 #y소멸된 카드 더미에서 무작위 #y핥기 카드를 #b",
+      " 장 가져옵니다.",
+      " 장 가져옵니다."
+    ]
+  },
+  "Slimebound:RecyclingPowerUpgraded": {
+    "NAME": "재수거+",
+    "DESCRIPTIONS": [
+      "체력을 #b",
+      " 회복하고 #y소멸된 비용이 #b0 인 카드를 #b1 장 가져옵니다."
+    ]
+  },
+  "Slimebound:AcidTonguePower": {
+    "NAME": "산성 혓바닥",
+    "DESCRIPTIONS": [
+      "#y점액을 부여할 때마다 #y중독을 #b",
+      " 부여합니다."
+    ]
+  },
+  "Slimebound:AcidTonguePowerUpgraded": {
+    "NAME": "점액질 혓바닥",
+    "DESCRIPTIONS": [
+      "부여하는 #y점액이 #b",
+      " 증가합니다."
+    ]
+  },
+  "Slimebound:SelfDamageSlimedPower": {
+    "NAME": "흩어진 끈적이",
+    "DESCRIPTIONS": [
+      "체력을 잃을 때마다 무작위 적에게 #y점액을 #b",
+      " 부여합니다."
+    ]
+  },
+  "Slimebound:TackleBuffPower": {
+    "NAME": "공격적인 태클",
+    "DESCRIPTIONS": [
+      "이름에 \"태클\" 이 붙은 카드 하나당 피해량이 #b",
+      " 증가합니다."
+    ]
+  },
+  "Slimebound:PolyBeamAgainPower": {
+    "NAME": "교차 광선",
+    "DESCRIPTIONS": [
+      "다음 내 턴 시작 시 #y다연발 #y광선을 사용합니다. ",
+      "다음 #b",
+      " 턴 동안 내 턴 시작 시 #y다연발 #y광선을 사용합니다."
+    ]
+  },
+  "Slimebound:PolyBeamAgainPowerUpgraded": {
+    "NAME": "교차 광선+",
+    "DESCRIPTIONS": [
+      "다음 내 턴 시작 시 #y다연발 #y광선+이 사용합니다. ",
+      "다음 #b",
+      " 턴 동안 내 턴 시작 시 #y다연발 #y광선+을 사용합니다."
+    ]
+  },
+  "Slimebound:FirmFortitudePower": {
+    "NAME": "우리의 고통을 맛봐라",
+    "DESCRIPTIONS": [
+      "내 턴에 다음으로 체력을 잃으면 적이 대신 피해를 받습니다.",
+      "#b",
+      " 번 다음으로 내 턴에 체력을 잃으면 적이 대신 피해를 받습니다.",
+      " NL 이 효과는 이번 턴에 #b",
+      " 번 더 발동할 수 있습니다.",
+      " 번 더 발동할 수 있습니다.",
+      " NL 이번 턴에 더 이상 발동하지 않습니다."
+    ]
+  },
+  "Slimebound:NextTurnGainStrengthPower": {
+    "NAME": "힘 모으기",
+    "DESCRIPTIONS": [
+      "다음 내 턴에 #y힘을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Slimebound:NextTurnGainSlimeCrush": {
+    "NAME": "으깨기 준비",
+    "DESCRIPTIONS": [
+      "내 다음 턴에 #g슬라임 #g으깬다!!! 를 얻습니다.",
+      "내 다음 턴에 #g슬라임 #g으깬다!!!+ 를 얻습니다.",
+      "내 다음 턴에 #b",
+      " 장 #g슬라임 #g으깬다!!! 를 얻습니다.",
+      " 장 #g슬라임 #g으깬다!!!+ 를 얻습니다."
+    ]
+  },
+  "Slimebound:StunnedPower": {
+    "NAME": "완전 탈진",
+    "DESCRIPTIONS": [
+      "내 다음 턴을 강제로 넘깁니다.",
+      "내 다음 #b",
+      " 턴을 강제로 넘깁니다."
+    ]
+  },
+  "Slimebound:NextTurnGainHyperBeam": {
+    "NAME": "빔 준비 중",
+    "DESCRIPTIONS": [
+      "내 다음 턴에 #y파괴 #y광선을 얻습니다.",
+      "내 다음 턴에 #y파괴 #y광선을 #b",
+      " 장 얻습니다."
+    ]
+  },
+  "Slimebound:NextTurnGainDivider": {
+    "NAME": "분할 준비",
+    "DESCRIPTIONS": [
+      "내 다음 턴에 #y분할을 얻습니다.",
+      "내 다음 턴에 #y분할을 #b",
+      " 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyAutomatonPower": {
+    "NAME": "자동인형 연구",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y청동 #y자동인형 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y청동 #y자동인형 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyAutomatonPowerUpgraded": {
+    "NAME": "자동인형 연구+",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y강화된 #y청동 #y자동인형 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y강화된 #y청동 #y자동인형 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyAwakenedPower": {
+    "NAME": "깨어난 자 연구",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y깨어난 #y자 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y깨어난 #y자 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyAwakenedPowerUpgraded": {
+    "NAME": "깨어난자 연구+",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y강화된 #y깨어난 #y자 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y강화된 #y깨어난 #y자 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:AwakenedOnePower": {
+    "NAME": "어두운 의식",
+    "DESCRIPTIONS": [
+      "이 적이 이번 턴에 공격하지 않으면 #y힘을 #b",
+      " 얻습니다."
+    ]
+  },
+  "Slimebound:StudyChampPower": {
+    "NAME": "투사 연구",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y투사 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y투사 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyChampPowerUpgraded": {
+    "NAME": "투사 연구+",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y강화된 #y투사 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y강화된 #y투사 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyCollectorPower": {
+    "NAME": "수집가 연구",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y수집가 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y수집가 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyCollectorPowerUpgraded": {
+    "NAME": "수집가 연구+",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y강화된 #y수집가 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y강화된 #y수집가 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyGuardianPower": {
+    "NAME": "수호자 연구",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y수호자 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y수호자 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyGuardianPowerUpgraded": {
+    "NAME": "수호자 연구+",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y강화된 #y수호자 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y강화된 #y수호자 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyHexaghostPower": {
+    "NAME": "육각령 연구",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y육각령 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y육각령 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyHexaghostPowerUpgraded": {
+    "NAME": "육각령 연구+",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y강화된 #y육각령 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y강화된 #y육각령 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyShapesPower": {
+    "NAME": "도누 & 데카 연구",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y도누 #y& #y데카 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y도누 #y& #y데카 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyShapesPowerUpgraded": {
+    "NAME": "도누 & 데카 연구+",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y강화된 #y도누 #y& #y데카 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y강화된 #y도누 #y& #y데카 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyTimeEaterPower": {
+    "NAME": "시간 포식자 연구",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y시간 #y포식자 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y시간 #y포식자 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:StudyTimeEaterPowerUpgraded": {
+    "NAME": "시간 포식자 연구+",
+    "DESCRIPTIONS": [
+      "내 다음 턴 시작 시 무작위 #y강화된 #y시간 #y포식자 카드를 #b1 장 얻습니다.",
+      "내 다음 #b ",
+      " 턴 동안 턴 시작 시 무작위 #y강화된 #y시간 #y포식자 카드를 #b1 장 얻습니다."
+    ]
+  },
+  "Slimebound:GreedRespawnPower": {
+    "NAME": "욕심쟁이 수액 회복 중",
+    "DESCRIPTIONS": [
+      "내 턴이 끝나면 #y욕심쟁이 #y수액이 되살아납니다."
+    ]
+  },
+  "Slimebound:ScrapRespawnPower": {
+    "NAME": "날붙이 수액 회복 중",
+    "DESCRIPTIONS": [
+      "내 턴이 끝나면 #y날붙이 #y수액이 되살아납니다."
+    ]
+  },
+  "Slimebound:BuffSecondarySlimeEffectsPower": {
+    "NAME": "졸개 대장",
+    "DESCRIPTIONS": [
+      "#y명령하면 한 번 더 #y명령합니다.",
+      "#y명령하면 #b",
+      " 번 더 #y명령합니다."
+    ]
+  },
+  "Slimebound:TackleSelfDamagePreventPower": {
+    "NAME": "무모함",
+    "DESCRIPTIONS": [
+      "이름에 \"태클\" 이 붙은 카드의 피해량이 #b",
+      " 증가합니다."
+    ]
+  },
+  "Slimebound:GoopArmorPower": {
+    "NAME": "끈적이 갑옷",
+    "DESCRIPTIONS": [
+      "#y점액을 보유한 적을 #y공격할 때마다 #y방어도를 #b",
+      " 얻습니다."
+    ]
+  },
+  "Slimebound:CommandOnPlayPower": {
+    "NAME": "집결",
+    "DESCRIPTIONS": [
+      "이번 턴에 다음으로 카드를 사용하면 #y명령합니다.",
+      "이번 턴에 최대 #b",
+      " 번 카드를 사용할 때마다 #y명령합니다."
+    ]
+  },
+  "Slimebound:GoopPerTurnPower": {
+    "NAME": "점액 목욕",
+    "DESCRIPTIONS": [
+      "적 턴 시작 시 #y점액을 #b",
+      " 부여합니다."
+    ]
+  }
+}

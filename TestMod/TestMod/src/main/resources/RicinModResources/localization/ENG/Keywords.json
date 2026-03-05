@@ -3,7 +3,7 @@
     "NAMES": [
       "Eternalize"
     ],
-    "DESCRIPTION": "Place #yEcho cards into empty echo slots. When #yCharon triggers, all echo effects in the slots are triggered."
+    "DESCRIPTION": "Eternalize: Place cards that can #yEcho into empty echo slots."
   },
   {
     "NAMES": [
@@ -21,6 +21,6 @@
     "NAMES": [
       "Charon"
     ],
-    "DESCRIPTION": "Consume the rightmost card in the echo bar, trigger echo effects based on Ember layers, and gain 1 energy."
+    "DESCRIPTION": "Charon: Consume the rightmost card in the echo bar and trigger its echo effect a number of times equal to Ember layers."
   }
 ]

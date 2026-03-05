@@ -1,0 +1,132 @@
+{
+  "champ:ChampionCrown": {
+    "NAME": "冠军金冠",
+    "FLAVOR": "你是冠军！",
+    "DESCRIPTIONS": [
+      "每场战斗可进入当前另一种 #y姿态 一次。"
+    ]
+  },
+  "champ:BlackKnightHelmet": {
+    "NAME": "黑骑头盔",
+    "FLAVOR": "只受到一点擦伤。",
+    "DESCRIPTIONS": [
+      "每场战斗首次进入每种 #y姿态 时： NL #bchamp:防守 ：获得 #b2 点 #y敏捷 并失去 #b1 点 #y力量 。 NL #rchamp:战狂 ：获得 #b2 点 #y力量 并失去 #b1 点 #y敏捷 。"
+    ]
+  },
+  "champ:Barbells": {
+    "NAME": "杠铃",
+    "FLAVOR": "1000 下？切，我还能做 1001 下。",
+    "DESCRIPTIONS": [
+      "进入 #y休息处 时，若至少有 #b",
+      " 张未 #y升级 的牌，随机 #y升级 其中 #b1 张。"
+    ]
+  },
+  "champ:BerserkersGuideToSlaughter": {
+    "NAME": "战狂指南",
+    "FLAVOR": "文字难以辨认。",
+    "DESCRIPTIONS": [
+      "回合开始时，获得 #b",
+      " 层 #y活力 。"
+    ]
+  },
+  "champ:ChampionCrownUpgraded": {
+    "NAME": "终极王冠",
+    "FLAVOR": "恭喜！！你是最大的赢家。",
+    "DESCRIPTIONS": [
+      "替换 ",
+      " 。 NL 战斗开始时，进入 #ychamp:终极 并持续 #b",
+      " 回合 。"
+    ]
+  },
+  "champ:RageAmulet": {
+    "NAME": "不屈护符",
+    "FLAVOR": "那些转瞬即逝的力量再次涌入身躯，彷佛它不曾离开过。",
+    "DESCRIPTIONS": [
+      "你每消耗 #b",
+      " 层 #y活力 时，获得 #b1 点 #y力量 。"
+    ]
+  },
+  "champ:DefensiveTrainingManual": {
+    "NAME": "防御训练手册",
+    "FLAVOR": "专业提示：不要被打到。",
+    "DESCRIPTIONS": [
+      " #bchamp:防守 的 #ychamp:终结技 奖励额外提供 #b",
+      " 点 #y格挡 。"
+    ]
+  },
+  "champ:DeflectingBracers": {
+    "NAME": "偏折护腕",
+    "FLAVOR": "如果你觉得格挡很好的话……",
+    "DESCRIPTIONS": [
+      "敌方回合结束后，你自动失去的 #y格挡 转化为半量的 #ychamp:反击 。"
+    ]
+  },
+  "champ:DuelingGlove": {
+    "NAME": "决斗手套",
+    "FLAVOR": "从十开始数……",
+    "DESCRIPTIONS": [
+      "单体 #y攻击 牌造成伤害后，若目标无 #y易伤 ，给予 #b1 层。"
+    ]
+  },
+  "champ:FightingForDummies": {
+    "NAME": "格斗读本",
+    "FLAVOR": "第一步，打败敌人",
+    "DESCRIPTIONS": [
+      "回合结束时若不处于 #y姿态 ，下回合额外抽 #b1 张牌。"
+    ]
+  },
+  "champ:GladiatorsBookOfMartialProwess": {
+    "NAME": "角斗技法",
+    "FLAVOR": "凡事都要先试试 - 即使有时没能成功。",
+    "DESCRIPTIONS": [
+      "每当你一回合内打出过进入 #y姿态 、 #ychamp:连段 与 #ychamp:终结技 ，获得 #b1 点 #y力量 与 #y敏捷 。"
+    ]
+  },
+  "champ:PowerArmor": {
+    "NAME": "力量铠甲",
+    "FLAVOR": "买来的。",
+    "DESCRIPTIONS": [
+      "回合开始时，获得 [E] 。 NL 最大 #y活力 与 #ychamp:反击 层数被限为 #b",
+      " 。"
+    ]
+  },
+  "champ:SignatureFinisher": {
+    "NAME": "终结者",
+    "FLAVOR": "是时候该使出我的终结一击了。",
+    "DESCRIPTIONS": [
+      "拾起时，选择 #b1 张 #ychamp:终结技 ，其耗能变为 #b0 ，能在未处于 #y姿态 时打出且不会退出 #y姿态 。",
+      "选择一张终结技 ",
+      " 的耗能为 #b0 ，能在不处于姿态时打出且不会退出姿态。",
+      "相关牌已被 #r移出 牌组，本遗物不再生效。"
+    ]
+  },
+  "champ:SpectersHand": {
+    "NAME": "幽灵之手",
+    "FLAVOR": "有些胜利与你同在。",
+    "DESCRIPTIONS": [
+      "进入 #y姿态 时，获得 #b1 张 #b0 耗能带 #y消耗 的打击或防御。"
+    ]
+  },
+  "champ:LiftRelic": {
+    "NAME": "内在力量",
+    "FLAVOR": "是关于你心中那把巨大的剑。",
+    "DESCRIPTIONS": [
+      "战斗开始时，获得 #b",
+      " 点 #y力量 。"
+    ]
+  },
+  "champ:ChampStancesModRelic": {
+    "NAME": "新晋者",
+    "FLAVOR": "你能拿走金冠吗？",
+    "DESCRIPTIONS": [
+      "战斗开始时，随机进入一种 #y姿态 。"
+    ]
+  },
+  "champ:BustedCrownGagText": {
+    "NAME": "破碎金冠",
+    "FLAVOR": "仿制是最真挚的奉承……吗？这看起来不像你的金冠，更像对你的羞辱。",
+    "DESCRIPTIONS": [
+      "在每回合开始时获得 [E] 。在卡牌奖励画面，可供选择的牌数减少 #b2 张。"
+    ]
+  }
+}

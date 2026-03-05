@@ -1,0 +1,17 @@
+{
+  "hermit:bountygold": {
+    "TEXT": [
+      " Gold (Bounty)"
+    ]
+  },
+  "hermit:LoneWolfAction": {
+    "TEXT": [
+      "keep."
+    ]
+  },
+  "hermit:SpecialFriend": {
+    "TEXT": [
+      "Tangerine"
+    ]
+  }
+}

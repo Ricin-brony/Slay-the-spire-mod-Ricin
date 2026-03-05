@@ -1,0 +1,139 @@
+{
+  "expansioncontent:StudyTheSpirePower": {
+    "NAME": "Study The Spire",
+    "DESCRIPTIONS": [
+      "Gain a random #yBoss card at the start of next turn. NL It costs #b0 until played.",
+      "Gain a random #yBoss card at the start of the next #b",
+      " turns. NL They cost #b0 until played.",
+      "Gain a random #yUpgraded #yBoss card at the start of next turn. NL It costs #b0 until played.",
+      "Gain a random #yUpgraded #yBoss card at the start of the next #b",
+      " turns. NL They cost #b0 until played."
+    ]
+  },
+  "expansioncontent:AwakenedOnePower": {
+    "NAME": "Dark Ritual",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yStrength if this enemy does not attack on its turn."
+    ]
+  },
+  "expansioncontent:AwakenDeathPower": {
+    "NAME": "Awakening",
+    "DESCRIPTIONS": [
+      "When you would die, heal #b",
+      " HP and remove this effect."
+    ]
+  },
+  "expansioncontent:ChronoBoostPower": {
+    "NAME": "Chrono Boost",
+    "DESCRIPTIONS": [
+      "After playing #b",
+      " more cards, gain #b",
+      " #yStrength [REMOVE_SPACE]."
+    ]
+  },
+  "expansioncontent:ChronoBoostPlusPower": {
+    "NAME": "Chrono Boost+",
+    "DESCRIPTIONS": [
+      "After playing #b",
+      " more cards, gain #b",
+      " #yStrength [REMOVE_SPACE]."
+    ]
+  },
+  "expansioncontent:DeEnergizedPower": {
+    "NAME": "De-Energized",
+    "DESCRIPTIONS": [
+      "At the start of your next turn, lose #b",
+      " [E] ."
+    ]
+  },
+  "expansioncontent:PolyBeamAgainPower": {
+    "NAME": "Potency",
+    "DESCRIPTIONS": [
+      "#yPoly #yBeam will be played at the start of your next turn. ",
+      "#yPoly #yBeam will be played at the start of your next #b",
+      " turns."
+    ]
+  },
+  "expansioncontent:PolyBeamAgainPowerUpgraded": {
+    "NAME": "Potency",
+    "DESCRIPTIONS": [
+      "#yPoly #yBeam+ will be played at the start of your next turn. ",
+      "#yPoly #yBeam+ will be played at the start of your next #b",
+      " turns."
+    ]
+  },
+  "expansioncontent:AddCopyPower": {
+    "NAME": "Delayed Card",
+    "DESCRIPTIONS": [
+      "Add ",
+      " into your hand at the start of your next turn."
+    ]
+  },
+  "expansioncontent:AddSameInstancePower": {
+    "NAME": "Delayed Card",
+    "DESCRIPTIONS": [
+      "Add ",
+      " into your hand at the start of your next turn."
+    ]
+  },
+  "expansioncontent:NextTurnExhumePower": {
+    "NAME": "Delayed Exhume",
+    "DESCRIPTIONS": [
+      "Exhume ",
+      " at the start of your next turn."
+    ]
+  },
+  "expansioncontent:PretendHexWheelPower": {
+    "NAME": "Hexaburn",
+    "DESCRIPTIONS": [
+      "In #b",
+      " turns, deal #b",
+      "At the end of your turn, deal #b",
+      " damage to a random enemy #b6 times."
+    ]
+  },
+  "expansioncontent:BeatOfDeathP": {
+    "NAME": "Beat of Death",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "expansioncontent:PandemoniumPower":{
+    "NAME": "Pandemonium",
+    "DESCRIPTIONS": [
+      "At the start of your turn, play a random card from your discard pile.",
+      "At the start of your turn, play #b",
+      " random cards from your discard pile."
+    ]
+  },
+  "expansioncontent:EvilWithinPower":{
+    "NAME": "The Evil Within",
+    "DESCRIPTIONS": [
+      "Deal #b",
+      " damage to ALL enemies after applying #b",
+      " more debuffs.",
+      " more debuff."
+    ]
+  },
+  "expansioncontent:ReveriePower":{
+  "NAME": "Reverie",
+  "DESCRIPTIONS": [
+    "At the start of your turn, look at the top card of your discard pile and add it to your hand.",
+    "At the start of your turn, look at the top #b",
+    " cards of your discard pile and choose one to add to your hand.",
+    "Choose a card to add to your hand."
+  ]
+},
+  "expansioncontent:VexVinciblePower": {
+    "NAME": "Invincible",
+    "DESCRIPTIONS": [
+      "Caps all damage and HP loss taken to #b",
+      " in a turn. Removed after activation.",
+      "Caps all damage and HP loss taken to #b",
+      " in a turn. Removed after #b",
+      " activations."
+    ]
+  }
+}

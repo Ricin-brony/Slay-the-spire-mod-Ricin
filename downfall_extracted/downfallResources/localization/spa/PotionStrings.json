@@ -1,0 +1,11 @@
+{
+  "downfall:CursedFountainPotion": {
+    "NAME": "Líquido de Fuente Maldita",
+    "DESCRIPTIONS": [
+      "Aplica #b",
+      " #yDébil, #b",
+      " #yVulnerable, y reduce la #yFuerza en #b",
+      "."
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "expansioncontent:StudyCardRelic": {
+    "NAME": "Pequeño Sombrero Hongo",
+    "FLAVOR": "Quien controle el sombrero, controla la Aguja.",
+    "DESCRIPTIONS": [
+      "Al inicio del combate, elige #b1 de #b3 cartas Jefe para obtener."
+    ]
+  }
+}

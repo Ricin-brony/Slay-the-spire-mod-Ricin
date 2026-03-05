@@ -1,0 +1,232 @@
+[
+  {
+    "NAMES": [
+      "absorb",
+      "absorbing",
+      "absorbed",
+      "吸収"
+    ],
+    "PROPER_NAME": "吸収",
+    "DESCRIPTION": "先頭の スライム を自発的に組み替えた時 #y筋力 #b1 を得る。"
+  },
+  {
+    "NAMES": [
+      "split",
+      "splitting",
+      "分裂",
+      "産み出す"
+    ],
+    "PROPER_NAME": "分裂",
+    "DESCRIPTION": "ターン開始時に攻撃する #yスライムミニオン を1体産み出す。 NL 空きスロットが無い場合、一番古いスライムは自動的に #y吸収 され、 #y筋力 #b1 に変わる。"
+  },
+  {
+    "NAMES": [
+      "goop",
+      "gooped",
+      "汚泥"
+    ],
+    "PROPER_NAME": "汚泥",
+    "DESCRIPTION": "次の攻撃時 #y汚泥 分ダメージを増加させる。全ての #y汚泥 を除去し、 #y使用 した時の効果を発動する。"
+  },
+  {
+    "NAMES": [
+      "potency",
+      "効力"
+    ],
+    "PROPER_NAME": "効力",
+    "DESCRIPTION": "#yスライムミニオン の全てのダメージを増加させる。副効果は効力 #b2 毎に #b1 増加する。"
+  },
+  {
+    "NAMES": [
+      "command",
+      "commands",
+      "命令"
+    ],
+    "PROPER_NAME": "命令",
+    "DESCRIPTION": "先頭のスライムが攻撃する。"
+  },
+  {
+    "NAMES": [
+      "torchhead slime",
+      "torchhead_slime",
+      "トーチヘッドスライム"
+    ],
+    "PROPER_NAME": "トーチヘッドスライム",
+    "DESCRIPTION": "ターン開始時 #b6 ダメージを与える。あなたの #y筋力 の影響を受ける。"
+  },
+  {
+    "NAMES": [
+      "bruiser_slime",
+      "bruiser slimes",
+      "bruiser_slimes",
+      "bruiser",
+      "ブルーザースライム"
+    ],
+    "PROPER_NAME": "ブルーザースライム",
+    "DESCRIPTION": "ターン開始時 #b3 ダメージを2回与える"
+  },
+  {
+    "NAMES": [
+      "cultist_slime",
+      "カルティストスライム"
+    ],
+    "PROPER_NAME": "カルティストスライム",
+    "DESCRIPTION": "ターン開始時 #b6 ダメージを与える。攻撃時、ダメージを #b1 上昇させる。"
+  },
+  {
+    "NAMES": [
+      "leeching_slime",
+      "leeching slimes",
+      "leeching_slimes",
+      "leeching",
+      "リーチングスライム"
+    ],
+    "PROPER_NAME": "リーチングスライム",
+    "DESCRIPTION": "ターン開始時 #b1 ダメージを与え あなたに #b3 #yブロック を付与する。"
+  },
+  {
+    "NAMES": [
+      "guerilla_slime",
+      "guerilla slimes",
+      "guerilla_slimes",
+      "Guerilla_Slime",
+      "guerilla",
+      "ゲリラスライム"
+    ],
+    "PROPER_NAME": "ゲリラスライム",
+    "DESCRIPTION": "ターン開始時敵全体に #b3 ダメージを与える。"
+  },
+  {
+    "NAMES": [
+      "mire_slime",
+      "mire slimes",
+      "mire_slimes",
+      "mire",
+      "マイアスライム"
+    ],
+    "PROPER_NAME": "マイアスライム",
+    "DESCRIPTION": "ターン開始時 #b2 ダメージと #y汚泥 #b2 を与える。"
+  },
+  {
+    "NAMES": [
+      "bronze slime",
+      "bronze_slime",
+      "ブロンズスライム"
+    ],
+    "PROPER_NAME": "ブロンズスライム",
+    "DESCRIPTION": "ターン開始時敵全体に #b10 ダメージを与えるが、それ以外の攻撃がスキップされる。"
+  },
+  {
+    "NAMES": [
+      "lick",
+      "舐める"
+    ],
+    "PROPER_NAME": "舐める",
+    "DESCRIPTION": "#y汚泥 を付与する0コストカード。"
+  },
+  {
+    "NAMES": [
+      "ghostflame slime",
+      "ghostflame_slime",
+      "ゴーストフレイムスライム"
+    ],
+    "PROPER_NAME": "ゴーストフレイムスライム",
+    "DESCRIPTION": "ターン開始時 #b3 ダメージと #b6 #yソウルバーン を与える。"
+  },
+  {
+    "NAMES": [
+      "slow",
+      "スロウ"
+    ],
+    "PROPER_NAME": "スロウ",
+    "DESCRIPTION": "1ターンにプレイしたカード1枚毎に被ダメージが #b10% 増加する。"
+  },
+  {
+    "NAMES": [
+      "tackle",
+      "tackles",
+      "タックル"
+    ],
+    "PROPER_NAME": "タックル",
+    "DESCRIPTION": "高い威力を持つ #yアタック 。自分にも少量のダメージを与える。"
+  },
+  {
+    "NAMES": [
+      "spire boss",
+      "spire_boss",
+      "スパイアボス"
+    ],
+    "PROPER_NAME": "スパイアボス",
+    "DESCRIPTION": "塔のボスをイメージした、強力な0コストカード。"
+  },
+  {
+    "NAMES": [
+      "protector slime",
+      "protector_slime",
+      "スパイキースライム"
+    ],
+    "PROPER_NAME": "スパイキースライム",
+    "DESCRIPTION": "ターン開始時 #b4 ダメージを与え、主人に #b4 #y一時的なトゲ を付与する。"
+  },
+  {
+    "NAMES": [
+      "insulting slime",
+      "insulting_slime",
+      "インサルティングスライム"
+    ],
+    "PROPER_NAME": "インサルティングスライム",
+    "DESCRIPTION": "ターン開始時 #b4 ダメージと、 #y弱体 #b1 を与える。"
+  },
+  {
+    "NAMES": [
+      "darkling slime",
+      "darkling_slime",
+      "ダークリングスライム"
+    ],
+    "PROPER_NAME": "ダークリングスライム",
+    "DESCRIPTION": "ターン開始時 #b3 ダメージを与える。命令されると他のダークリングスライムも攻撃する。"
+  },
+  {
+    "NAMES": [
+      "ancient slime",
+      "ancient_slime",
+      "エンシェントスライム"
+    ],
+    "PROPER_NAME": "エンシェントスライム",
+    "DESCRIPTION": "ターン開始時 #b3 ダメージを与え、主人にカードを #b1 枚ドローさせる。"
+  },
+  {
+    "NAMES": [
+      "time slime",
+      "time_slime",
+      "タイムスライム"
+    ],
+    "PROPER_NAME": "タイムスライム",
+    "DESCRIPTION": "ターン開始時 #b4 ダメージと、 #y脱力 #b1 を与える。"
+  },
+  {
+    "NAMES": [
+      "consume",
+      "泥食い"
+    ],
+    "PROPER_NAME": "泥食い",
+    "DESCRIPTION": "#y汚泥 を持つ敵に #yアタック を使用した場合に発動するボーナス効果。"
+  },
+  {
+    "NAMES": [
+      "specialist",
+      "specialist",
+      "上級スライム"
+    ],
+    "PROPER_NAME": "上級スライム",
+    "DESCRIPTION": "通常のスライムよりも強力なユニークスライム。"
+  },
+  {
+    "NAMES": [
+      "buried",
+      "埋没"
+    ],
+    "PROPER_NAME": "埋没",
+    "DESCRIPTION": "埋没 を持つカードは #y発掘 の効果を受ける時常に最後に選択される。"
+  }
+]

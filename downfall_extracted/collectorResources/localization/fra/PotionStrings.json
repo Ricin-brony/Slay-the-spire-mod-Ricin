@@ -1,0 +1,36 @@
+{
+  "collector:MiniCursePotion": {
+    "NAME": "Extrait d'âme",
+    "DESCRIPTIONS": [
+      "Appliquez #b1 de #yFaiblesse, #b1 de #yVulnérabilité, et #b6 de #yCondamnation.",
+      "Appliquez #b",
+      " de #yFaiblesse, #b",
+      " de #yVulnérabilité, et #b",
+      " de #yCondamnation [REMOVE_SPACE]."
+    ]
+  },
+  "collector:ReservePotion": {
+    "NAME": "Potion de réserve",
+    "DESCRIPTIONS": [
+      "Gagnez #b2 de #yRéserve.",
+      "Gagnez #b",
+      " de #yRéserve [REMOVE_SPACE]."
+    ]
+  },
+  "collector:DebuffDoublePotion": {
+    "NAME": "Huiles d'embaumement",
+    "DESCRIPTIONS": [
+      "Doublez les débuffs de la cible.",
+      "Multipliez les débuff de la cible par #b",
+      "."
+    ]
+  },
+  "collector:TempHPPotion": {
+    "NAME": "Eau-Fel",
+    "DESCRIPTIONS": [
+      "Gagnez #b8 #yPV #yTemporaires",
+      "Gagnez #b",
+      " #yPV #yTemporaires [REMOVE_SPACE]."
+    ]
+  }
+}

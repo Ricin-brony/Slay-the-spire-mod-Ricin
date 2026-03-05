@@ -1,0 +1,121 @@
+{
+  "Slimebound:EmptySlimeSlot": {
+    "NAME": "Slime Slot",
+    "DESCRIPTION": [
+      "Slime minions can be placed in these slots through #ySplitting [REMOVE_SPACE]."
+    ]
+  },
+  "Slimebound:BronzeSlime": {
+    "NAME": "Bronze Slime",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage to ALL enemies at the start of your turn and skips its next attack.",
+      ""
+    ]
+  },
+  "Slimebound:AttackSlime": {
+    "NAME": "Bruiser Slime",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage twice at the start of your turn."
+    ]
+  },
+  "Slimebound:ScrapOozeSlime": {
+    "NAME": "Scrap Ooze",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage at the start of your turn. NL Can be revived if #yAbsorbed [REMOVE_SPACE]."
+    ]
+  },
+  "Slimebound:GreedOozeSlime": {
+    "NAME": "Greed Ooze",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage at the start of your turn. NL Can be revived if #yAbsorbed [REMOVE_SPACE]."
+    ]
+  },
+  "Slimebound:TorchHeadSlime": {
+    "NAME": "Torch Head Slime",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage at the start of your turn. Gains damage from your #yStrength [REMOVE_SPACE]."
+    ]
+  },
+  "Slimebound:CultistSlime": {
+    "NAME": "Cultist Slime",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage at the start of your turn. After attacking, increases its damage by #b1 [REMOVE_SPACE]."
+    ]
+  },
+  "Slimebound:ShieldSlime": {
+    "NAME": "Leeching Slime",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage at the start of your turn and grants you #b",
+      " #yBlock [REMOVE_SPACE]."
+    ]
+  },
+  "Slimebound:PoisonSlime": {
+    "NAME": "Guerilla Slime",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage to ALL enemies at the start of your turn."
+    ]
+  },
+  "Slimebound:SlimingSlime": {
+    "NAME": "Mire Slime",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage and applies #b",
+      " #yGoop at the start of your turn."
+    ]
+  },
+  "Slimebound:HexSlime": {
+    "NAME": "Ghostflame Slime",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage and applies #b",
+      " #ySoulburn at the start of your turn."
+    ]
+  },
+  "Slimebound:ChampSlime": {
+    "NAME": "Insulting Slime",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage and applies #b",
+      " #yVulnerable at the start of your turn."
+    ]
+  },
+  "Slimebound:SlowingSlime": {
+    "NAME": "Time Slime",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage and applies #b",
+      " #yWeak at the start of your turn."
+    ]
+  },
+  "Slimebound:ProtectorSlime": {
+    "NAME": "Spiky Slime",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage at the start of your turn and grants you #b",
+      " Temporary #yThorns [REMOVE_SPACE]."
+    ]
+  },
+  "Slimebound:DrawingSlime": {
+    "NAME": "Ancient Slime",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage at the start of your turn and causes you to draw #b",
+      " card. Draw does not scale with Potency."
+    ]
+  },
+  "Slimebound:DarklingSlime": {
+    "NAME": "Darkling Slime",
+    "DESCRIPTION": [
+      "Deals #b",
+      " damage at the start of your turn. When you Command, all Darklings will attack (regardless of position)."
+    ]
+  }
+}

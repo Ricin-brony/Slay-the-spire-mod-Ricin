@@ -1,0 +1,34 @@
+{
+  "bronze:FreeFunctionsPotion": {
+    "NAME": "Maschinenöl",
+    "DESCRIPTIONS": [
+      "Erhöhe die Zahlen der derzeit #ykodierten Karten, abgesehen von den Kosten, um #b",
+      " [REMOVE_SPACE]."
+    ]
+  },
+  "bronze:CleanCodePotion": {
+    "NAME": "Matetee",
+    "DESCRIPTIONS": [
+      "Entferne alle #yKompilierungsfehler [REMOVE_SPACE], die gerade #ykodiert sind. Die nächste #yFunktion [REMOVE_SPACE], die #ykompiliert [REMOVE_SPACE], kostet #b0 bis du sie spielst.",
+      "Entferne alle #yKompilierungsfehler [REMOVE_SPACE], die gerade #ykodiert sind. Die nächsten #b",
+      " #yFunktionen [REMOVE_SPACE], die #ykompilieren [REMOVE_SPACE], kosten #b0 bis du sie spielst."
+    ]
+  },
+  "bronze:BurnAndBuffPotion": {
+    "NAME": "Überhitzte Wärmepaste",
+    "DESCRIPTIONS": [
+      "Erhalte #b",
+      " #yStärke und #b",
+      " #yGeschicklichkeit [REMOVE_SPACE]. NL Lege zwei #yBrennen+ Karten in den Abwurfstapel."
+    ]
+  },
+  "bronze:BuildAFunctionPotion": {
+    "NAME": "Kios Clevere Mixtur",
+    "DESCRIPTIONS": [
+      "Wähle #b1 von #b3 zufälligen Karten zum #yKodieren [REMOVE_SPACE]. Wiederhole das, bis eine #yFunktion kompiliert.",
+      "Wähle #b1 von #b3 zufälligen Karten zum #yKodieren [REMOVE_SPACE]. Wiederhole das, bis eine #yFunktion kompiliert. Nimm zusätzlich #b",
+      " Kopie der Funktion auf die Hand.",
+      " Kopien der Funktion auf die Hand."
+    ]
+  }
+}

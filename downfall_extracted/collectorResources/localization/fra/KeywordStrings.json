@@ -1,0 +1,55 @@
+[
+  {
+    "PROPER_NAME": "Affligé",
+    "NAMES": [
+      "affligé",
+      "affligés",
+	    "afflicted"
+    ],
+    "DESCRIPTION": "Une créature est affligée quand elle est #yVulnérable et #yAffaiblie."
+  },
+  {
+    "PROPER_NAME": "Condamnation",
+    "NAMES": [
+      "condamnation",
+      "condamnée",
+  	  "doom",
+      "doomed"
+    ],
+    "DESCRIPTION": "Les créatures condamnées perdent des PV au début de leur tour, ensuite la condamnation est retirée #bsauf #bsi la créature est #yAffligée (#yAffaiblie et #yVulnérable en même temps)."
+  },
+  {
+    "PROPER_NAME": "Bûcher",
+    "NAMES": [
+      "pyre",
+      "bûcher"
+    ],
+    "DESCRIPTION": "Nécessite d'épuiser une carte en main en plus de payer son coût en énergie."
+  },
+  {
+    "PROPER_NAME": "Réserve",
+    "NAMES": [
+      "reserve",
+      "reserves",
+      "réserve",
+      "réserves"
+    ],
+    "DESCRIPTION": "Un autre type d'énergie qui est stockée entre les tours."
+  },
+  {
+    "PROPER_NAME": "Méga-Éthérée",
+    "NAMES": [
+      "megathereal",
+      "méga-éthérée"
+    ],
+    "DESCRIPTION": "Les cartes Méga-Éthérées quand elles sont jouées ET à la fin de votre tour, peu importe leur emplacement."
+  },
+  {
+    "PROPER_NAME": "Tête de torche",
+    "NAMES": [
+      "torchhead",
+      "tête_de_torche"
+    ],
+    "DESCRIPTION": "Lorsque vous avez des #yPV #yTemporaires, chaque Attaque que vous jouez déclenche Tête de Torche."
+  }
+]

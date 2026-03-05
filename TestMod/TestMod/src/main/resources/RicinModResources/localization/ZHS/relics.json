@@ -1,0 +1,9 @@
+{
+  "RicinMod:DreamChime": {
+    "NAME": "悬梦铃铛",
+    "FLAVOR": "梦境的余响，在耳边轻轻回荡。",
+    "DESCRIPTIONS": [
+      "战斗开始时，获得 #b1 层 #y余温 。并使 #b所有单位 获得 #b3 层 #y金属化 。"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "PROPER_NAME": "Kodieren",
+    "NAMES": [
+      "kodieren",
+      "kodiert",
+      "kodierung",
+      "kodierte",
+      "kodierten",
+      "kodiere",
+      "encode",
+      "encoded"
+    ],
+    "DESCRIPTION": "Eine Karte, die beim Spielen kodiert wird, landet nicht auf den Abwurfstapel. NL Sind 3 Karten kodiert, #ykompilieren sie zu einer #yFunktion [REMOVE_SPACE], die #b1 kostet und die Effekte der kodierten Karten kombiniert."
+  },
+  {
+    "PROPER_NAME": "Kompilieren",
+    "NAMES": [
+      "kompilieren",
+      "kompiliert",
+      "kompilierung",
+      "kompilation",
+      "kompilierungsfehler",
+      "compile",
+      "compiled"
+    ],
+    "DESCRIPTION": "Kompilierungseffekte werden aktiviert, wenn entsprechende Karten zu einer #yFunktion kompilieren. NL Ist der Effekt negativ, wird er als #yKompilierungsfehler bezeichnet."
+  },
+  {
+    "PROPER_NAME": "Verschwimmen",
+    "NAMES": [
+      "verschwimmen",
+      "verschwommen",
+      "blur"
+    ],
+    "DESCRIPTION": "Block wird zu Beginn des Zuges nicht entfernt."
+  },
+  {
+    "PROPER_NAME": "Einsetzten",
+    "NAMES": [
+      "einsetzen",
+      "einsatz",
+      "setze",
+      "setzt",
+      "insert"
+    ],
+    "DESCRIPTION": "Mische bestimmte Karten in den Nachziehstapel."
+  },
+  {
+    "PROPER_NAME": "Umtauschen",
+    "NAMES": [
+      "umtausch",
+      "umtauschen",
+      "tausche",
+      "cycle"
+    ],
+    "DESCRIPTION": "Wirf Handkarten ab und ziehe genauso viele aus dem Nachziestapel."
+  }
+]

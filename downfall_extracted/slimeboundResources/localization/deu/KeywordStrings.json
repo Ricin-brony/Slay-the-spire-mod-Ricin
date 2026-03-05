@@ -1,0 +1,271 @@
+[
+  {
+    "NAMES": [
+      "absorbieren",
+      "absorbiere",
+      "absorbiert",
+      "absorbierst",
+      "absorb",
+      "absorbing",
+      "absorbed"
+    ],
+    "PROPER_NAME": "Absorbieren",
+    "DESCRIPTION": "Vereinige dich einem Schleimuntertanen und erhalte dabei #b1 #yStärke [REMOVE_SPACE]."
+  },
+  {
+    "NAMES": [
+      "spalten",
+      "spalte",
+      "gespalten",
+      "gespaltet",
+      "abspalten",
+      "abspalte",
+      "abspaltest",
+      "abgespalten",
+      "abgespaltet",
+      "abgespalteten",
+      "abgespaltenen",
+      "abgespaltete",
+      "abgespaltene",
+      "abzuspalten",
+      "abspaltung",
+      "split",
+      "splitting"
+    ],
+    "PROPER_NAME": "Abspalten",
+    "DESCRIPTION": "Spalte einen Schleimuntertanen von dir ab. Er greift am Anfang jedes Zuges an. Wenn du keine Schleim-Slots übrig hast, wird dein ältester Schleimuntertan #yabsorbiert, und du erhältst #b1 #yStärke [REMOVE_SPACE]."
+  },
+  {
+    "NAMES": [
+      "glibber",
+      "glibbers",
+      "geglibbert",
+      "angeglibbert",
+      "goop",
+      "gooped"
+    ],
+    "PROPER_NAME": "Glibber",
+    "DESCRIPTION": "Der Schaden des nächsten #yAngriffs wird um die Anzahl des #yGlibbers erhöht. Ein #yAngriff entfernt sämtlichen #yGlibber und aktiviert #yKonsum Effekte."
+  },
+  {
+    "NAMES": [
+      "potenz",
+      "potency"
+    ],
+    "PROPER_NAME": "Potenz",
+    "DESCRIPTION": "Erhöht den Schaden deiner abgespalteten Schleimuntertanen. Sekundäreffekte erhöhen sich um pro #b2 Potenzpunkten um #b1 (aufgerundet)."
+  },
+  {
+    "NAMES": [
+      "kommando",
+      "kommandieren",
+      "kommandiere",
+      "kommandiert",
+      "kommandierst",
+      "command",
+      "commands"
+    ],
+    "PROPER_NAME": "Kommando",
+    "DESCRIPTION": "Gibt Schleimuntertanen das Angriffskommando. Falls nicht näher spezifiziert, greift nur der führende (jüngste) Schleimuntertan an."
+  },
+  {
+    "NAMES": [
+      "fackelschleim",
+      "torchhead slime",
+      "torchhead_slime"
+    ],
+    "PROPER_NAME": "Fackelschleim",
+    "DESCRIPTION": "Fügt mit seinem Angriff #b6 Schaden zu. Der Schaden erhöht sich zusätzlich durch #yStärke."
+  },
+  {
+    "NAMES": [
+      "kampfschleim",
+      "kampf",
+      "bruiser slime",
+      "bruiser_slime",
+      "bruiser slimes",
+      "bruiser_slimes",
+      "bruiser"
+    ],
+    "PROPER_NAME": "Kampfschleim",
+    "DESCRIPTION": "Fügt mit seinem Angriff 2 Mal #b3 Schaden zu."
+  },
+  {
+    "NAMES": [
+      "krähenschleim",
+      "cultist slime",
+      "cultist_slime"
+    ],
+    "PROPER_NAME": "Krähenschleim",
+    "DESCRIPTION": "Fügt mit seinem Angriff #b6 Schaden zu und erhöht danach seinen Schaden um #b1."
+  },
+  {
+    "NAMES": [
+      "beschützerschleim",
+      "leeching slime",
+      "leeching_slime",
+      "leeching slimes",
+      "leeching_slimes",
+      "leeching"
+    ],
+    "PROPER_NAME": "Beschützerschleim",
+    "DESCRIPTION": "Fügt mit seinem Angriff #b1 Schaden zu und gibt dir danach #b3 #yBlock."
+  },
+  {
+    "NAMES": [
+      "minischleim",
+      "guerilla slime",
+      "guerilla_slime",
+      "guerilla slimes",
+      "guerilla_slimes",
+      "guerilla"
+    ],
+    "PROPER_NAME": "Minischleim",
+    "DESCRIPTION": "Fügt mit seinem Angriff ALLEN Gegnern #b3 Schaden zu."
+  },
+  {
+    "NAMES": [
+      "schlammschleim",
+      "mire slime",
+      "mire_slime",
+      "mire slimes",
+      "mire_slimes",
+      "mire"
+    ],
+    "PROPER_NAME": "Schlammschleim",
+    "DESCRIPTION": "Fügt mit seinem Angriff #b2 Schaden zu und wendet danach #b2 #yGlibber an."
+  },
+  {
+    "NAMES": [
+      "strahlschleim",
+      "bronze slime",
+      "bronze_slime"
+    ],
+    "PROPER_NAME": "Strahlschleim",
+    "DESCRIPTION": "Fügt ALLEN Gegnern #b10 Schaden zu und setzt den nächsten Angriff aus."
+  },
+  {
+    "NAMES": [
+      "wabbel",
+      "wabbeln",
+      "wabbler",
+      "lick"
+    ],
+    "PROPER_NAME": "Wabbel",
+    "DESCRIPTION": "Karten, die 0 kosten und #yGlibber anwenden."
+  },
+  {
+    "NAMES": [
+      "geisterschleim",
+      "ghostflame slime",
+      "ghostflame_slime"
+    ],
+    "PROPER_NAME": "Geisterschleim",
+    "DESCRIPTION": "Fügt mit seinem Angriff #b2 Schaden zu und wendet danach #b6 #ySeelenfeuer an."
+  },
+  {
+    "NAMES": [
+      "langsam",
+      "slow"
+    ],
+    "PROPER_NAME": "Langsam",
+    "DESCRIPTION": "Erhält #b10% mehr Schaden für jede Karte, die in diesem Zug ausgespielt wird."
+  },
+  {
+    "NAMES": [
+      "tackle",
+      "tackles"
+    ],
+    "PROPER_NAME": "Tackle",
+    "DESCRIPTION": "#yAngriffe mit hohem Schaden, die auch dir etwas Schaden zufügen."
+  },
+  {
+    "NAMES": [
+      "spire boss",
+      "spire_boss"
+    ],
+    "PROPER_NAME": "Spire Boss",
+    "DESCRIPTION": "Starke, von Spire Bossen inspirierte Karten, die 0 kosten."
+  },
+  {
+    "NAMES": [
+      "dornenschleim",
+      "protector slime",
+      "protector_slime"
+    ],
+    "PROPER_NAME": "Dornenschleim",
+    "DESCRIPTION": "Fügt mit seinem Angriff #b4 Schaden zu und gibt dir danach #b4 #ytemporäre #yStacheln."
+  },
+  {
+    "NAMES": [
+      "spötterschleim",
+      "insulting slime",
+      "insulting_slime"
+    ],
+    "PROPER_NAME": "Spötterschleim",
+    "DESCRIPTION": "Fügt mit seinem Angriff #b4 Schaden zu und wendet danach #b1 #yVerwundbar an."
+  },
+  {
+    "NAMES": [
+      "dunkeling",
+      "dunkelinge",
+      "darkling slime",
+      "darkling_slime"
+    ],
+    "PROPER_NAME": "Dunkeling",
+    "DESCRIPTION": "Fügt mit seinem Angriff #b3 Schaden zu. Greift auch an, wenn ein anderer Dunkeling #ykommandiert wird."
+  },
+  {
+    "NAMES": [
+      "antiker schleim",
+      "antiker_schleim",
+      "antiken schleim",
+      "antiken_schleim",
+      "ancient slime",
+      "ancient_slime"
+    ],
+    "PROPER_NAME": "Antiker Schleim",
+    "DESCRIPTION": "Fügt mit seinem Angriff #b3 Schaden zu. Danach ziehst du #b1 Karte."
+  },
+  {
+    "NAMES": [
+      "zeitschleim",
+      "time slime",
+      "time_slime"
+    ],
+    "PROPER_NAME": "Zeitschleim",
+    "DESCRIPTION": "Fügt mit seinem Angriff #b4 Schaden zu, und wendet danach #b1 #ySchwach an."
+  },
+  {
+    "NAMES": [
+      "konsumieren",
+      "konsumierst",
+      "konsumiert",
+      "konsumiere",
+      "konsum",
+      "consume"
+    ],
+    "PROPER_NAME": "Konsumieren",
+    "DESCRIPTION": "#yGlibber des Gegners wird konsumiert, wenn er angegriffen wird. Manche #yAngriffe haben einen Bonuseffekt, wenn durch sie #ykonsumiert wird."
+  },
+  {
+    "NAMES": [
+      "spezialist",
+      "spezialisten",
+      "specialist",
+      "specialist"
+    ],
+    "PROPER_NAME": "Spezialist",
+    "DESCRIPTION": "Besondere Schleime mit stärkeren Angriffen ."
+  },
+  {
+    "NAMES": [
+      "begraben",
+      "begrabe",
+      "begrabene",
+      "buried"
+    ],
+    "PROPER_NAME": "Begraben",
+    "DESCRIPTION": "Begrabene Karten haben die niedrigste Priorität bei zufälligen #yExhumieren Effekten."
+  }
+]

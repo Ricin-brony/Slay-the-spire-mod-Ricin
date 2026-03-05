@@ -1,0 +1,202 @@
+{
+  "Gremlin:Agony": {
+    "NAME": "Agonizing Pain",
+    "DESCRIPTIONS": [
+      "#yAttacks deal #b",
+      "% less damage for #b",
+      " turn.",
+      " turns."
+    ]
+  },
+  "Gremlin:Bang": {
+    "NAME": "Bang",
+    "DESCRIPTIONS": [
+      "The next attack you play consumes all stacks of #yWiz and deals #b", " additional damage."
+    ]
+  },
+  "Gremlin:Bashed": {
+    "NAME": "Bashed",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yBlock this turn, loses #b", " HP."
+    ]
+  },
+  "Gremlin:BubbleBarrier": {
+    "NAME": "Bubble Barrier",
+    "DESCRIPTIONS": [
+      "Whenever you play a card this turn, gain #b", " #yBlock [REMOVE_SPACE]."
+    ]
+  },
+  "Gremlin:CongaLine": {
+    "NAME": "Conga Line",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain ",
+      "and #ySwap to the next Gremlin."
+    ]
+  },
+  "Gremlin:Crippled": {
+    "NAME": "Crippled",
+    "DESCRIPTIONS": [
+      "Whenever this enemy gains #yWeak [REMOVE_SPACE], they lose #b",
+      " HP."
+    ]
+  },
+  "Gremlin:Encore": {
+    "NAME": "Encore",
+    "DESCRIPTIONS": [
+      "#yWiz deals #b", " additional damage."
+    ]
+  },
+  "Gremlin:Enthusiasm": {
+    "NAME": "Enthusiasm",
+    "DESCRIPTIONS": [
+      "Whenever you #ySwap, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Gremlin:FatGremlin": {
+    "NAME": "Fat Gremlin",
+    "DESCRIPTIONS": [
+      "Whenever you play an attack, apply #b",
+      " #yWeak to all targets."
+    ]
+  },
+  "Gremlin:Flex": {
+    "NAME": "Strength Down",
+    "DESCRIPTIONS": [
+      "At the end of this turn, lose #b",
+      " #yStrength [REMOVE_SPACE]."
+    ]
+  },
+  "Gremlin:Furious": {
+    "NAME": "Furious",
+    "DESCRIPTIONS": [
+      "Whenever you would gain #yBlock this turn, instead deal that much damage to ALL enemies."
+    ]
+  },
+  "Gremlin:GremlinNob": {
+    "NAME": "Gremlin Nob",
+    "DESCRIPTIONS": [
+      "At the start of each turn, gain #b3 Gremlin Nob cards. You can no longer #ySwap [REMOVE_SPACE]. When you would lose all #yTemporary #yHP [REMOVE_SPACE], prevent further damage and revert back."
+    ]
+  },
+  "Gremlin:GremlinWizard": {
+    "NAME": "Gremlin Wizard",
+    "DESCRIPTIONS": [
+      "Whenever you play a Skill, gain #b",
+      " #yWiz [REMOVE_SPACE]."
+    ]
+  },
+  "Gremlin:Heckle": {
+    "NAME": "Heckle",
+    "DESCRIPTIONS": [
+      "Whenever you apply a debuff to an enemy, gain #b",
+      " #yTemporary #yHP [REMOVE_SPACE]."
+    ]
+  },
+  "Gremlin:InfiniteBlocks": {
+    "NAME": "Infinite Blocks",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain  #b",
+      " #yWard [REMOVE_SPACE].",
+      " #yWards [REMOVE_SPACE]."
+    ]
+  },
+  "Gremlin:MadGremlin": {
+    "NAME": "Mad Gremlin",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yTemporary #yStrength when attacked."
+    ]
+  },
+  "Gremlin:MakeshiftArmor": {
+    "NAME": "Makeshift Armor",
+    "DESCRIPTIONS": [
+      "Play #b",
+      " more attack to gain #b",
+      " more attacks to gain #b",
+      " #yArtifact [REMOVE_SPACE]."
+    ]
+  },
+  "Gremlin:MakingMagic": {
+    "NAME": "Making Magic",
+    "DESCRIPTIONS": [
+      "At the start of your next turn, gain #b",
+      " copy of #yBang [REMOVE_SPACE].",
+      " copies of #yBang [REMOVE_SPACE]."
+    ]
+  },
+  "Gremlin:MakingMoreMagic": {
+    "NAME": "Making Magic+",
+    "DESCRIPTIONS": [
+      "At the start of your next turn, gain #b",
+      " #yUpgraded copy of #yBang [REMOVE_SPACE].",
+      " #yUpgraded copies of #yBang [REMOVE_SPACE]."
+    ]
+  },
+  "Gremlin:Polish": {
+    "NAME": "Polish",
+    "DESCRIPTIONS": [
+      "#yWards grant #b",
+      " additional #yBlock [REMOVE_SPACE]."
+    ]
+  },
+  "Gremlin:Scatter": {
+    "NAME": "Scatter",
+    "DESCRIPTIONS": [
+      "The next #b",
+      " time you would lose HP, instead #ySwap into a random Gremlin.",
+      " times you would lose HP, instead #ySwap into a random Gremlin."
+    ]
+  },
+  "Gremlin:ShadowShiv": {
+    "NAME": "Shadow Shiv",
+    "DESCRIPTIONS": [
+      "Whenever you play an Attack that doesn't #yExhaust, gain #b",
+      " #yShiv [REMOVE_SPACE].",
+      " #yShivs [REMOVE_SPACE]."
+    ]
+  },
+  "Gremlin:ShieldGremlin": {
+    "NAME": "Shield Gremlin",
+    "DESCRIPTIONS": [
+      "Whenever you play a Skill, gain #b",
+      " #yBlock [REMOVE_SPACE]."
+    ]
+  },
+  "Gremlin:SneakyGremlin": {
+    "NAME": "Sneaky Gremlin",
+    "DESCRIPTIONS": [
+      "0 cost Attacks have their damage increased by #b",
+      " [REMOVE_SPACE]. Whenever you play an Attack, deal #b",
+      " damage to a random enemy."
+    ]
+  },
+  "Gremlin:TargetWeakness": {
+    "NAME": "Target Wounds",
+    "DESCRIPTIONS": [
+      "Deal #b",
+      " additional damage to #yWeakened enemies."
+    ]
+  },
+  "Gremlin:Unforgiving": {
+    "NAME": "Unforgiving",
+    "DESCRIPTIONS": [
+      "You cannot lose #yStrength [REMOVE_SPACE]."
+    ]
+  },
+  "Gremlin:Wiz": {
+    "NAME": "Wiz",
+    "DESCRIPTIONS": [
+      "Charging up. NL Need #b", " more stack.", " more stacks.",
+      "Ready to fire."
+    ]
+  },
+  "Gremlin:Wizardry": {
+    "NAME": "Wizardry",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b",
+      " #yWiz [REMOVE_SPACE]."
+    ]
+  }
+}

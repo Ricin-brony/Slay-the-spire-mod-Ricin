@@ -1,0 +1,32 @@
+{
+  "hexamod:SoulburnPotion": {
+    "NAME": "モロトフ",
+    "DESCRIPTIONS": [
+      "#yソウルバーン #b",
+      " を与える。"
+    ]
+  },
+  "hexamod:DoubleChargePotion": {
+    "NAME": "燃焼剤",
+    "DESCRIPTIONS": [
+      "現在のゴーストフレイムを #b",
+      " 回 #y点火 する。"
+    ]
+  },
+  "hexamod:EctoCoolerPotion": {
+    "NAME": "エクトクーラー",
+    "DESCRIPTIONS": [
+      "ランダムな #yエセリアル を持つカード #b3 枚から #b1 枚を選択し、手札に加える。このターン、そのコストは #b0",
+      "ランダムな #yエセリアル を持つカード #b3 枚から #b1 枚を選択し、 #b",
+      " 枚のコピーを手札に加える。このターン、そのコストは #b0"
+    ]
+  },
+  "hexamod:InfernoChargePotion": {
+    "NAME": "インフェルノポーション",
+    "DESCRIPTIONS": [
+     "この戦闘中、ゴーストフレイムの効果が全ての敵を対象にするようになる。",
+     "この戦闘中、ゴーストフレイムの効果が全ての敵を #b",
+     " 回 対象にするようになる。"
+    ]
+  }
+}

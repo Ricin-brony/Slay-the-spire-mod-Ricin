@@ -1,0 +1,25 @@
+{
+  "hexamod:SealCommonReward": {
+    "TEXT": [
+      "デッキに1枚のコモンカードを加える。"
+    ]
+  },
+  "hexamod:SealSealReward": {
+    "TEXT": [
+      "デッキに封印を加える。",
+      "カードを選ぶ。"
+    ]
+  },
+  "hexamod:SealDescriptor": {
+    "TEXT": [
+      "封印",
+      "hexamod:封印 NL "
+    ]
+  },
+  "hexamod:SealMode": {
+    "TEXT": [
+      "レガシーモード - 六つの封印",
+      "戦闘後、定期的に封印カードを報酬として追加する。封印を集めると特殊なレリックを入手できる。このオプションを有効にするとゲームが簡単になります。"
+    ]
+  }
+}

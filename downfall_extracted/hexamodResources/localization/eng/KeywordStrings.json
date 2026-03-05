@@ -1,0 +1,115 @@
+[
+  {
+    "PROPER_NAME": "Active",
+    "NAMES": [
+      "active"
+    ],
+    "DESCRIPTION": "The #yActive Ghostflame can be #yIgnited by meeting its listed Ignition requirements."
+  },
+  {
+    "PROPER_NAME": "Advance",
+    "NAMES": [
+      "advance",
+      "advanced",
+      "advancing"
+    ],
+    "DESCRIPTION": "Move to the next Ghostflame. Moving onto a Ghostflame #yExtinguishes it."
+  },
+  {
+    "PROPER_NAME": "Retract",
+    "NAMES": [
+      "retract",
+      "retracted",
+      "retracting"
+    ],
+    "DESCRIPTION": "Move to the previous Ghostflame. Moving onto a Ghostflame #yExtinguishes it."
+  },
+  {
+    "PROPER_NAME": "Intensity",
+    "NAMES": [
+      "intensity"
+    ],
+    "DESCRIPTION": "Intensity increases the damage, #ySoulburn [REMOVE_SPACE], and #yBlock [REMOVE_SPACE] applied by Ghostflames when #yIgnited."
+  },
+  {
+    "ID": "soulburn",
+    "PROPER_NAME": "Soulburn",
+    "NAMES": [
+      "soulburn",
+      "soulburned"
+    ],
+    "DESCRIPTION": "After #b3 turns, a Soulburned enemy loses HP, removing the Soulburn effect."
+  },
+  {
+    "PROPER_NAME": "Extinguish",
+    "NAMES": [
+      "extinguish",
+      "extinguished"
+    ],
+    "DESCRIPTION": "Allows a Ghostflame to become #yIgnited again, resetting its Ignition requirements."
+  },
+  {
+    "PROPER_NAME": "Ignite",
+    "NAMES": [
+      "ignite",
+      "ignited",
+      "force-ignite"
+    ],
+    "DESCRIPTION": "Triggers the Ignition effect described on a Ghostflame."
+  },
+  {
+    "PROPER_NAME": "Seal",
+    "NAMES": [
+      "seal"
+    ],
+    "DESCRIPTION": "Seal cards drop from Elite combats. The more you play a Seal card, the more likely you are to find different kinds. If all #b6 Seals have been played during a combat, obtain #pThe #pBroken #pSeal and remove the #b6 Seals from your deck."
+  },
+  {
+    "ID": "afterlife",
+    "PROPER_NAME": "Afterlife",
+    "NAMES": [
+      "afterlife"
+    ],
+    "DESCRIPTION": "The purple effect will also trigger when this card is #yExhausted [REMOVE_SPACE]."
+  },
+  {
+    "PROPER_NAME": "Crushing",
+    "NAMES": [
+      "crushing"
+    ],
+    "DESCRIPTION": "#yGhostflame. #yIgnites when #b2 #ySkills are played when you are on it. #yIgnition [REMOVE_SPACE]: When #yIgnited [REMOVE_SPACE], deal #b3 damage to a random enemy twice.",
+    "TRANSLATOR_NOTE": "Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used "
+  },
+  {
+    "PROPER_NAME": "Bolstering",
+    "NAMES": [
+      "bolstering"
+    ],
+    "DESCRIPTION": "#yGhostflame. #yIgnites when a #yPower is played when you are on it. #yIgnition [REMOVE_SPACE]: When #yIgnited [REMOVE_SPACE], gain #b4 #yBlock and #b1 #yStrength [REMOVE_SPACE].",
+    "TRANSLATOR_NOTE": "Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used "
+  },
+  {
+    "ID": "plated",
+    "PROPER_NAME": "Plated Armor",
+    "NAMES": [
+      "plated"
+    ],
+    "DESCRIPTION": "At the end of your turn, gain #yBlock equal to your #yPlated #yArmor [REMOVE_SPACE]. Taking unblocked attack damage reduces #yPlated #yArmor by #b1."
+  },
+  {
+    "PROPER_NAME": "Searing",
+    "NAMES": [
+      "searing"
+    ],
+    "DESCRIPTION": "#yGhostflame. #yIgnites when #b2 #yAttacks are played when you are on it. #yIgnition [REMOVE_SPACE]: When #yIgnited [REMOVE_SPACE], apply #b3 #ySoulburn to a random enemy, twice [REMOVE_SPACE].",
+    "TRANSLATOR_NOTE": "Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used "
+  },
+  {
+    "PROPER_NAME": "Inferno",
+    "NAMES": [
+      "inferno"
+    ],
+    "DESCRIPTION": "#yGhostflame. #yIgnites when #b3 Energy is spent when you are on it. #yIgnition [REMOVE_SPACE]: When #yIgnited [REMOVE_SPACE], deal #b4 damage to a random enemy for each ignited Ghostflame. If all Ghostflames are Ignited, gain #b2 #yIntensity [REMOVE_SPACE].",
+    "TRANSLATOR_NOTE": "Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used "
+  }
+]

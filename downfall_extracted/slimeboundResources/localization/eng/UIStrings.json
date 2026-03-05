@@ -1,0 +1,27 @@
+{
+  "slimeboundConfigMenuText": {
+    "TEXT": [
+      "Allow other characters to encounter some Slimebound relics.",
+      "Allow other characters to encounter some Slimebound potions.",
+      "Allow other characters to encounter some Slimebound events.",
+      "Unlock everything (Not recommended)"
+    ]
+  },
+  "slimeboundmod:CommandMod": {
+    "TEXT": [
+      " NL slimeboundmod:Command."
+    ]
+  },
+  "slimeboundmod:lickDescriptor": {
+    "TEXT": [
+      "Lick",
+      "slimeboundmod:Lick. NL "
+    ]
+  },
+  "slimeboundmod:tackleDescriptor": {
+    "TEXT": [
+      "Tackle",
+      "slimeboundmod:Tackle. NL "
+    ]
+  }
+}

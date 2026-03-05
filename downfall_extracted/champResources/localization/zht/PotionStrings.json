@@ -1,0 +1,32 @@
+{
+  "champ:OpenerPotion": {
+    "NAME": "策略藥水",
+    "DESCRIPTIONS": [
+      "從各進入 #y戰狂 與 #y防守 的隨機 #b2 張 牌中選擇獲得 #b1 張，本回合其首次耗能為 #b0 。",
+      "從各進入 #y戰狂 與 #y防守 的隨機 #b2 張 牌中選擇 #b1 張，獲得其復制品 #b",
+      " 張，本回合其首次耗能為 #b0 。",
+      " 張所選牌。"
+    ]
+  },
+  "champ:TechniquePotion": {
+    "NAME": "瓶裝技術",
+    "DESCRIPTIONS": [
+      "觸發當前 #y姿態 的 #y技術 獎勵 #b",
+      " 次。"
+    ]
+  },
+  "champ:UltimateStancePotion": {
+    "NAME": "興奮劑",
+    "DESCRIPTIONS": [
+      "進入 #y終極姿態 #b",
+      " 回合。"
+    ]
+  },
+  "champ:CounterPotion": {
+    "NAME": "銳利特釀",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 層 #y反擊 。"
+    ]
+  }
+}

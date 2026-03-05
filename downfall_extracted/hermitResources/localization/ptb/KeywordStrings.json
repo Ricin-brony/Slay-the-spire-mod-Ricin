@@ -1,0 +1,72 @@
+[
+  {
+    "PROPER_NAME": "Morto Vivo",
+    "NAMES": [
+	  "Morto Vivo",
+	  "Morto_Vivo",
+	  "morto_vivo",
+	  "mortovivo",
+	  "Dead On",
+      "Dead_On",
+      "dead_on",
+      "deadon"
+    ],
+    "DESCRIPTION": "Cartas Morto Vivo têm um efeito bônus quando no meio da sua mão."
+  },
+  {
+    "PROPER_NAME": "Concentração",
+    "NAMES": [
+      "Concentrar",
+      "concentrar",
+      "concentrado",
+      "Concentrado",
+	  "Concentrate",
+      "concentrate",
+      "concentrated",
+      "Concentrated"
+    ],
+    "DESCRIPTION": "A próxima carta Morto Vivo jogada enquanto concentrado aciona seu efeito independentemente da posição. Acaba no fim do turno."
+  },
+  {
+    "ID": "contusão",
+    "PROPER_NAME": "Contusão",
+    "NAMES": [
+      "bruise",
+      "bruised",
+	  "contusão",
+      "contundido"
+    ],
+    "DESCRIPTION": "Alvos contundidos recebem mais dano de ataque. Acaba no fim do turno."
+  },
+  {
+    "ID": "robusto",
+    "PROPER_NAME": "Robusto",
+    "NAMES": [
+      "robusto"
+    ],
+    "DESCRIPTION": "Reduz a próxima instância de dano de ataque recebido para #b2."
+  },
+  {
+    "PROPER_NAME": "Recompensa",
+    "NAMES": [
+      "rugged",
+	  "recompensa"
+    ],
+    "DESCRIPTION": "Inimigo normal: #b15 de ouro. Inimigo de elite: #b40 de ouro. Chefe: #b100 de ouro."
+  },
+  {
+    "PROPER_NAME": "Atordoar",
+    "NAMES": [
+      "atordoar",
+      "Atordoar",
+      "atordoado",
+      "Atordoado",
+	  "stun",
+      "Stun",
+      "stunned",
+      "Stunned"
+    ],
+    "DESCRIPTION": "Inimigos atordoados perdem sua vez."
+  }
+
+]

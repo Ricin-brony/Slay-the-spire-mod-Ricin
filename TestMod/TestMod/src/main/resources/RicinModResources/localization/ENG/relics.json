@@ -1,0 +1,9 @@
+{
+  "RicinMod:DreamChime": {
+    "NAME": "Dream Chime",
+    "FLAVOR": "The echoes of dreams, lingering softly in the ear.",
+    "DESCRIPTIONS": [
+      "At the start of combat, gain #b1 #yEmber . Then grant #b3 #yMetallicize to #bALL characters ."
+    ]
+  }
+}

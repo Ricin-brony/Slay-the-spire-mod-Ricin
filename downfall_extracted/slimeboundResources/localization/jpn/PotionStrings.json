@@ -1,0 +1,30 @@
+{
+  "Slimebound:SlimedPotion": {
+    "NAME": "瓶詰めスライム",
+    "DESCRIPTIONS": [
+      "#y汚泥 #b",
+      " を与える。"
+    ]
+  },
+  "Slimebound:SlimyTonguePotion": {
+    "NAME": "スライミーエリクサー",
+    "DESCRIPTIONS": [
+      "この戦闘で #y汚泥 が与えられるたび、 #b",
+      " 追加で付与する。"
+    ]
+  },
+  "Slimebound:SpawnSlimePotion": {
+    "NAME": "瓶詰めアーミー",
+    "DESCRIPTIONS": [
+      "ランダムな スライム #b",
+      " 体が召喚される。 (ノーマルまたはユニーク [REMOVE_SPACE])"
+    ]
+  },
+  "Slimebound:ThreeZeroPotion": {
+    "NAME": "ウーズ入りドリンク",
+    "DESCRIPTIONS": [
+      "手札に #b",
+      " 枚のランダムな 0 コスト のカードを追加する。"
+    ]
+  }
+}

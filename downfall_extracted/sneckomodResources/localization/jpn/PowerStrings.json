@@ -1,0 +1,194 @@
+{
+  "sneckomod:BlunderGuardPower": {
+    "NAME": "ツナミ",
+    "DESCRIPTIONS": [
+      "#yオーバーフロー が発動した時、 #b",
+      " #yブロック を得る。",
+      " #yブロック を得る。"
+    ]
+  },
+  "sneckomod:CheapStockPower": {
+    "NAME": "チープストック",
+    "DESCRIPTIONS": [
+      "ターン開始時、手札の最もコストの高いカードを #y泥まみれ にする。",
+      "ターン開始時、手札の最もコストの高いカードを #b",
+      " 枚 #y泥まみれ にする。"
+    ]
+  },
+  "sneckomod:CheatPower": {
+    "NAME": "ずるっこ",
+    "DESCRIPTIONS": [
+      "このターン、常に #yオーバーフロー の効果が発動する。",
+      "あと #b",
+      " ターンの間、常に #yオーバーフロー の効果が発動する。"
+    ]
+  },
+  "sneckomod:MuddleDrawnCardsPower": {
+    "NAME": "泥まみれのカード",
+    "DESCRIPTIONS": [
+      "次に #y泥まみれ にした時、カードを1枚引く。",
+      "このターン、 #b",
+      " 回の間 #y泥まみれ にした時、カードを1枚引く。 (残り",
+      " )"
+    ]
+  },
+  "sneckomod:MudshieldPower": {
+    "NAME": "マッドシールド",
+    "DESCRIPTIONS": [
+      "カードを1枚 #y泥まみれ にする度 #b",
+      " #yブロック を得る。"
+    ]
+  },
+  "sneckomod:OverwhelmingPresencePower": {
+    "NAME": "圧倒的な存在感",
+    "DESCRIPTIONS": [
+      "各ターン、初めてオフクラス カードをプレイした時 カードを #b1 枚引く。",
+      "各ターン、初めてオフクラス カードをプレイした時 カードを #b",
+      " 枚引く。"
+    ]
+  },
+  "sneckomod:SerpentsNestPower": {
+    "NAME": "蛇の巣窟",
+    "DESCRIPTIONS": [
+      "#yパワー カードをプレイした時、敵全体に #b1 ダメージを与える。",
+      "#yパワー カードをプレイした時、敵全体に #b",
+      " ダメージを与える。"
+    ]
+  },
+  "sneckomod:SerpentMindPower": {
+    "NAME": "異邦化",
+    "DESCRIPTIONS": [
+      "ターン終了時にこのターンに使用されたカード1色毎に #b",
+      " #y筋力 を得る。",
+      " #y筋力 を得る。"
+    ]
+  },
+  "sneckomod:SnakeEyesPower": {
+    "NAME": "スネークアイズ",
+    "DESCRIPTIONS": [
+      "このターン、次にプレイする #yオフクラス カードは2回プレイされる。",
+      "あと #b",
+      " ターンの間、次にプレイする #yオフクラス カードは2回プレイされる。"
+    ]
+  },
+  "sneckomod:UnendingSupplyPower": {
+    "NAME": "無尽蔵の供給",
+    "DESCRIPTIONS": [
+      "ターン開始時、手札に #b",
+      "ターン開始時、手札にランダムな #yオフクラス カードの #yエコー を加える。",
+      " 枚のランダムな #yオフクラス カードの #yエコー を加える。"
+    ]
+  },
+  "sneckomod:UnknownUpgradedPostCombatPower": {
+    "NAME": "Post-Combat Upgraded Unidentified",
+    "DESCRIPTIONS": [
+      "At the end of combat, obtain #b",
+      " additional #yUpgraded #yUnidentified cards.",
+      " additional #yUpgraded #yUnidentified card.",
+      "NOTE FOR LOC: NOT USED DO NOT TRANSLATE."
+
+    ]
+  },
+  "sneckomod:UnlimitedRollsPower": {
+    "NAME": "無限ロール",
+    "DESCRIPTIONS": [
+      "ターン開始時、 #y廃棄 付の #yソウルロール+ を手札に加える。"
+    ]
+  },
+  "sneckomod:Transmogrifying": {
+    "NAME": "Transmogrifying",
+    "DESCRIPTIONS": [
+      " is being transformed into another ",
+      " relic.",
+      "NOTE FOR LOC: NOT USED DO NOT TRANSLATE."
+    ]
+  },
+  "sneckomod:ToxicPersonalityPower": {
+    "NAME": "Toxic Personality",
+    "DESCRIPTIONS": [
+      "Whenever you apply a debuff to an enemy, apply #b",
+      " #y猛毒.",
+      "NOTE FOR LOC: NOT USED DO NOT TRANSLATE."
+    ]
+  },
+  "sneckomod:TyphoonPower": {
+    "NAME": "暴風",
+    "DESCRIPTIONS": [
+      "このターン、 #bオーバーフロー がプレイされる度、 #y暴風牙 のコピーをプレイする。",
+      "このターン、 #bオーバーフロー がプレイされる度、 #y暴風牙 のコピーを #b",
+      " 枚プレイする。"
+    ]
+  },
+  "sneckomod:TyphoonPlusPower": {
+    "NAME": "暴風+",
+    "DESCRIPTIONS": [
+      "このターン、 #bオーバーフロー がプレイされる度、 #y暴風牙+ のコピーをプレイする。",
+      "このターン、 #bオーバーフロー がプレイされる度、 #y暴風牙+ のコピーを #b",
+      " 枚プレイする。"
+    ]
+  },
+  "sneckomod:SerpentineSleuthPower": {
+    "NAME": "蛇探偵",
+    "DESCRIPTIONS": [
+      "#yパワー カードをプレイする度、 #b",
+      " [E] を得る。",
+      " [E] を得る。"
+    ]
+  },
+  "sneckomod:BigGunsStrengthPower": {
+    "NAME": "ビッグガン",
+    "DESCRIPTIONS": [
+      "コスト #b3 以上 のカードをプレイする度、 #y筋力 #b",
+      " を得る。",
+      " を得る。"
+    ]
+  },
+      "sneckomod:BigGunsBlockPower": {
+        "NAME": "失敗保険",
+        "DESCRIPTIONS": [
+          "コスト #b3 以上 のカードをプレイする度、 #b",
+          " #yブロック を得る。",
+          " #yブロック を得る。"
+        ]
+      },
+  "sneckomod:AceOfWandsPower": {
+    "NAME": "五芒星の女王",
+    "DESCRIPTIONS": [
+      "敵にデバフを与える度、 #b",
+      " #yブロック を得る。",
+      " #yブロック を得る。"
+    ]
+  },
+  "sneckomod:LacerateDebuff": {
+    "NAME": "切り傷",
+    "DESCRIPTIONS": [
+      "このターン、敵にデバフを与える度それらに #b",
+      " #y猛毒 を与える。",
+      " #y猛毒 を与える。"
+    ]
+  },
+  "sneckomod:FountainPower": {
+    "NAME": "噴水",
+    "DESCRIPTIONS": [
+      "#yオーバーフロー が発動する度、ランダムな敵に #b",
+      " #y猛毒 を与える。",
+      " #y猛毒 を与える。"
+    ]
+  },
+  "sneckomod:TrashCanPower": {
+    "NAME": "ゴミ箱",
+    "DESCRIPTIONS": [
+      "ターン終了時、カードを1枚 #y廃棄 出来る。",
+      "ターン終了時、カードを最大 #b",
+      " 枚 #y廃棄 出来る。"
+  ]
+      },
+
+        "sneckomod:VenomDebuff": {
+          "NAME": "猛毒",
+          "DESCRIPTIONS": [
+            "この対象が #y猛毒以外 のデバフを受ける度、HPを #b",
+            " 失う。"
+          ]
+        }
+      }

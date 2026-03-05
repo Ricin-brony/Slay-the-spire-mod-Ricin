@@ -1,0 +1,121 @@
+{
+  "Slimebound:EmptySlimeSlot": {
+    "NAME": "スライムスロット",
+    "DESCRIPTION": [
+      " お供のスライムが配置されるスロット。 #y分裂 するとスライムが出現する。"
+    ]
+  },
+  "Slimebound:BronzeSlime": {
+    "NAME": "ブロンズスライム",
+    "DESCRIPTION": [
+      "ターン開始時敵全体に #b",
+      " ダメージで攻撃するが、次のターンは攻撃がスキップされる。",
+      ""
+    ]
+  },
+  "Slimebound:AttackSlime": {
+    "NAME": "ブルーザースライム",
+    "DESCRIPTION": [
+      "ターン開始時 #b",
+      " ダメージを2回与える。"
+    ]
+  },
+  "Slimebound:ScrapOozeSlime": {
+    "NAME": "スクラップウーズ",
+    "DESCRIPTION": [
+      "ターン開始時 #b",
+      " ダメージを与える。 NL 吸収しても復活させることが出来る。"
+    ]
+  },
+  "Slimebound:GreedOozeSlime": {
+    "NAME": "グリードウーズ",
+    "DESCRIPTION": [
+      "ターン開始時 #b",
+      " ダメージを与える。 NL 吸収しても復活させることが出来る。"
+    ]
+  },
+  "Slimebound:TorchHeadSlime": {
+    "NAME": "トーチヘッドスライム",
+    "DESCRIPTION": [
+      "ターン開始時 #b",
+      " ダメージを与える。ダメージはあなたの #y筋力 の影響を受ける。"
+    ]
+  },
+  "Slimebound:CultistSlime": {
+    "NAME": "カルティストスライム",
+    "DESCRIPTION": [
+      "ターン開始時 #b",
+      " ダメージを与える。 攻撃時、ダメージを #b1 上昇させる。"
+    ]
+  },
+  "Slimebound:ShieldSlime": {
+    "NAME": "リーチングスライム",
+    "DESCRIPTION": [
+      "ターン開始時敵に #b",
+      " ダメージを与え、あなたに #b",
+      " #yブロックを与える。"
+    ]
+  },
+  "Slimebound:PoisonSlime": {
+    "NAME": "ゲリラスライム",
+    "DESCRIPTION": [
+      "ターン開始時敵全体に #b",
+      " ダメージを与える。"
+    ]
+  },
+  "Slimebound:SlimingSlime": {
+    "NAME": "マイアスライム",
+    "DESCRIPTION": [
+      "ターン開始時 #b",
+      " ダメージと #y汚泥 #b",
+      " を与える。"
+    ]
+  },
+  "Slimebound:HexSlime": {
+    "NAME": "ゴーストフレイムスライム",
+    "DESCRIPTION": [
+      "ターン開始時 #b",
+      " ダメージと #yソウルバーン #b",
+      " を与える。"
+    ]
+  },
+  "Slimebound:ChampSlime": {
+    "NAME": "インサルティングスライム",
+    "DESCRIPTION": [
+      "ターン開始時 #b",
+      " ダメージと #y弱体 #b",
+      " を与える。"
+    ]
+  },
+  "Slimebound:SlowingSlime": {
+    "NAME": "タイムスライム",
+    "DESCRIPTION": [
+      "ターン開始時 #b",
+      " ダメージと #y脱力 #b",
+      " を与える。"
+    ]
+  },
+  "Slimebound:ProtectorSlime": {
+    "NAME": "スパイキースライム",
+    "DESCRIPTION": [
+      "ターン開始時敵に #b",
+      " ダメージを与え、あなたに一時的な #yトゲ #b",
+      " を付与する。"
+    ]
+  },
+  "Slimebound:DrawingSlime": {
+    "NAME": "エンシェントスライム",
+    "DESCRIPTION": [
+      "ターン開始時 #b",
+      " ダメージを与え、カードを #b",
+      " 枚ドローする。 この効果は #y効力 で増加しない。"
+    ]
+  },
+  "Slimebound:DarklingSlime": {
+    "NAME": "ダークリングスライム",
+    "DESCRIPTION": [
+      "ターン開始時 #b",
+      " ダメージを与える。命令されると、全てのダークリングスライムが攻撃する。(ポジションを問わない)"
+    ]
+  }
+}

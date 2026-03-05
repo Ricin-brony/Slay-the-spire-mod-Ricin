@@ -1,0 +1,99 @@
+{
+  "downfall:ChangingTotem": {
+    "MOVES": [
+      "変容するまなざし"
+    ],
+    "NAME": "変換ヘッド",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "downfall:ForgetfulTotem": {
+    "MOVES": [
+      "忘却の視線"
+    ],
+    "NAME": "忘却ヘッド",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "downfall:GrowingTotem": {
+    "MOVES": [
+      "成長の光線"
+    ],
+    "NAME": "成長ヘッド",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "downfall:FleeingMerchant": {
+    "MOVES": [
+      "ソウルスティール"
+    ],
+    "NAME": "逃げ出そうとしている商人",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "downfall:LooterAlt": {
+    "MOVES": [
+    ],
+    "NAME": "ルーター",
+    "DIALOG": [
+      "~よお~ 文無し！",
+      "@ノオオオオオォォ!@",
+      "お前は今日死ぬんだぜ。チョンボ野郎"
+    ]
+  },
+  "downfall:MuggerAlt": {
+    "MOVES": [
+    ],
+    "NAME": "ムガー",
+    "DIALOG": [
+      "さあレッスンの時間だ！",
+      "とことん分からせてやるぜ！"
+    ]
+  },
+  "downfall:Fortification": {
+    "MOVES": [
+    ],
+    "NAME": "要塞",
+    "DIALOG": [
+    ]
+  },
+  "downfall:MushroomRed": {
+    "MOVES": [
+    ],
+    "NAME": "ポルチーニ",
+    "DIALOG": [
+    ]
+  },
+  "downfall:MushroomPurple": {
+    "MOVES": [
+    ],
+    "NAME": "アクタリウス",
+    "DIALOG": [
+    ]
+  },
+  "downfall:MushroomWhite": {
+    "MOVES": [
+    ],
+    "NAME": "パフボール",
+    "DIALOG": [
+    ]
+  },
+  "downfall:DoomedDagger": {
+    "MOVES": [
+    ],
+    "NAME": "ドゥームダガー",
+    "DIALOG": [
+    ]
+  },
+  "downfall:VoidCore": {
+    "MOVES": [
+    ],
+    "NAME": "虚無の核",
+    "DIALOG": [
+    ]
+  }
+}

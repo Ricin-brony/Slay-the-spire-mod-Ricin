@@ -1,0 +1,14 @@
+{
+  "RicinMod:EmberPower": {
+    "NAME": "Ember",
+    "DESCRIPTIONS": [
+      "When #yCharon triggers, activate #yEcho #b%d time(s)."
+    ]
+  },
+  "RicinMod:EmberWakePower": {
+    "NAME": "Ember Wake",
+    "DESCRIPTIONS": [
+      "Whenever a card is #yCharon'd , gain #b%d Energy."
+    ]
+  }
+}

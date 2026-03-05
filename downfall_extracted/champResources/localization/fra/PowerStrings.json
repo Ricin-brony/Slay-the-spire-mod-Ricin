@@ -1,0 +1,251 @@
+{
+  "champ:CounterPower": {
+    "NAME": "Contre",
+    "DESCRIPTIONS": [
+      "La prochaine fois que vous recevez des dégâts d'une #yAttaque, obtenez une #yFrappe #yRiposte #b",
+      " ces dégâts en retour."
+    ]
+  },
+  "champ:FocusedDefPower": {
+    "NAME": "Concentré : Pose Défensive",
+    "DESCRIPTIONS": [
+      "La prochaine fois que vous jouez un #yFinisher ce tour, gagnez #b",
+      " #yd'Armure [REMOVE_SPACE]."
+    ]
+  },
+  "champ:FocusedBerPower": {
+    "NAME": "Fancy Footwork",
+    "DESCRIPTIONS": [
+      "La prochaine fois que vous utilisez un #yFinisher ce tour, TOUS les ennemis perdent #b",
+      " PV."
+    ]
+  },
+  "champ:ShieldWallPower": {
+    "NAME": "Mur de boucliers",
+    "DESCRIPTIONS": [
+      "À la fin de votre tour, gagnez #b",
+      " de #yContre [REMOVE_SPACE]."
+    ]
+  },
+  "champ:EntangleNextTurnPower": {
+    "NAME": "Épée lancée",
+    "DESCRIPTIONS": [
+      "Vous ne pouvez pas jouer #yd'Attaque au prochain tour.",
+      "Vous ne pouvez pas jouer #yd'Attaque our les #b",
+      " prochains tours."
+    ]
+  },
+  "champ:DrawLessNextTurnPower": {
+    "NAME": "Réduction de pioche",
+    "DESCRIPTIONS": [
+      "Piochez #b",
+      " carte de moins au prochain tour.",
+      " cartes de moins au prochain tour."
+    ]
+  },
+  "champ:PushThroughPower": {
+    "NAME": "Ignorant la douleur",
+    "DESCRIPTIONS": [
+      "Vous ne pouvez pas perdre de PV ce tour.",
+      "Vous ne pouvez pas perdre de PV pendant les #b",
+      " prochains tours."
+    ]
+  },
+  "champ:WorseRupturePower": {
+    "NAME": "Rage sans fin",
+    "DESCRIPTIONS": [
+      "Lorsque vous perdez des PV lors de votre tour, gagnez #b",
+      " de #yForce temporaire [REMOVE_SPACE]."
+    ]
+  },
+  "champ:ImprovisingPower": {
+    "NAME": "Improvisation",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, si vous n'êtes pas dans une #yPose [REMOVE_SPACE], adoptez une #yPose aléatoire. Lorsque vous adoptez une #yPose [REMOVE_SPACE], déclenchez son #yBonus #yde #yCompétence #b",
+      " fois."
+    ]
+  },
+  "champ:CalledShotPower": {
+    "NAME": "Coup annoncé",
+    "DESCRIPTIONS": [
+      "La prochaine fois que vous jouez un #yFinisher [REMOVE_SPACE], ne quittez pas votre #yPose [REMOVE_SPACE].",
+      "Les #b",
+      " prochaines fois que vous jouez un #yFinisher [REMOVE_SPACE], ne quittez pas votre #yPose [REMOVE_SPACE]."
+    ]
+  },
+  "champ:DancingMasterPower": {
+    "NAME": "Maître de la danse",
+    "DESCRIPTIONS": [
+      "La troisième fois que vous adoptez une #yPose chaque tour, gagnez #b",
+      " [E] et piochez #b",
+      " cartes. ",
+      "",
+      "Utilisé ce tour.",
+	  ""
+    ]
+  },
+  "champ:StrikeOfGeniusPower": {
+    "NAME": "Frappé de génie",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, ajoutez un #yÉcho de \"Frappe\" aléatoire dans votre main [REMOVE_SPACE]. Elle coûte #b0 jusqu'à ce qu'elle soit jouée.",
+      "Au début de votre tour, ajoutez #b",
+      " #yÉchos de \"Frappe\" dans votre main [REMOVE_SPACE]. Elles coûtent #b0 jusqu'à ce qu'elle soit jouées."
+    ]
+  },
+  "champ:StrikeOfGeniusUpgradedPower": {
+    "NAME": "Frappé de génie+",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, ajoutez un #yÉcho #yamélioré de \"Frappe\" aléatoire dans votre main [REMOVE_SPACE]. Elle coûte #b0 jusqu'à ce qu'elle soit jouée.",
+      "Au début de votre tour, ajoutez #b",
+      " #yÉchos #yaméliorés de \"Frappe\" dans votre main [REMOVE_SPACE]. Elles coûtent #b0 jusqu'à ce qu'elle soit jouées."
+    ]
+  },
+  "champ:DefensiveStylePower": {
+    "NAME": "Style défensif",
+    "DESCRIPTIONS": [
+      "Les #yTechniques de la pose #yDéfensive donnent #b",
+      " de #yContre supplémentaire."
+    ]
+  },
+  "champ:GladiatorStylePower": {
+    "NAME": "Combat propre",
+    "DESCRIPTIONS": [
+      "Si vous commencez votre tour sans #yPose, gagnez #b",
+      " de #yForce et de #yDextérité temporaires."
+    ]
+  },
+  "champ:BerserkerStylePower": {
+    "NAME": "Style du Destructeur",
+    "DESCRIPTIONS": [
+      "Les #yTechniques de la pose du #yDestructeur donnent #b",
+      " de #yVigueur supplémentaires."
+    ]
+  },
+  "champ:FalseCounterPower": {
+    "NAME": "Fausse contre-attaque",
+    "DESCRIPTIONS": [
+      "La prochaine fois que votre #yContre s'active, n'en perdez que la moitié.",
+      "Les #b",
+      " prochaines fois que votre #yContre s'active, n'en perdez que la moitié."
+    ]
+  },
+  "champ:EnergizedDurationPower": {
+    "NAME": "Énergisé",
+    "DESCRIPTIONS": [
+      "Gagnez #b",
+      " [E] supplémentaire au prochain tour.",
+      " [E] supplémentaires au prochain tour.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "champ:IronFortressPower": {
+    "NAME": "Dispositif technique",
+    "DESCRIPTIONS": [
+      "Lorsque vous adoptez une Pose, gagnez #b",
+      " #yd'Armure."
+    ]
+  },
+  "champ:IronFortressVigorPower": {
+    "NAME": "Dispositif technique : Destructeur",
+    "DESCRIPTIONS": [
+      "Lorsque vous adoptez une Pose, déclenchez le #yBonus #yde #yCompétence de la Pose du Destructeur",
+      " #b",
+      " fois."
+    ]
+  },
+  "champ:LastStandMod": {
+    "NAME": "Last Stand",
+    "DESCRIPTIONS": [
+      "Au début du tour, si vos PV sont à 50% ou moins, perdez tous vos débuffs et gagnez ",
+      " de Force."
+    ]
+  },
+  "champ:GladiatorFormPower": {
+    "NAME": "Forme gladiatrice",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, gagnez #b",
+      " de #yVigueur pour chaque 3 points dépensés pendant ce tour, puis faites la même chose pour le #yContre."
+    ]
+  },
+  "champ:NoBlockNextTurnPower": {
+    "NAME": "Bouclier lancé",
+    "DESCRIPTIONS": [
+      "Vous ne pouvez pas gagner d'Armure au prochain tour.",
+      "Vous ne pouvez pas gagner d'Armure pendant les #b",
+      " prochains tours."
+    ]
+  },
+  "champ:UltimateStancePower": {
+    "NAME": "Drainage ultime",
+    "DESCRIPTIONS": [
+      "La Pose Ultime s'épuisera ce tour.",
+      "La Pose Ultime s'épuisera dans #b",
+      " tours."
+    ]
+  },
+  "champ:UltimateFormNextTurnPower": {
+    "NAME": "Préparation Ultime",
+    "DESCRIPTIONS": [
+      "Au début de votre prochain tour, adoptez la #yPose #yUltime.",
+      " NL Elle persistera pendant #b",
+      " tours."
+    ]
+  },
+  "champ:EnGardePower": {
+    "NAME": "En Garde",
+    "DESCRIPTIONS": [
+      "Si votre Armure est brisée ce tour, gagnez #b",
+      " d'Armure au prochain tour."
+    ]
+  },
+  "champ:ParryPower": {
+    "NAME": "Parade",
+    "DESCRIPTIONS": [
+      "Si votre Contre est utilisé ce tour, obtenez une #yFrappe #yRiposte supplémentaire."
+    ]
+  },
+  "champ:BoomerangPower": {
+    "NAME": "Boomerang",
+    "DESCRIPTIONS": [
+      "Au début de votre prochain tour, remettez ",
+      " dans votre main. Elle coûte #b0 et ne reviendra plus."
+    ]
+  },
+  "champ:ResolvePower": {
+    "NAME": "Fatigue",
+    "DESCRIPTIONS": [
+      "À la fin du combat, restorez vos PV Fatigués."
+    ]
+  },
+  "champ:DualPlaySrikePower": {
+    "NAME": "Frappes en rafale",
+    "DESCRIPTIONS": [
+      "Votre prochaine #y\"Frappe\" est jouée deux fois ce tour.",
+      "Vos ",
+      " prochaines #y\"Frappes\" sont jouées deux fois ce tour."
+    ]
+  },
+  "champ:LastStandPower": {
+    "NAME": "Last Stand",
+    "DESCRIPTIONS": [
+      "Une fois que vous êtes en dessous de 50% de vos PV, retirez tous vos Débuffs et gagnez #b",
+      " de #yForce.",
+      "~Vous~ ~allez~ ~le~ ~regretter...~",
+      "@UNE@ @DÉFAITE??@ NL @IMPOSSIBLE!!@"
+    ]
+  },
+    "champ:HonePower": {
+    "NAME": "Lame affûtée",
+    "DESCRIPTIONS": [
+      "Vos cartes #y\"Frappe\" infligent #b",
+      " dégâts supplémentaires."
+    ]
+  },
+  "champ:DoubleStyleThisTurnPower": {
+    "NAME": "Fouet de chaînes",
+    "DESCRIPTIONS": [
+      "Pendant ce tour, les #yBonus #yde #yCompétence accordent #b",
+      " d'effets supplémentaires."
+    ]
+  }
+}

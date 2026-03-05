@@ -1,0 +1,14 @@
+{
+  "RicinMod:EmberPower": {
+    "NAME": "余温",
+    "DESCRIPTIONS": [
+      "引渡时可以触发 #b%d 次 #y回响 效果。"
+    ]
+  },
+  "RicinMod:EmberWakePower": {
+    "NAME": "余波",
+    "DESCRIPTIONS": [
+      "每当有牌被 #y引渡 时，获得 #b%d 点能量。"
+    ]
+  }
+}

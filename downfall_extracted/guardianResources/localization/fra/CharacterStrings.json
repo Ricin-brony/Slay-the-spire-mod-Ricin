@@ -1,0 +1,18 @@
+{
+  "Guardian": {
+    "NAMES": [
+      "Le Gardien"
+    ],
+    "TEXT": [
+      "Un androïde de la Tour, programmé pour la défendre. NL Capable se défendre lui-même sur commande.",
+      "DIRECTIVE PRIMAIRE - #r~DÉTRUIRE~ #r~CŒUR.~",
+      "[ guardianmod:Cavité ]",
+      "Dans une rue mal éclairée, vous rencontrez plusieurs personnages encapuchonnés en plein rituel. Lorsque vous vous approchez, ils se tournent vers vous à l'unisson. Le plus grand d'entre eux montre ses crocs et tend une longue main pâle vers vous. NL ~\"Rejoignez~ ~nous~ ~protecteur~ ~antique,~ ~et~ ~ressentez~ ~la~ ~chaleur~ ~de~ ~la~ ~Tour.\"~",
+      "Mode défensif",
+      "Vous gagnez #b3 #yd'Épines et votre Armure ne s'expire pas.",
+      "~ERREUR:~ #rStase en cours."
+    ],
+    "KEYWORDS": [
+    ]
+  }
+}

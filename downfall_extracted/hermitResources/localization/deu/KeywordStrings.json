@@ -1,0 +1,69 @@
+[
+  {
+    "PROPER_NAME": "Volltreffer",
+    "NAMES": [
+      "Volltreffer",
+      "volltreffer",
+      "Dead On",
+      "Dead_On",
+      "dead_on",
+      "deadon"
+    ],
+    "DESCRIPTION": "Diese Karte hat einen zusätzlichen Effekt wenn sie sich beim Ausspielen in der Mitte deiner Hand befindet."
+  },
+  {
+    "PROPER_NAME": "Konzentration",
+    "NAMES": [
+      "Konzentration",
+      "konzentration",
+      "Konzentriere",
+      "konzentriere",
+	    "Konzentriert",
+      "konzentriert",
+      "Concentrate",
+      "concentrate",
+      "concentrated",
+      "Concentrated"
+    ],
+    "DESCRIPTION": "Wenn du konzentriert bist, erzielt deine nächste #yVolltreffer Karte ihren Effekt unabhängig von Position. Läuft am ende des Zuges ab."
+  },
+  {
+    "ID": "bruise",
+    "PROPER_NAME": "Prügel",
+    "NAMES": [
+      "Prügel",
+      "prügel",
+      "bruise",
+      "bruised"
+    ],
+    "DESCRIPTION": "Ziele mit Prügel nehmen mehr Angriffsschaden. Läuft am ende des Zuges ab."
+  },
+  {
+    "ID": "rugged",
+    "PROPER_NAME": "Robust",
+    "NAMES": [
+      "Robust",
+      "robust",
+      "rugged"
+      ],
+    "DESCRIPTION": "Reduziert den nächsten erlitennen TP-Verlust durch Angriffsschaden zu #b2 [REMOVE_SPACE]."
+  },
+  {
+    "PROPER_NAME": "Kopfgeld",
+    "NAMES": [
+      "Kopfgeld",
+      "kopfgeld",
+      "bounty"
+    ],
+    "DESCRIPTION": "Normaler Gegner: #b15 Gold. NL Elitegegner: #b35 Gold. NL Boss: #b75 Gold."
+  },
+  {
+    "PROPER_NAME": "Betäuben",
+    "NAMES": [
+      "betäubt",
+      "betäube",
+      "betäuben"
+    ],
+    "DESCRIPTION": "Betäubte Wesen übergehen ihren nächsten Zug."
+  }
+]

@@ -1,0 +1,616 @@
+﻿{
+  "sneckomod:Blunderbus": {
+    "NAME": "어쩌다 한 탕",
+    "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다. NL 손에 있는 비용이 3 이상인 카드 한 장당 피해를 줍니다."
+  },
+  "sneckomod:Tsunami": {
+    "NAME": "해일",
+    "DESCRIPTION": "sneckomod:과중 효과가 발동할 때 방어도를 !M! 얻습니다."
+  },
+  "sneckomod:CheapStock": {
+    "NAME": "값싼 재고품",
+    "DESCRIPTION": "내 턴 시작 시 손에 있는 카드 중 비용이 가장 높은 카드를 sneckomod:뒤엉키게 합니다.",
+    "UPGRADE_DESCRIPTION": "내 턴 시작 시 손에 있는 카드 중 비용이 가장 높은 카드를 !M! 장 sneckomod:뒤엉키게 합니다."
+  },
+  "sneckomod:Cheat": {
+    "NAME": "천운",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+    ]
+  },
+  "sneckomod:DangerNoodle": {
+    "NAME": "위험한 머리",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 카드를 1장 sneckomod:뒤엉키게 합니다. NL sneckomod:선물: 비용 3+ 카드.",
+    "DESCRIPTION_BATTLE": "피해를 !D! 줍니다. NL 카드를 1장 sneckomod:뒤엉키게 합니다."
+  },
+  "sneckomod:Deception": {
+    "NAME": "기만",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL *충격파를 얻습니다. NL 소멸."
+  },
+  "sneckomod:Defend": {
+    "NAME": "수비",
+    "DESCRIPTION": "방어도를 !B! 얻습니다."
+  },
+  "sneckomod:DefensiveFlair": {
+    "NAME": "수비적인 솜씨",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL 손에 있는 sneckomod:다른 *직업 카드 한 장당 방어도가 !M! 증가합니다. NL sneckomod:선물: 특별 카드.",
+    "DESCRIPTION_BATTLE": "방어도를 !B! 얻습니다. NL 손에 있는 sneckomod:다른 *직업 카드 한 장당 방어도가 !M! 증가합니다."
+  },
+  "sneckomod:DiceBlock": {
+    "NAME": "주사위 막기",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL sneckomod:과중 시 방어도를 !B! 추가로 얻습니다."
+  },
+  "sneckomod:DiceBoulder": {
+    "NAME": "주사위 바위",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL 이번 전투 동안 방어도가 !M! 증가하고 비용이 !qqq! 증가합니다."
+  },
+  "sneckomod:DiceCrush": {
+    "NAME": "주사위 으깨기",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL sneckomod:과중 시 카드를 2장 뽑습니다."
+  },
+  "sneckomod:DragonsHoard": {
+    "NAME": "용의 보물",
+    "DESCRIPTION": "휘발성. NL 힘을 !M! 얻습니다. NL 민첩을 !M! 얻습니다.",
+    "UPGRADE_DESCRIPTION": "힘을 !M! 얻습니다. NL 민첩을 !M! 얻습니다."
+  },
+  "sneckomod:FourOfAKind": {
+    "NAME": "Four Of A Kind",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+    ]
+  },
+  "sneckomod:GlitteringGambit": {
+    "NAME": "반짝이는 도박수",
+    "DESCRIPTION": "사용불가. NL 덱에서 제거할 수 없습니다. NL sneckomod:선물: 강화된 희귀 카드와 골드 !M! .",
+    "UPGRADE_DESCRIPTION": "사용불가. 휘발성. NL 덱에서 제거할 수 없습니다. NL sneckomod:선물: 강화된 희귀 카드와 골드 !M! .",
+    "DESCRIPTION_BATTLE": "사용불가.",
+    "UPGRADE_DESCRIPTION_BATTLE": "사용불가. NL 휘발성."
+  },
+  "sneckomod:ImmovableObject": {
+    "NAME": "Immovable Object",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+    ]
+  },
+  "sneckomod:IronFang": {
+    "NAME": "강철 송곳니",
+    "DESCRIPTION": "적 전체에게 피해를 !D! 주고 약화를 !M! 부여합니다."
+  },
+  "sneckomod:ImprovisedAttack": {
+    "NAME": "변덕스러운 공격",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+    ]
+  },
+  "sneckomod:ImprovisedGuard": {
+    "NAME": "변덕스러운 보호",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+    ]
+  },
+  "sneckomod:LuckyBreak": {
+    "NAME": "횡재",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL 손에 있는 비용이 2 이상인 카드 한 장당 카드를 !M! 장 뽑습니다."
+  },
+  "sneckomod:Nope": {
+    "NAME": "안돼",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL 카드를 1장 소멸시킵니다. 소멸시킨 카드가 무색 카드가 아니라면 무작위 같은 직업 카드를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "방어도를 !B! 얻습니다. NL 카드를 1장 소멸시킵니다. 소멸시킨 카드가 무색 카드가 아니라면 무작위 같은 직업 카드를 얻습니다.",
+    "EXTENDED_DESCRIPTION": [
+      "안돼로 소멸시킬 카드를 선택하십시오."
+    ]
+  },
+  "sneckomod:SnakeEyes": {
+    "NAME": "뱀의 눈",
+    "DESCRIPTION": "이번 턴에 다음 사용하는 sneckomod:다른 *직업 카드 1장이 2번 사용됩니다. NL sneckomod:선물: 희귀 스킬 카드.",
+    "UPGRADE_DESCRIPTION": "이번 턴에 다음 사용하는 sneckomod:다른 *직업 카드 2장이 2번 사용됩니다. NL sneckomod:선물: 희귀 스킬 카드.",
+    "DESCRIPTION_BATTLE": "이번 턴에 다음 사용하는 sneckomod:다른 *직업 카드 1장이 2번 사용됩니다.",
+    "UPGRADE_DESCRIPTION_BATTLE": "이번 턴에 다음 사용하는 sneckomod:다른 *직업 카드 2장이 2번 사용됩니다."
+  },
+  "sneckomod:Memorize": {
+    "NAME": "Memorize",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      " to Identify.",
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+    ]
+  },
+  "sneckomod:MintCondition": {
+    "NAME": "양호한 상태",
+    "DESCRIPTION": "sneckomod:과중 시 힘을 !M! 얻습니다."
+  },
+  "sneckomod:MixItUp": {
+    "NAME": "섞어섞어!",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+    ]
+  },
+  "sneckomod:MorePower": {
+    "NAME": "더 많은 힘!",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+    ]
+  },
+  "sneckomod:Mudshield": {
+    "NAME": "진흙 방패",
+    "DESCRIPTION": "sneckomod:뒤엉킬 때마다 방어도를 !M! 얻습니다."
+  },
+  "sneckomod:OverwhelmingPresence": {
+    "NAME": "위압",
+    "DESCRIPTION": "휘발성. NL 매 턴 처음으로 sneckomod:다른 *직업 카드를 사용하면 카드를 1장 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "매 턴 처음으로 sneckomod:다른 *직업 카드를 사용하면 카드를 1장 뽑습니다."
+  },
+  "sneckomod:RiskySword": {
+    "NAME": "위험한 검",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL sneckomod:뒤엉키게 했다면 이번 전투 동안 이 카드의 피해량이 !M! 증가합니다."
+  },
+  "sneckomod:PoisonParadise": {
+    "NAME": "분수",
+    "DESCRIPTION": "sneckomod:과중 효과가 발동하면 무작위 적에게 sneckomod:뱀독을 !M! 부여합니다."
+  },
+  "sneckomod:PureSnecko": {
+    "NAME": "갈아타기",
+    "DESCRIPTION": "카드를 !M! 장 뽑습니다. NL 그 카드를 sneckomod:뒤엉키게 합니다."
+  },
+  "sneckomod:QuickBite": {
+    "NAME": "뱀 갈퀴",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 카드를 !M! 장 뽑습니다. NL 그 카드를 sneckomod:뒤엉키게 합니다.",
+    "UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. NL 카드를 !M! 장 뽑습니다. NL 그 카드를 sneckomod:뒤엉키게 합니다."
+  },
+  "sneckomod:QuickMove": {
+    "NAME": "날랜 움직임",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL sneckomod:과중 시 적 전체에게 취약을 !M! 부여합니다."
+  },
+  "sneckomod:RainOfDice": {
+    "NAME": "주사위 비",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 카드를 1장 sneckomod:뒤엉키게 하고 *주사위 *비를 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. NL 카드를 1장 sneckomod:뒤엉키게 하고 *주사위 *비+를 얻습니다. NL 소멸."
+  },
+  "sneckomod:Restock": {
+    "NAME": "재보급",
+    "DESCRIPTION": "카드를 전부 버립니다. NL 카드를 !M! 장 뽑고 손에 있는 카드를 sneckomod:뒤엉키게 합니다. NL 소멸."
+  },
+  "sneckomod:Rotation": {
+    "NAME": "순환",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+    ]
+  },
+  "sneckomod:SerpentBottle": {
+    "NAME": "할인 행사",
+    "DESCRIPTION": "카드를 !qqq! 장 뽑습니다. NL 카드를 1장 sneckomod:뒤엉키게 합니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "카드를 !qqq! 장 뽑습니다. NL 카드를 !M! 장 sneckomod:뒤엉키게 합니다. NL 소멸."
+  },
+  "sneckomod:SerpentIdol": {
+    "NAME": "구렁이 우상",
+    "DESCRIPTION": "무작위 sneckomod:다른 *직업 카드 !M! 장 중 하나를 선택해 얻습니다. 이번 턴에 그 카드의 비용은 0이 됩니다. NL 소멸."
+  },
+  "sneckomod:SerpentMind": {
+    "NAME": "외세의 형상",
+    "DESCRIPTION": "휘발성. NL 내 턴 종료 시 이번 턴에 사용한 무색, 직업 카드 종류 하나당 힘을 !M! 얻습니다. NL sneckomod:선물: 희귀 카드.",
+    "UPGRADE_DESCRIPTION": "내 턴 종료 시 이번 턴에 사용한 무색, 직업 카드 종류 하나당 힘을 !M! 얻습니다. NL sneckomod:선물: 희귀 카드.",
+    "DESCRIPTION_BATTLE": "내 턴 종료 시 이번 턴에 사용한 무색, 직업 카드 종류 하나당 힘을 !M! 얻습니다."
+  },
+  "sneckomod:SlitherThrough": {
+    "NAME": "유연한 통과",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 이번 턴에 sneckomod:다른 *직업 카드 !M! 장의 비용을 낮춥니다. NL sneckomod:선물: 특별 카드.",
+    "DESCRIPTION_BATTLE": "피해를 !D! 줍니다. NL 이번 턴에 sneckomod:다른 *직업 카드 !M! 장의 비용을 낮춥니다."
+  },
+  "sneckomod:SnakeSap": {
+    "NAME": "뱀 수액",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+    ]
+  },
+  "sneckomod:SnekBeam": {
+    "NAME": "눈빛 광선",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL [E] 를 얻습니다."
+  },
+  "sneckomod:SnekBite": {
+    "NAME": "스네코 물기",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 카드를 1장 sneckomod:뒤엉키게 합니다.",
+    "UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. NL 카드를 !M! 장 sneckomod:뒤엉키게 합니다."
+  },
+  "sneckomod:SoulCleanse": {
+    "NAME": "영혼의 정화",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+    ]
+  },
+  "sneckomod:SoulDraw": {
+    "NAME": "영혼의 뽑기",
+    "DESCRIPTION": "무작위 sneckomod:다른 *직업 카드를 !M! 장 얻습니다. NL 그 카드들은 보존됩니다. NL 소멸."
+  },
+  "sneckomod:SoulExchange": {
+    "NAME": "영혼의 교환",
+    "DESCRIPTION": "보존. NL 손에 있는 카드가 sneckomod:뒤엉킵니다. NL 소멸."
+  },
+  "sneckomod:SoulRoll": {
+    "NAME": "영혼의 도박",
+    "DESCRIPTION": "보존. NL 방어도를 !B! 얻습니다. NL 카드를 1장 sneckomod:뒤엉키게 합니다. NL 소멸."
+  },
+  "sneckomod:Strike": {
+    "NAME": "타격",
+    "DESCRIPTION": "피해를 !D! 줍니다."
+  },
+  "sneckomod:ToothAndClaw": {
+    "NAME": "사력",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 이번 턴에 손에 있는 무색, 직업 카드 종류 하나당 단도를 얻습니다. NL sneckomod:선물: 특별 카드.",
+    "UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. NL 이번 턴에 손에 있는 무색, 직업 카드 종류 하나당 강화된 단도를 얻습니다. NL sneckomod:선물: 특별 카드.",
+    "DESCRIPTION_BATTLE": "피해를 !D! 줍니다. NL 이번 턴에 손에 있는 무색, 직업 카드 종류 하나당 단도를 얻습니다.",
+    "UPGRADE_DESCRIPTION_BATTLE": "피해를 !D! 줍니다. NL 이번 턴에 손에 있는 무색, 직업 카드 종류 하나당 강화된 단도를 얻습니다."
+  },
+  "sneckomod:TyphoonFang": {
+    "NAME": "태풍의 송곳니",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL sneckomod:과중 시 이번 턴에 sneckomod:과중 효과가 발동될 때마다 이 카드를 복사해 사용합니다."
+  },
+  "sneckomod:Yearn": {
+    "NAME": "선망",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+    ]
+  },
+  "sneckomod:TailWhip": {
+    "NAME": "꼬리 채찍",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL sneckomod:과중 시 약화와 취약을 !M! 부여합니다."
+  },
+  "sneckomod:Transmogrify": {
+    "NAME": "탈바꿈",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      "바꿀 유물이이이 업섯서서.",
+      "잃을 유물을 고르십시오.",
+      " ",
+      " 유물을 잃고 ",
+      " 유물을 얻습니다.",
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+      ]
+  },
+  "sneckomod:ToxicPersonality": {
+    "NAME": "Toxic Personality",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+    ]
+  },
+  "sneckomod:TrashToTreasure": {
+    "NAME": "쓰레기 재활용",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL 카드를 1장 소멸시킵니다. NL 이 카드의 비용만큼 [E] 를 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "방어도를 !B! 얻습니다. NL 카드를 1장 소멸시킵니다. NL 이 카드의 비용만큼 [E] 를 얻습니다."
+  },
+  "sneckomod:UnendingSupply": {
+    "NAME": "영원한 공급",
+    "DESCRIPTION": "내 턴 시작 시 무작위 sneckomod:다른 *직업 카드의 gremlin:메아리를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "선천성. NL 내 턴 시작 시 무작위 sneckomod:다른 *직업 카드의 gremlin:메아리를 얻습니다."
+},
+  "sneckomod:Unknown": {
+    "NAME": "??? 시작",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:Unknown0Cost": {
+    "NAME": "??? 비용 0",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:Unknown1Cost": {
+    "NAME": "??? 비용 1",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:Unknown2Cost": {
+    "NAME": "??? 비용 2",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:Unknown3Cost": {
+    "NAME": "??? 비용 3",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownBlock": {
+    "NAME": "??? 방어도",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownBoss": {
+    "NAME": "??? 보스",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownClass": {
+    "NAME": "??? 직업",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownColorless": {
+    "NAME": "??? 무색",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownCommonAttack": {
+    "NAME": "??? 일반 공격",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownCommonSkill": {
+    "NAME": "??? 일반 스킬",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownDexterity": {
+    "NAME": "??? 민첩",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownDraw": {
+    "NAME": "??? 뽑기",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownEthereal": {
+    "NAME": "??? 휘발성",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownExhaust": {
+    "NAME": "??? 소멸",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownRareAttack": {
+    "NAME": "??? 희귀 공격",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownRarePower": {
+    "NAME": "??? 희귀 파워",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownRareSkill": {
+    "NAME": "??? 희귀 스킬",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownStrength": {
+    "NAME": "??? 힘",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownStrike": {
+    "NAME": "??? 타격",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownUncommonAttack": {
+    "NAME": "??? 특별 공격",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownUncommonPower": {
+    "NAME": "??? 특별 파워",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownUncommonSkill": {
+    "NAME": "??? 특별 스킬",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownVulnerable": {
+    "NAME": "??? 취약",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownWeak": {
+    "NAME": "??? 약화",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnknownX": {
+    "NAME": "??? 비용 X",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요."
+  },
+  "sneckomod:UnlimitedRolls": {
+    "NAME": "무제한 도박",
+    "DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "UPGRADE_DESCRIPTION": "도전에서 만날 수 없는 카드입니다. NL 이 카드를 발견했다면 버그가 발생했을 가능성이 큽니다. NL 부디 모드 개발자에게 버그를 제보해 주세요.",
+    "EXTENDED_DESCRIPTION": [
+      "NOTE FOR LOC: You can just copy paste whatever this tls as for all of these removed cards."
+    ]
+  },
+  "sneckomod:Behold": {
+    "NAME": "보라!",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL sneckomod:과중 시 단도를 !M! 장 얻습니다.",
+    "UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. NL sneckomod:과중 시 단도를 !M! 장 얻습니다."
+  },
+  "sneckomod:SaveForLater": {
+    "NAME": "만반의 대비",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 내 턴 종료 시 카드를 !M! 장 보존합니다.",
+    "UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. NL 내 턴 종료 시 카드를 !M! 장 보존합니다."
+  },
+  "sneckomod:PowerShot": {
+    "NAME": "파워 샷",
+    "DESCRIPTION": "피해를 !D! 줍니다. 파워 카드를 사용할 때마다 버린 카드 더미에서 이 카드를 가져옵니다."
+  },
+  "sneckomod:LilGuardian": {
+    "NAME": "작은 수호자",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. 비용이 2 이상인 카드를 사용할 때마다 이 카드를 사용합니다."
+  },
+  "sneckomod:CrystalBoomerang": {
+    "NAME": "크리스탈 부메랑",
+    "DESCRIPTION": "버린 카드 더미에서 카드를 가져옵니다. NL 가져온 카드가 sneckomod:다른 *직업 카드라면 방어도를 !B! 얻습니다."
+  },
+  "sneckomod:ViperEssence": {
+    "NAME": "독사의 정수",
+    "DESCRIPTION": "휘발성. NL sneckomod:다른_직업. NL 힘을 !M! 얻습니다."
+  },
+  "sneckomod:Amass": {
+    "NAME": "축적",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL 손에 있는 카드 비용을 모두 더한만큼 방어도를 추가로 얻습니다.",
+    "UPGRADE_DESCRIPTION": "방어도를 !B! 얻습니다. NL 손에 있는 카드 비용을 모두 더한만큼 방어도를 2번 추가로 얻습니다."
+  },
+  "sneckomod:Medusa": {
+    "NAME": "메두사",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL sneckomod:뱀독을 !M! 부여합니다. NL sneckomod:선물: 일반 해로운 효과 카드.",
+    "DESCRIPTION_BATTLE": "피해를 !D! 줍니다. NL sneckomod:뱀독을 !M! 부여합니다."
+  },
+  "sneckomod:Cower": {
+    "NAME": "숙이기",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL *매복을 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "방어도를 !B! 얻습니다. NL *매복+을 얻습니다. NL 소멸."
+  },
+  "sneckomod:WideSting": {
+    "NAME": "광역 찌르기",
+    "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다. NL 손에 있는 sneckomod:다른 *직업 카드를 전부 강화합니다. NL sneckomod:선물: 일반 카드.",
+    "DESCRIPTION_BATTLE": "적 전체에게 피해를 !D! 줍니다. NL 손에 있는 sneckomod:다른 *직업 카드를 전부 강화합니다."
+  },
+  "sneckomod:GildedShield": {
+    "NAME": "도금 방패",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL 이 카드를 sneckomod:뒤엉키게 했다면 이 카드를 가져옵니다."
+  },
+  "sneckomod:Mesmerize": {
+    "NAME": "최면",
+    "DESCRIPTION": "적 전체의 힘을 !M! 감소시킵니다. NL 카드를 1장 sneckomod:뒤엉키게 합니다. NL 소멸."
+  },
+  "sneckomod:Serpentscale": {
+    "NAME": "뱀비늘",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL expansioncontent:판금 *갑옷을 1 얻습니다. NL sneckomod:과중 시 대신 *판금 *갑옷을 !M! 얻습니다."
+  },
+  "sneckomod:OtherworldlySlash": {
+    "NAME": "초인적인 베기",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 이번 턴에 sneckomod:다른 *직업 카드를 사용했다면 피해를 !D! 추가로 줍니다. NL sneckomod:선물: 일반 카드.",
+    "DESCRIPTION_BATTLE": "피해를 !D! 줍니다. NL 이번 턴에 sneckomod:다른 *직업 카드를 사용했다면 피해를 !D! 추가로 줍니다."
+  },
+  "sneckomod:BeyondArmor": {
+    "NAME": "저편의 갑옷",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL 뽑을 카드 더미에서 무작위 sneckomod:다른 *직업 카드를 !M! 장 가져옵니다. NL sneckomod:선물: 일반 카드.",
+    "DESCRIPTION_BATTLE": "방어도를 !B! 얻습니다. NL 뽑을 카드 더미에서 무작위 sneckomod:다른 *직업 카드를 !M! 장 가져옵니다."
+  },
+  "sneckomod:BlunderGuard": {
+    "NAME": "어쩌다 수호",
+    "DESCRIPTION": "비용이 3 이상인 카드를 사용할 때마다 힘을 !M! 얻고 방어도를 !qqq! 얻습니다.",
+    "UPGRADE_DESCRIPTION": "비용이 3 이상인 카드를 사용할 때마다 힘을 !M! 얻고 방어도를 !qqq! 얻습니다."
+  },
+  "sneckomod:WideAngle": {
+    "NAME": "광각",
+    "DESCRIPTION": "보존. NL 적 전체에게 피해를 !D! 줍니다."
+  },
+  "sneckomod:SerpentsNest": {
+    "NAME": "뱀 둥지",
+    "DESCRIPTION": "파워 카드를 사용할 때마다 적 전체에게 피해를 !M! 줍니다. NL sneckomod:선물: 특별 파워 카드.",
+    "DESCRIPTION_BATTLE": "파워 카드를 사용할 때마다 적 전체에게 피해를 !M! 줍니다."
+  },
+  "sneckomod:Whack": {
+    "NAME": "후려치기!",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL *맹공을 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. NL *맹공+을 얻습니다. NL 소멸."
+  },
+  "sneckomod:CobraCoil": {
+    "NAME": "코브라 코일",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 대상의 턴이 종료할 때마다 피해를 !M! 줍니다. NL sneckomod:선물: 희귀 공격 카드."
+  },
+  "sneckomod:Belittle": {
+    "NAME": "폄하",
+    "DESCRIPTION": "대상은 보유한 해로운 효과의 종류 하나당 체력을 !M! 잃습니다. NL sneckomod:선물: 특별 해로운 효과 카드.",
+    "DESCRIPTION_BATTLE": "대상은 보유한 해로운 효과의 종류 하나당 체력을 !M! 잃습니다."
+  },
+  "sneckomod:Jackpot": {
+    "NAME": "잭팟",
+    "DESCRIPTION": "보존. NL [E] [E] 를 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "보존. NL [E] [E] [E] 를 얻습니다. NL 소멸."
+  },
+  "sneckomod:MakeshiftBlade": {
+    "NAME": "임시변통 검",
+    "DESCRIPTION": "피해를 !D! 줍니다. 대상이 해로운 효과를 !M! 이상 보유하고 있다면 카드를 !qqq! 장 뽑습니다. NL sneckomod:선물: 해로운 효과 카드.",
+    "DESCRIPTION_BATTLE": "피해를 !D! 줍니다. 대상이 해로운 효과를 !M! 이상 보유하고 있다면 카드를 !qqq! 장 뽑습니다."
+  },
+  "sneckomod:LatchOn": {
+    "NAME": "감기기",
+    "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다. NL *독사의 *정수를 얻습니다."
+  },
+  "sneckomod:ComboString": {
+    "NAME": "연줄",
+    "DESCRIPTION": "이번 턴에 사용된 sneckomod:다른 *직업 카드 한 장당 피해를 !D! 줍니다. NL sneckomod:선물: 특별 카드.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (피해를 ",
+      " 번 줍니다.)"
+    ],
+    "DESCRIPTION_BATTLE": "이번 턴에 사용된 sneckomod:다른 *직업 카드 한 장당 피해를 !D! 줍니다."
+  },
+  "sneckomod:ThrowingCards": {
+    "NAME": "카드 던지기",
+    "DESCRIPTION": "*FTL을 X장 얻습니다. NL [E] 를 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "*FTL+을 X장 얻습니다. NL [E] 를 얻습니다. NL 소멸."
+  },
+  "sneckomod:RoundaboutSwing": {
+    "NAME": "양립",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 카드를 1장 뽑을 더미 맨 위에 놓습니다. NL 다음 턴에 카드를 !M! 장 더 뽑습니다."
+  },
+  "sneckomod:MarkedCard": {
+    "NAME": "표시해 둔 카드",
+    "DESCRIPTION": "카드를 1장 sneckomod:뒤엉키게 합니다. NL 이 카드로 *뒤엉킨 카드는 항상 가장 낮은 비용으로 변경됩니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "보존. NL 카드를 1장 sneckomod:뒤엉키게 합니다. NL 이 카드로 *뒤엉킨 카드는 항상 가장 낮은 비용으로 변경됩니다. NL 소멸."
+  },
+  "sneckomod:InertBlade": {
+    "NAME": "접이식 칼",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 이 카드의 비용이 높을수록 아래 효과가 추가됩니다. NL 비용 1: 카드를 !M! 장 뽑습니다. NL 비용 2: 힘을 !M! 얻습니다. NL 비용 3 이상: [E] 를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. NL 이 카드의 비용이 높을수록 아래 효과가 추가됩니다. NL 비용 1: 카드를 !M! 장 뽑습니다. NL 비용 2: 힘을 !M! 얻습니다. NL 비용 3 이상: [E] [E] 를 얻습니다."
+  },
+  "sneckomod:PerpetualSerpent": {
+    "NAME": "영원의 뱀",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL sneckomod:과중 시 [E] [E] 를 얻습니다."
+  },
+  "sneckomod:LastStrike": {
+    "NAME": "최후의 타격",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 이번 전투 동안 사용된 직업 타격 한 장당 피해를 줍니다. NL sneckomod:선물: 타격.",
+    "UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. NL 이번 전투 동안 사용된 직업 타격 한 장당 피해를 줍니다. NL sneckomod:선물: 타격.",
+    "DESCRIPTION_BATTLE": "피해를 !D! 줍니다. NL 이번 전투 동안 사용된 직업 타격 한 장당 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION_BATTLE": "피해를 !D! 줍니다. NL 이번 전투 동안 사용된 직업 타격 한 장당 피해를 줍니다.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (피해를 ",
+      " 번 줍니다.)"
+    ]
+  },
+  "sneckomod:AceOfWands": {
+    "NAME": "펜타클의 여왕",
+    "DESCRIPTION": "휘발성. NL 적에게 해로운 효과를 부여할 때마다 방어도를 !M! 얻습니다. NL sneckomod:선물: 해로운 효과 카드.",
+    "UPGRADE_DESCRIPTION": "적에게 해로운 효과를 부여할 때마다 방어도를 !M! 얻습니다. NL sneckomod:선물: 해로운 효과 카드."
+  },
+  "sneckomod:FlashInThePan": {
+    "NAME": "용두사미",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL 카드를 전부 버립니다. NL 그 수만큼 카드를 뽑습니다."
+  },
+  "sneckomod:TrashCan": {
+    "NAME": "쓰레기통",
+    "DESCRIPTION": "내 턴 시작 시 카드를 소멸시킵니다."
+  },
+  "sneckomod:Lacerate": {
+    "NAME": "갈기갈기",
+    "DESCRIPTION": "적 전체에게 sneckomod:뱀독을 !M! 부여합니다. NL *신경독을 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "적 전체에게 sneckomod:뱀독을 !M! 부여합니다. NL *신경독+을 얻습니다. NL 소멸."
+  },
+  "sneckomod:SerpentineSleuth": {
+    "NAME": "뱀 탐정",
+    "DESCRIPTION": "휘발성. NL 파워 카드를 사용할 때마다 [E] 를 얻습니다. NL sneckomod:선물: 희귀 파워 카드.",
+    "DESCRIPTION_BATTLE": "휘발성. NL 파워 카드를 사용할 때마다 [E] 를 얻습니다."
+  }
+}

@@ -1,0 +1,124 @@
+[
+  {
+    "PROPER_NAME": "活性",
+    "NAMES": [
+      "active",
+      "活性"
+    ],
+    "DESCRIPTION": "#y活性 状態のゴーストフレイムは、記載されている条件を満たすことで #y点火 する事が出来る。"
+  },
+  {
+    "PROPER_NAME": "前進",
+    "NAMES": [
+      "advance",
+      "advanced",
+      "advancing",
+      "前進"
+    ],
+    "DESCRIPTION": "次の ゴーストフレイム に移動する。 #y点火 状態の ゴーストフレイム の上に移動した場合 #y滅却 される。"
+  },
+  {
+    "PROPER_NAME": "後退",
+    "NAMES": [
+      "retract",
+      "retracted",
+      "retracting",
+      "後退"
+    ],
+    "DESCRIPTION": "前の ゴーストフレイム に移動する。 #y点火 状態の ゴーストフレイム の上に移動した場合 #y滅却 される。"
+  },
+  {
+    "PROPER_NAME": "火力",
+    "NAMES": [
+      "intensity",
+      "火力"
+    ],
+    "DESCRIPTION": "火力 は #y発火 時に ゴーストフレイム が与えるダメージ量、 #yソウルバーン 、 #yブロック を増加させる。"
+  },
+  {
+    "ID": "soulburn",
+    "PROPER_NAME": "ソウルバーン",
+    "NAMES": [
+      "soulburn",
+      "soulburned",
+      "ソウルバーン"
+    ],
+    "DESCRIPTION": "ソウルバーンを受けた敵は #b3 ターン後にHPを失い、ソウルバーンの効果が解除される。"
+  },
+  {
+    "PROPER_NAME": "滅却",
+    "NAMES": [
+      "extinguish",
+      "extinguished",
+      "滅却"
+    ],
+    "DESCRIPTION": "ゴーストフレイムを再び #y発火 出来るようにし、発火の条件をリセットする。"
+  },
+  {
+    "PROPER_NAME": "点火",
+    "NAMES": [
+      "ignite",
+      "ignited",
+      "force-ignite",
+      "発火",
+      "点火",
+      "再点火"
+    ],
+    "DESCRIPTION": "ゴーストフレイムに記載されている点火時の効果を発動させる。"
+  },
+  {
+    "PROPER_NAME": "封印",
+    "NAMES": [
+      "seal",
+      "封印"
+    ],
+    "DESCRIPTION": "封印を持つカードはエリート及びボス戦でドロップする。また、封印カードを多くプレイしているほど異なる封印を見つけやすくなる。一度の戦闘で #b6 種類すべての封印がプレイされた場合、 #p壊れた封印 を入手し、デッキから #b6 種の封印を取り除く。"
+  },
+  {
+    "ID": "afterlife",
+    "PROPER_NAME": "死後",
+    "NAMES": [
+      "afterlife",
+      "死後"
+    ],
+    "DESCRIPTION": "紫色の文字で書かれた効果は #y廃棄 された時にも発動する。"
+  },
+  {
+    "PROPER_NAME": "クラッシング",
+    "NAMES": [
+      "crushing",
+      "クラッシング"
+    ],
+    "DESCRIPTION": "#yゴーストフレイム 。 #y活性 時にスキルを #b2 回プレイされると、 #y発火 する。 #y発火: ランダムな敵1体に #b6 ダメージを与える。",
+    "TRANSLATOR_NOTE": "Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used "
+
+  },
+  {
+    "PROPER_NAME": "ボルスタリング",
+    "NAMES": [
+      "bolstering",
+      "ボルスタリング"
+    ],
+    "DESCRIPTION": "#yゴーストフレイム 。 #y活性 時にパワーがプレイされると、 #y発火 する。 #y発火: #b5 #yブロック と #y筋力 #b1 を得る。",
+    "TRANSLATOR_NOTE": "Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used "
+  },
+  {
+    "ID": "plated",
+    "PROPER_NAME": "プレートアーマー",
+    "NAMES": [
+      "plated",
+      "プレート"
+    ],
+    "DESCRIPTION": "ターン終了時、自分の #yプレートアーマー と同じ量のブロックを得る。防御しきれなかったダメージを受けると、 #yプレートアーマー が #b1 減少する。"
+  },
+  {
+    "PROPER_NAME": "シーリング",
+    "NAMES": [
+      "searing",
+      "シーリング"
+    ],
+    "DESCRIPTION": "#yゴーストフレイム 。 #y活性 時にアタックを #b2 回プレイされると、 #y発火 する。 #y発火: ランダムな敵に #b4 #yソウルバーン を与える。",
+    "TRANSLATOR_NOTE": "Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used "
+
+  }
+]

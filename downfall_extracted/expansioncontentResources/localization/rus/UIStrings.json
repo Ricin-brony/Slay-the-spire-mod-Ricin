@@ -1,0 +1,58 @@
+{
+  "downfall:PropertiesMod": {
+    "TEXT": [
+      "Applied properties.",
+      "Additional properties: ",
+      "Additional properties for this turn: ",
+      " NL Also for this turn: ",
+      ", ",
+      ".",
+      "#y",
+      "Эхо",
+      "Неиграбельная",
+      "Эфирная",
+      "Оставляется",
+      "Сжигается",
+      " ",
+      "NL ",
+      "Эхо: "
+    ]
+  },
+  "downfall:EtherealMod": {
+    "TEXT": [
+      "Эфирная. NL "
+    ]
+  },
+  "downfall:ExhaustMod": {
+    "TEXT": [
+      " NL Сжигается."
+    ]
+  },
+  "downfall:InnateMod": {
+    "TEXT": [
+      "Начальная. NL "
+    ]
+  },
+  "downfall:RetainCardMod": {
+    "TEXT": [
+      "Оставляется. NL "
+    ]
+  },
+  "downfall:UnplayableMod": {
+    "TEXT": [
+      "Немграбельная. NL ",
+      "Я не могу разыграть эту карту.",
+      "Я не могу разыграть эту карту в этом ходу."
+    ]
+  },
+  "expansioncontent:CannotUseBossCardMessage": {
+    "TEXT": [
+      "Карта Босса уже была разыграна в этом ходу!"
+    ]
+  },
+  "expansioncontent:BossCardTagName": {
+    "TEXT": [
+      "Босс"
+    ]
+  }
+}

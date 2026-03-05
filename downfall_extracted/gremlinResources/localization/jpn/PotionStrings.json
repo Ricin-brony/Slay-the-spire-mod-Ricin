@@ -1,0 +1,29 @@
+{
+  "gremlin:GremlinPotion": {
+    "NAME": "グレムリンウォーター",
+    "DESCRIPTIONS": [
+      "全ての #b5 グレムリンの能力を #b",
+      " 回使用する。"
+    ]
+  },
+  "gremlin:NecromancyPotion": {
+    "NAME": "瓶詰めグレムリン",
+    "DESCRIPTIONS": [
+      "ランダムなグレムリンを最大HPの #b",
+      "% のHPで復活させる。"
+    ]
+  },
+  "gremlin:SwapPotion": {
+    "NAME": "スワップボトル",
+    "DESCRIPTIONS": [
+      "ランダムなグレムリンと #y交代 する"
+    ]
+  },
+  "gremlin:WizPotion": {
+    "NAME": "ピザポーション",
+    "DESCRIPTIONS": [
+      "#y気力 #b",
+      " を得る。"
+    ]
+  }
+}

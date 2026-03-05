@@ -1,0 +1,123 @@
+{
+  "sneckomod:SneckoSoul": {
+    "NAME": "Âme de Geckobra",
+    "FLAVOR": "0...3...2...2...1",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, obtenez un #yLancer #yde #yl'Âme."
+    ]
+  },
+  "sneckomod:SuperSneckoSoul": {
+    "NAME": "Super Âme de Geckobra",
+    "FLAVOR": "3120231321230320",
+    "DESCRIPTIONS": [
+      "Remplace [#407B93]Âme de Geckobra[]. NL Au début de chaque combat et tous les 2 tours, obtenez un #yLancer #yde #yl'Âme NL Pendant vos tours impairs, piochez une carte supplémentaire au début de ceux-ci, et #ysneckomod:Confondez-la."
+    ]
+  },
+  "sneckomod:CleanMud": {
+    "NAME": "Flûte de charmeur de serpent",
+    "FLAVOR": "Sssssss...",
+    "DESCRIPTIONS": [
+      "Les cartes #ysneckomod:Confondues ne peuvent pas coûter #b3 [REMOVE_SPACE]."
+    ]
+  },
+  "sneckomod:ConfusingCodex": {
+    "NAME": "Anneau du geko",
+    "FLAVOR": "Indéchiffrable, illisible, à rendre pour jeudi.",
+    "DESCRIPTIONS": [
+      "Lorsque vous activez #b",
+      " effets #ysneckomod:Excédents [REMOVE_SPACE], appliquez #b1 de #yFaiblesse et de #yVulnérabilité à un ennemi aléatoire."
+    ]
+  },
+  "sneckomod:CrystallizedMud": {
+    "NAME": "Pendentif envoûtant",
+    "FLAVOR": "D'une saleté éblouissante.",
+    "DESCRIPTIONS": [
+      "Gagnez [E] au début de votre tour. Les cartes #ysneckomod:Confondues ne peuvent pas coûter #b0."
+    ]
+  },
+  "sneckomod:LoadedDie": {
+    "NAME": "Dé pipé",
+    "FLAVOR": "Garantit d'arnaquer les plus naïfs.",
+    "DESCRIPTIONS": [
+      "Lorsqu'une carte est #ysneckomod:Confondue [REMOVE_SPACE], gagnez #b",
+      " #yd'Armure [REMOVE_SPACE]."
+    ]
+  },
+  "sneckomod:RareBoosterPack": {
+    "NAME": "Boîte de cartes rares",
+    "FLAVOR": "Excellent état.",
+    "DESCRIPTIONS": [
+      "Lorsque vous la récupérez, obtenez une carte #ysneckomod:Hors-Classe #yRare."
+    ]
+  },
+  "sneckomod:SleevedAce": {
+    "NAME": "Atout dans la manche",
+    "FLAVOR": "Nous sommes tous des as.",
+    "DESCRIPTIONS": [
+      "Au début du combat, obtenez une #yCarte #yMarquée+ [REMOVE_SPACE]."
+    ]
+  },
+  "sneckomod:UnknownEgg": {
+    "NAME": "Œuf inconnu",
+    "FLAVOR": "Qu'en sortira-t-il ? Payez 1000€ pour le voir.",
+    "DESCRIPTIONS": [
+      "Lorsque vous ajoutez une carte #ysneckomod:Hors-Classe à votre deck, #yAméliorez-la. Lorsque vous récupérez cette relique, #yAméliorez #b2 cartes #ysneckomod:Hors-Classe aléatoires."
+    ]
+  },
+  "sneckomod:SuperSneckoEye": {
+    "NAME": "Super Œil de Geckobra",
+    "FLAVOR": "0121012",
+    "DESCRIPTIONS": [
+      "Remplace #yŒil #yde #yGeckobra. Au début de votre tour, piochez #b4 cartes supplémentaires. Commencez chaque combat avec #yConfus."
+    ]
+  },
+  "sneckomod:SneckoTalon": {
+    "NAME": "Idole de Rétromission",
+    "FLAVOR": "On l'appelle Idole Rétro pour faire plus court.",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, réduisez de #b1 le coût d'une carte aléatoire de votre main jusqu'à ce qu'elle soit jouée."
+    ]
+  },
+  "sneckomod:BlankCard": {
+    "NAME": "Carte vierge",
+    "FLAVOR": "Mimique n'importe quelle carte.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, ajoutez un #ygremlin:Écho d'une carte aléatoire de votre deck dans votre main. Elle coûte #b0 [REMOVE_SPACE]."
+    ]
+  },
+  "sneckomod:D8": {
+    "NAME": "Octaèdre mystique",
+    "FLAVOR": "Il semble pencher d'un côté.",
+    "DESCRIPTIONS": [
+      "Lorsque vous le ramassez, choisissez une carte qui a un effet sneckomod:Excédent. Lorsque vous la jouez, gagnez #b4 #yd'Armure et activez son effet #yExcédent, même si vous n'avez pas #b5 cartes en main.",
+      "Choisissez une carte pour ",
+      "Lorsque ",
+      " est jouée, gagnez #b4 #yd'Armure et activez son effet #yExcédent, même si vous n'avez pas #b5 cartes en main.",
+      "La carte attachée à cette relique a été #rretirée de votre deck, cette relique ne fonctionne plus désormais."
+    ]
+  },
+  "sneckomod:BabySnecko": {
+    "NAME": "Jeune Geckobra",
+    "FLAVOR": "Confusément adorable.",
+    "DESCRIPTIONS": [
+      "Inflige #b9 dégâts à un ennemi aléatoire et #ysneckomod:Confondez #b2 cartes aléatoires (qui coûte au moins #b1 [E]) dans votre main au début de votre tour."
+    ]
+  },
+  "sneckomod:SneckoCommon": {
+    "NAME": "Sceau d'approbation",
+    "FLAVOR": "Je suis le Soldat de Fer et ceci est ma Relique favorite de la Tour.  -Brochure de publicité pour le Marchand",
+    "DESCRIPTIONS": [
+      "Lorsque vous le ramassez, choisissez #b1 carte #yPouvoir Peu Commune #ysneckomod:Hors-Classe parmi #b5 cartes à obtenir."
+    ]
+  },
+  "sneckomod:SneckoBoss": {
+    "NAME": "Fer à cheval porte-bonheur",
+    "FLAVOR": "Moi je fabrique ma chance - Vieux monsieur.",
+    "DESCRIPTIONS": [
+      "Lorsque vous le ramassez, choisissez #b1 #yPersonnage parmi #b3 [REMOVE_SPACE]. Choisissez #b3 cartes Peu Communes #yAméliorées et #b2 cartes Rares à ajouter à votre deck. Tous les combats donnent en récompense supplémentaire une carte de ce personnage.",
+      "Lorsque vous le ramassez, obtenez #b3 cartes Peu Communes #yAméliorées et #b2 cartes Rares de ",
+      " . Tous les combats donnent une carte récompense supplémentaire de ",
+      " ."
+    ]
+  }
+}

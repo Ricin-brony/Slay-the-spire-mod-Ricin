@@ -1,0 +1,112 @@
+{
+  "Slimebound:AbsorbEndCombat": {
+    "NAME": "ベタつく心臓",
+    "FLAVOR": "とてもいい気分だ！",
+    "DESCRIPTIONS": [
+      "#yslimeboundmod:泥食い を行うたびに HPを #b",
+      " 回復する。一度の戦闘中に最大 #b",
+      " HP回復出来る。"
+    ]
+  },
+  "Slimebound:AbsorbEndCombatUpgraded": {
+    "NAME": "黒いベタつく心臓",
+    "FLAVOR": "ウーズの秘密",
+    "DESCRIPTIONS": [
+      " ",
+      " [] と置き換える。 NL #yslimeboundmod:泥食い を行うたびに HPを #b",
+      " 回復する。一度の戦闘中に最大 #b",
+      " HP回復出来る。"
+    ]
+  },
+  "Slimebound:SlimedTailRelic": {
+    "NAME": "スライムのしっぽ",
+    "FLAVOR": "敵をだますための偽物の尻尾。スライムで覆われている。",
+    "DESCRIPTIONS": [
+      "#y分裂 した時 #b",
+      " #yブロック を得る。"
+    ]
+  },
+  "Slimebound:PotencyRelic": {
+    "NAME": "ストーンオブノマック",
+    "FLAVOR": "ヘドロギャングの一人に見せるとたちまち踊りだす。",
+    "DESCRIPTIONS": [
+      "戦闘開始時、 #yslimeboundmod:効力 #b1 を得る。"
+    ]
+  },
+  "Slimebound:DailySplitRelic": {
+    "NAME": "スライム・ザ・スパイア",
+    "FLAVOR": "ALWAYS Split .なぜこれがレリックなのか？それはカスタムMODをアクティブMODのUIリストに追加する方法が分からないからさ！",
+    "DESCRIPTIONS": [
+      "#bカスタムラン #bModifier NL 全ての敵はHPが #b50% 以下になると2体のスライムに分裂する。"
+    ]
+  },
+  "Slimebound:ScrapOozeRelic": {
+    "NAME": "スクラップウーズ",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "戦闘開始時、 #yスクラップウーズ を産み出す。 ( #y吸収 しても復活出来る。) NL 休憩所 で #yスクラップウーズ にカードを1枚吸収させ、ダメージを変化させることが出来る。 ダメージ: NL #gアンコモン： #b+1 NL #yレア : #b+2 NL コモン： #b-1 NL #r呪い #b-2 ",
+      "デッキのカードを捧げスクラップウーズのダメージを修正する。",
+      "スクラップウーズに与えられるものが無い。",
+      "スクラップ"
+    ]
+  },
+  "Slimebound:GreedOozeRelic": {
+    "NAME": "グリードウーズ",
+    "FLAVOR": "塔の中で見つけた魂を喰らう友人",
+    "DESCRIPTIONS": [
+      "戦闘開始時、 #yグリードウーズ を産み出す。 ( #y吸収 しても復活出来る。) NL 休憩所 で #yグリードウーズ に #b50 の 魂 を吸収させると、ダメージを #b1 上昇させることが出来る。"
+    ]
+  },
+  "Slimebound:PreparedRelic": {
+    "NAME": "スライムスープ",
+    "FLAVOR": "酷い味だ...しかし、とんでもなく健康的になれる。",
+    "DESCRIPTIONS": [
+      "休憩所に入った次の戦闘で、戦闘開始時に #y準備行動 カードを手札に加える。それは1ターンの間コストが #b0 "
+    ]
+  },
+  "Slimebound:AggressiveSlimeRelic": {
+    "NAME": "ヘドロの住民",
+    "FLAVOR": "家まで着いてきちゃった。飼ってもいい？",
+    "DESCRIPTIONS": [
+      "戦闘開始時 #yslimeboundmod:ブルーザースライム に #yslimeboundmod:分裂 する。"
+    ]
+  },
+  "Slimebound:SlimedSkullRelic": {
+    "NAME": "粘液まみれの頭蓋骨",
+    "FLAVOR": "とても…とてもひどい状態のスネッコの頭蓋骨。汚れや垢が糊のように付着し不潔極まりない。",
+    "DESCRIPTIONS": [
+      "あなたが #yslimeboundmod:汚泥 を与える度に追加で #b",
+      " #yslimeboundmod:汚泥 を与える。"
+    ]
+  },
+  "Slimebound:MaxSlimesRelic": {
+    "NAME": "エレミアの旗",
+    "FLAVOR": "あなたと粘液の軍隊",
+    "DESCRIPTIONS": [
+      "戦闘開始時、ランダムなスライム に #yslimeboundmod:分裂 し、 #b1 スライムスロット を得る。"
+    ]
+  },
+  "Slimebound:SelfDamagePreventRelic": {
+    "NAME": "プロテクトギア",
+    "FLAVOR": "最高の護りこそが最適な攻撃だ",
+    "DESCRIPTIONS": [
+      "#yslimeboundmod:タックル の自傷ダメージを #b",
+      " 軽減する。"
+    ]
+  },
+  "Slimebound:TarBlob": {
+    "NAME": "タラゴンの球根",
+    "FLAVOR": "悪い意味でスライムっぽい。",
+    "DESCRIPTIONS": [
+      "ターン開始時 [E] を得る。戦闘開始時 #b1 スライムスロット を失う。"
+    ]
+  },
+  "Slimebound:StickyStick": {
+    "NAME": "ゼラチナスキューブ",
+    "FLAVOR": "やあ、身体にくっついてしまったよ",
+    "DESCRIPTIONS": [
+      "あなたが #y状態異常 または #r呪い カードを引いた時 #b",
+      " #yブロック を得る。"
+    ]
+  }
+}

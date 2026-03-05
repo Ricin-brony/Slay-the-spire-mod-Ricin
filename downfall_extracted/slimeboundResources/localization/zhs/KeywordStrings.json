@@ -1,0 +1,235 @@
+[
+  {
+    "NAMES": [
+      "吸收",
+      "absorb",
+      "absorbing",
+      "absorbed"
+    ],
+    "PROPERNAME": "吸收",
+    "DESCRIPTION": "融合最前面的的 #y史莱姆 并获得 #b1 点 #y力量 。"
+  },
+  {
+    "NAMES": [
+      "分裂",
+      "split",
+      "splitting"
+    ],
+    "PROPERNAME": "分裂",
+    "DESCRIPTION": "在最前面生成每回合开始时攻击的 #y史莱姆 爪牙。如果栏位不足，融合最后面的 #y史莱姆 再 #y分裂 并获得 #b1 点 #y力量 。"
+  },
+  {
+    "NAMES": [
+      "黏液",
+      "goop",
+      "gooped"
+    ],
+    "PROPERNAME": "黏液",
+    "DESCRIPTION": "每层 #y黏液 为下次攻击提供 #b1 点额外伤害，移除所有 #y黏液 并触发 #y吞食黏液 的效果。"
+  },
+  {
+    "NAMES": [
+      "潜力",
+      "potency"
+    ],
+    "PROPERNAME": "潜力",
+    "DESCRIPTION": "强化 #y分裂 的 #y史莱姆 的攻击伤害与附加效果。附加效果只有 #b50% 强化效率。"
+  },
+  { "NAMES": [
+      "命令",
+      "command",
+      "commands"
+    ],
+    "PROPER_NAME": "命令",
+    "DESCRIPTION": "最前面的 #y史莱姆 将会攻击。"
+  },
+  {
+    "NAMES": [
+      "火炬头史莱姆",
+      "torchhead slime",
+      "torchhead_slime"
+    ],
+    "PROPERNAME": "火炬头史莱姆",
+    "DESCRIPTION": "攻击时随机造成 #b6 点伤害。 NL 你的 #y力量 提高其伤害。"
+  },
+  {
+    "NAMES": [
+      "好斗史莱姆",
+      "bruiser slime",
+      "bruiser_slime",
+      "bruiser slimes",
+      "bruiser_slimes",
+      "bruiser"
+    ],
+    "PROPERNAME": "好斗史莱姆",
+    "DESCRIPTION": "攻击时随机造成 #b3 点伤害两次。"
+  },
+  {
+    "NAMES": [
+      "邪教徒史莱姆",
+      "cultist slime",
+      "cultist_slime"
+    ],
+    "PROPERNAME": "邪教徒史莱姆",
+    "DESCRIPTION": "攻击时随机造成 #b6 点伤害并提高其伤害 #b1 点。"
+  },
+  {
+    "NAMES": [
+      "水蛭史莱姆",
+      "leeching slime",
+      "leeching_slime",
+      "leeching slimes",
+      "leeching_slimes",
+      "leeching"
+    ],
+    "PROPERNAME": "水蛭史莱姆",
+    "DESCRIPTION": "攻击时随机造成 #b1 点伤害并给予你 #b3 点 #y格挡 。"
+  },
+    {
+    "NAMES": [
+      "游击史莱姆",
+      "guerilla slime",
+      "guerilla_slime",
+      "guerilla slimes",
+      "guerilla_slimes",
+      "guerilla"
+    ],
+    "PROPER_NAME": "游击史莱姆",
+    "DESCRIPTION": "攻击时对所有敌人造成 #b3 点伤害。"
+  },
+  {
+    "NAMES": [
+      "污泥史莱姆",
+      "mire slime",
+      "mire_slime",
+      "mire slimes",
+      "mire_slimes",
+      "mire"
+    ],
+    "PROPERNAME": "污泥史莱姆",
+    "DESCRIPTION": "攻击时随机造成 #b2 点伤害并给予敌人 #b2 层 #y黏液 。"
+  },
+  {
+    "NAMES": [
+      "青铜史莱姆",
+      "bronze slime",
+      "bronze_slime"
+    ],
+    "PROPERNAME": "青铜史莱姆",
+    "DESCRIPTION": "攻击时对所有敌人造成 #b10 点伤害，但跳过其下次攻击。"
+  },
+  {
+    "NAMES": [
+      "舔舔",
+      "舔",
+      "lick"
+    ],
+    "PROPERNAME": "舔舔",
+    "DESCRIPTION": "一系列给予 #y黏液 的 #b0 耗能 #y消 #y耗 牌，带有各种额外效果。"
+  },
+  {
+    "NAMES": [
+      "鬼火史莱姆",
+      "ghostflame slime",
+      "ghostflame_slime"
+    ],
+    "PROPERNAME": "鬼火史莱姆",
+    "DESCRIPTION": "攻击时随机造成 #b3 点伤害并给予 #b5 层 #y灼魂 。"
+  },
+  {
+    "NAMES": [
+      "缓慢",
+      "slow"
+    ],
+    "PROPERNAME": "缓慢",
+    "DESCRIPTION": "一回合内每打出一张牌额外受到 10% 的伤害。"
+  },
+  {
+    "NAMES": [
+      "冲撞",
+      "tackle",
+      "tackles"
+    ],
+    "PROPERNAME": "冲撞",
+    "DESCRIPTION": "一类高伤害 #y攻击 牌，会对自己造成少量伤害。"
+  },
+  {
+    "NAMES": [
+      "尖塔首领",
+      "spire boss",
+      "spire_boss"
+    ],
+    "PROPERNAME": "尖塔首领",
+    "DESCRIPTION": "强力的0费牌，受尖塔中的首领启发而学会的新东西。"
+  },
+    {
+    "NAMES": [
+      "尖刺史莱姆",
+      "protector slime",
+      "protector_slime"
+    ],
+    "PROPER_NAME": "尖刺史莱姆",
+    "DESCRIPTION": "攻击时随机造成 #b4 点伤害并给予你 #b4 层 #y临时 #y荆棘 。"
+  },
+  {
+    "NAMES": [
+      "嘲讽史莱姆",
+      "insulting slime",
+      "insulting_slime"
+    ],
+    "PROPER_NAME": "嘲讽史莱姆",
+    "DESCRIPTION": "攻击时随机造成 #b4 点伤害并给予敌人 #b1 层 #y易伤 。"
+  }, 
+  {
+    "NAMES": [
+      "小黑史莱姆",
+      "darkling slime",
+      "darkling_slime"
+    ],
+    "PROPER_NAME": "小黑史莱姆",
+    "DESCRIPTION": "攻击时随机造成 #b3 点伤害。 #y命令 时，其他 #y小黑史莱姆 也会攻击。"
+  },
+  {
+    "NAMES": [
+      "先古史莱姆",
+      "ancient slime",
+      "ancient_slime"
+    ],
+    "PROPER_NAME": "先古史莱姆",
+    "DESCRIPTION": "攻击时随机造成 #b3 点伤害并使你抽 #b1 张牌。"
+  },
+  {
+    "NAMES": [
+      "时间史莱姆",
+      "time slime",
+      "time_slime"
+    ],
+    "PROPER_NAME": "时间史莱姆",
+    "DESCRIPTION": "攻击时随机造成 #b4 点伤害并给予敌人 #b1 层 #y虚弱 。"
+  },
+    {
+    "NAMES": [
+      "吞食黏液",
+      "consume"
+    ],
+    "PROPER_NAME": "吞食黏液",
+    "DESCRIPTION": "当 #y攻击 带有 #y黏液 的敌人时可触发的额外效果。"
+  },
+    {
+    "NAMES": [
+      "专家史莱姆",
+      "specialist",
+      "specialist"
+    ],
+    "PROPER_NAME": "专家史莱姆",
+    "DESCRIPTION": "比普通 #y史莱姆 更加强大的独特 #y史莱姆 。"
+  },
+  {
+    "NAMES": [
+      "深埋",
+      "buried"
+    ],
+    "PROPER_NAME": "深埋",
+    "DESCRIPTION": "被 #y发掘 的优先级最低。"
+  }
+]

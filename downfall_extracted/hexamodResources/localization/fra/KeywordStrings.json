@@ -1,0 +1,133 @@
+[
+  {
+    "PROPER_NAME": "Actif",
+    "NAMES": [
+      "actif",
+      "active"
+    ],
+    "DESCRIPTION": "Le Feu Follet #yActif peut être Enflammé en répondant à ses exigences en matière d'Inflammation."
+  },
+  {
+    "PROPER_NAME": "Avancement",
+    "NAMES": [
+      "avancez",
+      "avancé",
+      "avancer",
+      "n'avancez",
+      "d'avancer",
+      "advance",
+      "advanced",
+      "advancing"
+    ],
+    "DESCRIPTION": "Passez au Feu Follet suivant. Passer un Feu Follet #yl'Éteint."
+  },
+  {
+    "PROPER_NAME": "Rétraction",
+    "NAMES": [
+      "rétractez",
+      "rétracté",
+      "rétracter",
+      "retract",
+      "retracted",
+      "retracting"
+    ],
+    "DESCRIPTION": "Passez au Feu Follet précédent. Passer un Feu Follet #yl'Éteint."
+  },
+  {
+    "PROPER_NAME": "Intensité",
+    "NAMES": [
+      "intensité",
+      "d'intensité",
+      "intensity"
+    ],
+    "DESCRIPTION": "L'Intensité augmente les dégâts, la #yBrûlure [REMOVE_SPACE], et #yl'Armure [REMOVE_SPACE] appliqués par les Feu Follets lorsqu'ils sont #yEnflammés."
+  },
+  {
+	"ID": "soulburn",
+    "PROPER_NAME": "Brûlure",
+    "NAMES": [
+      "brûlure",
+      "brûlé",
+      "soulburn",
+      "soulburned"
+    ],
+    "DESCRIPTION": "Après #b3 tours, un ennemi Brûlé perd des PV, retirant l'effet Brûlure."
+  },
+  {
+    "PROPER_NAME": "Extinction",
+    "NAMES": [
+      "éteignez",
+      "éteints",
+      "éteignez-les",
+      "éteignez-le",
+      "extinguish",
+      "extinguished"
+    ],
+    "DESCRIPTION": "Permet au Feu Follet d'être #yEnflammé à nouveau, réinitialisant ses conditions d'Inflammation."
+  },
+  {
+    "PROPER_NAME": "Inflammation",
+    "NAMES": [
+      "ignite",
+      "enflammez",
+      "enflammé",
+      "enflammez-le",
+      "enflammés",
+      "ignited",
+      "force-ignite"
+    ],
+    "DESCRIPTION": "Déclenche l'effet d'Inflammation décrit d'un Feu Follet."
+  },
+  {
+    "PROPER_NAME": "Sceau",
+    "NAMES": [
+      "sceau",
+      "seal"
+    ],
+    "DESCRIPTION": "Les cartes Sceau peuvent être obtenues lors des combats d'Élite. Plus vous jouez une carte Sceau, plus vous avez de chances d'en trouver d'autres de différents types. Si les #b6 Sceaux ont été joués pendant un combat, obtenez #pLe #pSceau #pBrisé et retirez les Sceaux de votre deck."
+  },
+  {
+	"ID": "afterlife",
+    "PROPER_NAME": "Après-vie",
+    "NAMES": [
+      "après-vie"
+    ],
+    "DESCRIPTION": "L'effet en violet sera également déclenché si cette carte est #yÉpuisée [REMOVE_SPACE]."
+  },
+  {
+    "PROPER_NAME": "Écrasant",
+    "NAMES": [
+      "écrasant",
+      "crushing"
+    ],
+    "DESCRIPTION": "#yFeu #yFollet. #yEnflammé lorsque #b2 #yCompétences sont jouées alors que celui-ci est #yActif. #yInflammation [REMOVE_SPACE]: Lorsqu'il est #yEnflammé [REMOVE_SPACE], infligez #b4 dégâts à un ennemi aléatoire deux fois.",
+    "TRANSLATOR_NOTE": "Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used "
+  },
+  {
+    "PROPER_NAME": "Renforceur",
+    "NAMES": [
+      "renforceur",
+      "bolstering"
+    ],
+    "DESCRIPTION": "#yFeu #yFollet. #yEnflammé lorsqu'un #yPouvoir est joué alors que celui-ci est #yActif. #yInflammation [REMOVE_SPACE]: Lorsqu'il est #yEnflammé [REMOVE_SPACE], gagnez #b4 #yd'Armure et #b1 de #yForce [REMOVE_SPACE].",
+    "TRANSLATOR_NOTE": "Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used "
+  },
+  {
+    "ID": "plated",
+    "PROPER_NAME": "Armure plaquée",
+    "NAMES": [
+      "plated",
+      "plaquée"
+    ],
+    "DESCRIPTION": "À la fin de votre tour, gagnez de #yl'Armure égale à votre #yArmure #yPlaquée [REMOVE_SPACE]. Subir des dégâts d'Attaque non-bloqués réduit votre #yArmure #yPlaquée de #b1."
+  },
+  {
+    "PROPER_NAME": "Incinérateur",
+    "NAMES": [
+      "incinérateur",
+      "searing"
+    ],
+    "DESCRIPTION": "#yFeu #yFollet. #yEnflammé lorsque #b2 #yAttaques sont jouées alors que celui-ci est #yActif. #yInflammation [REMOVE_SPACE]: Lorsqu'il est #yEnflammé [REMOVE_SPACE], appliquez #b4 de #yBrûlure à un ennemi aléatoire, modifié deux fois par #yl'Intensité [REMOVE_SPACE].",
+    "TRANSLATOR_NOTE": "Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used Not used "
+  }
+]

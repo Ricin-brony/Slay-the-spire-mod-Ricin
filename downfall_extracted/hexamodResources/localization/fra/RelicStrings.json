@@ -1,0 +1,114 @@
+{
+  "hexamod:SpiritBrand": {
+    "NAME": "Marque d'esprit",
+    "FLAVOR": "Un protecteur enchaîné.",
+    "DESCRIPTIONS": [
+      "La première fois que vous #yhexamod:Enflammez un Feu Follet chaque tour, gagnez #b",
+      " #yd'Armure [REMOVE_SPACE]."
+    ]
+  },
+  "hexamod:TheBrokenSeal": {
+    "NAME": "Le Sceau Brisé",
+    "FLAVOR": "Un pouvoir illimité, sans limite, inextinguible.",
+    "DESCRIPTIONS": [
+      "Lorsque vous le récupérez, augmentez vos PV Max de #b",
+      " [REMOVE_SPACE], puis soignez-vous entièrement. Commencez chaque combat avec #b",
+      " de #yForce [REMOVE_SPACE], de #yDextérité [REMOVE_SPACE], et #yhexamod:d'Intensité [REMOVE_SPACE]. Vous ne pouvez pas obtenir #pLe #pSceau #pBrisé à nouveau ainsi que les autres Sceaux."
+    ]
+  },
+  "hexamod:UnbrokenSoul": {
+    "NAME": "Marque d'éther",
+    "FLAVOR": "Voyons voir si je peux faire... mieux.",
+    "DESCRIPTIONS": [
+      "Remplace ",
+      " [REMOVE_SPACE].[] NL Lorsque vous #yhexamod:Enflammez un Feu Follet, gagnez #b",
+      " #yd'Armure [REMOVE_SPACE]."
+    ]
+  },
+  "hexamod:IceCube": {
+    "NAME": "Charme de glace de Xanatos",
+    "FLAVOR": "Je me sens... frigorifié.",
+    "DESCRIPTIONS": [
+      "Gagnez [E] au début de votre tour. Commencez chaque combat avec #b",
+      " #yhexamod:d'Intensité de moins, et ne recevez aucune #yhexamod:Intensité du #yFeu #yFollet #Infernal [REMOVE_SPACE]."
+    ]
+  },
+  "hexamod:SoulStone": {
+    "NAME": "Pierre d'âme",
+    "FLAVOR": "Un feu animerait cette chose!",
+    "DESCRIPTIONS": [
+      "À chaque fois que vous #yÉpuisez #b",
+      " cartes, #yhexamod:Enflammez le Feu Follet actuel."
+    ]
+  },
+  "hexamod:RecyclingMachine": {
+    "NAME": "Recycleur",
+    "FLAVOR": "Un jour, cet appareil sera recyclé à son tour.",
+    "DESCRIPTIONS": [
+      "La première fois qu'une carte #yÉthérée qui ne soit ni #yStatut ni #rMalédiction #ys'Épuise chaque combat, ajoutez une copie de celle-ci dans votre main qui coûte 0 jusqu'à ce qu'elle soit jouée."
+    ]
+  },
+  "hexamod:MatchstickCase": {
+    "NAME": "Allumette sournoise en teck",
+    "FLAVOR": "S'allume sur n'importe quelle surface!",
+    "DESCRIPTIONS": [
+      "La première fois que vous #yhexamod:Enflammez chaque tour, vous pouvez choisir #yhexamod:d'Avancer ou de #yhexamod:Rétracter [REMOVE_SPACE]."
+    ]
+  },
+  "hexamod:InflammatoryLetter": {
+    "NAME": "Pot de TOBSCo",
+    "FLAVOR": "Un peu de piquant en plus, ça rend tout meilleur.",
+    "DESCRIPTIONS": [
+      "Commencez chaque combat avec #b",
+      " #yhexamod:d'Intensité."
+    ]
+  },
+  "hexamod:SoulOfChaos": {
+    "NAME": "Âme chaotique",
+    "FLAVOR": "Le chaos, rendu manifeste.",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, avancez vers un Feu Follet aléatoire et randomisez-le. À la fin de votre tour, jouez la carte en haut de votre pioche."
+    ]
+  },
+  "hexamod:JarOfFuel": {
+    "NAME": "Bouclier d'Olexa",
+    "FLAVOR": "Protection sur demande.",
+    "DESCRIPTIONS": [
+      "Les cartes #yPouvoir comptent pour la progression des #yFeux #yFollets #yIncinérateur et #yÉcrasant [REMOVE_SPACE]."
+    ]
+  },
+  "hexamod:BolsterEngine": {
+    "NAME": "Baguette des flammes ardentes",
+    "FLAVOR": "Boucliers de feu! Le feu se renforce.",
+    "DESCRIPTIONS": [
+      "La première fois que vous jouez un #yPouvoir chaque combat, gagnez #b",
+      "6 #yd'Armure et #b",
+      "1 de #yForce [REMOVE_SPACE]."
+    ]
+  },
+  "hexamod:CandleOfCauterizing": {
+    "NAME": "Bougie rouge",
+    "FLAVOR": "Le feu, ça BRÛLE...",
+    "DESCRIPTIONS": [
+      "Lorsque vous appliquez de la #yhexamod:Brûlure [REMOVE_SPACE], appliquez-en #b",
+      " de plus."
+    ]
+  },
+  "hexamod:Sixitude": {
+    "NAME": "Étoile à six pointes",
+    "FLAVOR": "Feu, feu, feu, feu, feu, FEU!",
+    "DESCRIPTIONS": [
+      "Lorsque vous jouez #b",
+      " cartes qui ne coûtent pas #b0, obtenez un #gremlin:Écho d'une #yFrappe basique. Elle coûte #b0."
+    ]
+  },
+  "hexamod:Libra": {
+    "NAME": "Balance",
+    "FLAVOR": "Équilibre en toutes choses.",
+    "DESCRIPTIONS": [
+      "Choisissez n'importe quel nombre de vos frappes et défenses à #yTransformer en leur type opposé.",
+      "La Balance de la justice a agi.",
+      "Choisissez n'importe quel nombre de cartes à transformer en leur type opposé."
+    ]
+  }
+}	

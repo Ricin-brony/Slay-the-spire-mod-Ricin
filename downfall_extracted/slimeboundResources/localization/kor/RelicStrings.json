@@ -1,0 +1,112 @@
+﻿{
+  "Slimebound:AbsorbEndCombat": {
+    "NAME": "끈끈이 심장",
+    "FLAVOR": "멋진 기분이다.",
+    "DESCRIPTIONS": [
+      "#yslimeboundmod:소비할 때마다 체력을 #b",
+      " 회복합니다. 전투마다 체력을 최대 #b",
+      " 회복할 수 있습니다."
+    ]
+  },
+  "Slimebound:AbsorbEndCombatUpgraded": {
+    "NAME": "검은 끈끈이 심장",
+    "FLAVOR": "질척거리는 비밀.",
+    "DESCRIPTIONS": [
+      " ",
+      "과[] 교체합니다. NL #yslimeboundmod:소비할 때마다 체력을 #b",
+      " 회복합니다. 전투마다 체력을 최대 #b",
+      " 회복할 수 있습니다."
+    ]
+  },
+  "Slimebound:SlimedTailRelic": {
+    "NAME": "슬라임 꼬리",
+    "FLAVOR": "전투 중에 적을 속이기 위한 가짜 꼬리로 점액으로 뒤덮여 있습니다.",
+    "DESCRIPTIONS": [
+      "#y분열할 때마다 #y방어도를 #b",
+      " 얻습니다."
+    ]
+  },
+  "Slimebound:PotencyRelic": {
+    "NAME": "노막의 돌",
+    "FLAVOR": "당신의 점액질 군단에게 선물하면 슬라임들이 춤추듯 움직입니다.",
+    "DESCRIPTIONS": [
+      "전투 시작 시 #yslimeboundmod:잠재력을 #b1 얻습니다."
+    ]
+  },
+  "Slimebound:DailySplitRelic": {
+    "NAME": "첨탑의 슬라임",
+    "FLAVOR": "계속계속 분열하고 있습니다. 이게 왜 유물일까요? 활성 모드 UI 목록에 커스텀 모드를 추가하는 방법을 못찾았기 때문이죠!",
+    "DESCRIPTIONS": [
+      "#b커스텀 #b도전 #b조정 NL 모든 적이 체력이 #b50% 인 슬라임 두 마리가 됩니다."
+    ]
+  },
+  "Slimebound:ScrapOozeRelic": {
+    "NAME": "날붙이 수액",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "전투 시작 시 #y날붙이 #y수액을 소환합니다. ( #y흡수돼도 되살아날 수 있습니다.) NL 휴식 장소에서 카드를 주면 등급에 따라 피해량이 증가하거나 감소합니다. NL 등급별 피해량 증감 : #y희귀 #b+2 NL #g특별 #b+1 NL 일반 #b-1 NL #r저주 #b-2 .",
+      "카드를 제거하고 날붙이 수액의 피해량을 조정합니다.",
+      "날붙이 수액에게 줄 게 없습니다.",
+      "날붙이"
+    ]
+  },
+  "Slimebound:GreedOozeRelic": {
+    "NAME": "욕심쟁이 수액",
+    "FLAVOR": "첨탑에서 영혼을 탐욕스레 모으던 친구입니다.",
+    "DESCRIPTIONS": [
+      "전투 시작 시 #y욕심쟁이 #y수액을 소환합니다. ( #y흡수돼도 되살아날 수 있습니다.) NL 휴식 장소에서 #y영혼을 #b50 뺏어가는 대신 #y욕심쟁이 #y수액의 피해량이 #b1 증가합니다."
+    ]
+  },
+  "Slimebound:PreparedRelic": {
+    "NAME": "슬라임 수프",
+    "FLAVOR": "믿기지 않겠지만, 맛이 끔찍하긴 해도 건강에 매우 좋습니다.",
+    "DESCRIPTIONS": [
+      "휴식 장소를 거친 다음 전투에서 비용이 #b0 인 #y준비 #y동작을 얻습니다."
+    ]
+  },
+  "Slimebound:AggressiveSlimeRelic": {
+    "NAME": "끈적이는 주민",
+    "FLAVOR": "집까지 따라왔으니까 데리고 다녀도 되겠지?",
+    "DESCRIPTIONS": [
+      "전투 시작 시 #yslimeboundmod:싸움꾼 #y슬라임으로 #yslimeboundmod:분열합니다."
+    ]
+  },
+  "Slimebound:SlimedSkullRelic": {
+    "NAME": "점액 투성이 해골",
+    "FLAVOR": "상태가 매우 안 좋은 스네코 해골입니다. 더럽고 끈적거리는 땟국물투성이입니다.",
+    "DESCRIPTIONS": [
+      "#yslimeboundmod:점액을 부여할 때마다 #yslimeboundmod:점액을 #b",
+      " 추가로 부여합니다."
+    ]
+  },
+  "Slimebound:MaxSlimesRelic": {
+    "NAME": "예레미아의 현수막",
+    "FLAVOR": "당신과 끈끈이 군단의 상징입니다.",
+    "DESCRIPTIONS": [
+      "전투 시작 시 슬라임 슬롯을 #b1 얻고 무작위 슬라임으로 #yslimeboundmod:분열합니다."
+    ]
+  },
+  "Slimebound:SelfDamagePreventRelic": {
+    "NAME": "보호구",
+    "FLAVOR": "공격이 최선의 방어인 법입니다.",
+    "DESCRIPTIONS": [
+      "#yslimeboundmod:태클 카드를 사용할 때 입는 반동 피해가 #b",
+      " 감소합니다."
+    ]
+  },
+  "Slimebound:TarBlob": {
+    "NAME": "타르 방울",
+    "FLAVOR": "나쁜 부류의 슬라임입니다.",
+    "DESCRIPTIONS": [
+      "내 턴 시작 시 [E] 를 얻습니다. 전투 시작 시 슬라임 슬롯을 #b1 잃습니다."
+    ]
+  },
+  "Slimebound:StickyStick": {
+    "NAME": "젤라틴 큐브",
+    "FLAVOR": "이봐요, 당신 몸에 딱 달라붙었다구요.",
+    "DESCRIPTIONS": [
+      "#y상태이상 또는 #r저주를 뽑을 때마다 #y방어도를 #b",
+      " 얻습니다."
+    ]
+  }
+}

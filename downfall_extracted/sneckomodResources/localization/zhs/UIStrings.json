@@ -1,0 +1,86 @@
+{
+  "sneckomod:Unknown": {
+    "TEXT": [
+      "Unidentified",
+      " Upgraded ",
+      "At the start of combat, Unidentified cards transform into other random cards from the chosen classes that satisfy certain constraints.",
+      " NL Chosen classes:",
+      "At the start of combat, Unidentified cards transform into other random cards from ANY other class that satisfy certain constraints.",
+      "At the start of combat, Unidentified cards transform into other random cards from other classes that satisfy certain constraints."
+    ]
+  },
+  "sneckomod:UnknownNames": {
+    "TEXT": [
+      "Unidentified"
+    ]
+  },
+  "sneckomod:UnknownClass": {
+    "TEXT": [
+      "???",
+      "*Unidentified ",
+      " Card.",
+      "Character",
+      "The ",
+      "You should never see this. Report to Vex",
+      "Upgraded "
+    ]
+  },
+  "sneckomod:UpgradedUnknownReward": {
+    "TEXT": [
+      "Add an Unidentified+ card to your deck",
+      "Pick a Card."
+    ]
+  },
+  "sneckomod:FreeRetainMod": {
+    "TEXT": [
+      "保留 。 NL "
+    ]
+  },
+  "sneckomod:ExhaustMod": {
+    "TEXT": [
+      " NL 消耗 。"
+    ]
+  },
+  "sneckomod:ChallengeMode": {
+    "TEXT": [
+      "挑战模式—异蛇·包罗万象",
+      "礼物将来自所有角色，推荐异蛇高玩尝试。"
+    ]
+  },
+  "sneckomod:LockInBonfireOptions": {
+    "TEXT": [
+      "Identify",
+      "Lock an Unidentified into a permanent card.",
+      "Requires an Unidentified card.",
+      "Select a card to add to your deck, removing its Unidentified.",
+      "[Free Action] Lock an Unidentified into a permanent card."
+    ]
+  },
+  "sneckomod:CommonAttackReward": {
+    "TEXT": [
+      "将1张异色牌加入你的卡组中。",
+      "选择1张牌。"
+    ]
+  },
+  "sneckomod:DiceRollPotionReward": {
+    "TEXT": [
+      "将1张已升级的牌加入你的卡组中。",
+      "选择1张牌。"
+    ]
+  },
+  "sneckomod:ColorfulPowersCardReward": {
+    "TEXT": [
+      "将1张已升级的能力牌加入你的卡组中。",
+      "选择1张牌。"
+    ]
+  },
+  "sneckomod:AtGameStart": {
+    "TEXT": [
+      "",
+      "牌",
+      "礼物 将包括",
+      " 牌",
+      "选择本局游戏礼物牌"
+    ]
+  }
+}

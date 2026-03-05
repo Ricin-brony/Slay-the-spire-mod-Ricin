@@ -1,0 +1,252 @@
+{
+  "downfall:Heart Event": {
+    "NAMES": [
+      "El Corazón"
+    ],
+    "TEXT": [
+      "~Sirve...~ NL ~a mí...~ ~ahora...~",
+      "~Levántate...~ NL ~Siervo...~",
+      "~Álzate...~",
+      "~Asesina~ NL ~a los intrusos...~",
+      "~Alcanza~ ~al~ ~intruso...~ NL ~para~ ~recibir~ ~más...~ ~bendiciones...~",
+      "~Al menos...~ ~enfrenta~ NL ~al~ ~primer~ ~intruso...~",
+      "~Yo~ ~te~ ~he~ ~traído~ ~de~ ~vuelta...~",
+      "~Elige...~",
+      "~Concedido...~",
+      "~Sacrificio...~ NL ~...por~ ~poder....~",
+      "~DEMUESTRA~ ~tu~ NL ~valor...~",
+      "Recompensas",
+      "~Continúa~ ~por~ ~mí...~",
+      "~Desciende...~ ~..en la locura...~",
+      "~Impresionante...~ ~más...~",
+      "¡Maldito!",
+      "¡Mente Dispersa!",
+      "¡Transformación!"
+    ],
+    "OPTIONS": [
+      "[Continuar]",
+      "[Hablar]",
+      "[Saltar]",
+      "[Salir]",
+      "Elige 10 cartas para añadir a tu mazo.",
+      "[ #gLos #genemigos #gen #gtus #gpróximos #gtres #gcombates #ghuirán #gcon #gpánico ]",
+      "[ Bloqueado - No se puede elegir en la primera partida ]",
+      "[ #gTodos #glos #gGremlins #ganan #gPV #gMáximos +",
+      "#gTodos #glos #gGremlins #ganan #gPV #gMáximos +",
+      "[ #rTodos #rlos #rGremlins #rpierden #r",
+      "[ #rTodos #rlos #rGremlins #rreciben #r"
+    ]
+  },
+  "downfall:Unlock": {
+    "TEXT": [
+      "(Las victorias en el Acto 4 no cuentan)",
+      "Este personaje se desbloquea al completar una partida con el Rey Babosa.",
+      "Este personaje se desbloquea al completar una partida con el segundo personaje Villano.",
+      "Este personaje se desbloquea al completar una partida con el Guardián.",
+      "Este personaje se desbloquea al completar una partida con el tercer personaje Villano.",
+      "Este personaje se desbloquea al completar una partida con el Hexafantasma.",
+      "Este personaje se desbloquea al completar una partida con el cuarto personaje Villano.",
+      "Este personaje se desbloquea al completar una partida con el Campeón.",
+      "Este personaje se desbloquea al completar una partida con el quinto personaje Villano.",
+      "Este personaje se desbloquea al completar una partida con el Autómata.",
+      "Este personaje se desbloquea al completar una partida con el sexto personaje Villano.",
+      "Este personaje se desbloquea al completar una partida con el Coleccionista.",
+      "Este personaje se desbloquea al completar una partida con el séptimo personaje Villano.",
+      "Este personaje se desbloquea al completar una partida con el Despertado.",
+      "Este personaje se desbloquea al completar una partida con el octavo personaje Villano.",
+      "Este personaje se desbloquea al completar una partida con los Gremlins."
+    ]
+  },
+  "downfall:HeartMerchant": {
+    "NAMES": [
+      "Proceder",
+      "~Sacrificio...~"
+    ],
+    "TEXT": [
+      "~Creces...~ ~más fuerte...~",
+      "~Crecemos...~ ~a medida que~ ~tú~ ~creces...~",
+      "~Asesina...~ ~y~ ~recibirás~ ~recompensas...~",
+      "~Más...~ ~almas...~",
+      "~Aliméntanos......~ NL ~ALIMÉNTANOS......~",
+      "~Alimenta...~ ~la~ ~corrupción...~",
+      "~Las~ ~bendiciones...~ ~se~ ~ganan...~",
+      "~No...~ ~hay...~ ~piedad...~",
+      "~Cada vez...~ ~más fuerte...~",
+      "~Nuestro~ ~poder...~ ~es~ ~tuyo...~",
+      "~Mata~ ~a~ ~todos...~ ~en~ ~tu~ ~camino...~",
+      "~Lucha...~ ~cae...~ ~y~ ~alimenta...~",
+      "~Somos...~ ~legión...~",
+      "~Avanza...~ ~y~ ~cosecha...~",
+      "~Deliciosas...~ ~almas...~",
+      "~Cosecha...~ ~a los caídos...~"
+    ],
+    "OPTIONS": [
+      "~Neow...~ ~no puede~ ~ganar...~",
+      "~No temas...~ ~a nada...~",
+      "..... NL .... NL .........",
+      "~Acaba...~ ~con~ ~ellos...~",
+      "~Buena...~ ~suerte...~",
+      "~No...~ ~mueras...~",
+      "~Estaremos...~ ~esperando...~",
+      "~Destruye...~ ~a~ ~todos...~"
+    ]
+  },
+  "downfall:HeartProceed": {
+    "TEXT": [
+      "~Intrusos...~ NL ~...en~ ",
+      "~Tú~ ~eres~ ~necesario...~ NL ~...en~ ",
+      "~Ellos~ ~han~ ~llegado...~ NL ",
+      "~Regresa...~ NL ~Protege~ ",
+      "~Mátalos~ ~a~ ~todos...~ NL ~...en~ "
+    ],
+    "OPTIONS": [
+      "~la~ ~Ciudad...~",
+      "~el~ ~Más~ ~Allá...~"
+    ]
+  },
+  "downfall:NeowEnding": {
+    "TEXT": [
+      "Tú... has... matado... a todos...",
+      "...el ciclo... ha muerto.....",
+      "..y entonces...... yo... NL ....tambien......"
+    ],
+    "OPTIONS": [
+      "~Yo~ ~traje...~ NL ~AÉL...~ ~de~ ~vuelta...~",
+      "~Protégeme...~ NL ~Y~ ~serás...~ ~recompensado...~"
+    ]
+  },
+  "downfall:HeartMerchantScreen": {
+    "NAMES": [
+      "~Saludos~ NL ~esbirro...~",
+      "~Trae~ ~más~ ~almas...~",
+      "~Necesito~ @más...@",
+      "~No~ ~eres~ NL @digno...@",
+      "~No.~",
+      "~Cosecha~ ~más~ NL ~para~ ~eso...~",
+      "~Sacrificio~ ~insuficiente...~",
+      "~Sí...~",
+      "~Más...~ @¡Más...!@",
+      "~Hazte~ ~más~ ~fuerte...~",
+      "~Estoy~ ~renovado...~",
+      "~Ve~ ~y~ ~cosecha...~",
+      "Salir",
+      "Selecciona una carta para eliminar de tu mazo."
+    ],
+    "TEXT": [
+      "~Creces...~ ~más fuerte...~",
+      "~Crecemos...~ ~a medida que~ ~tú~ ~creces...~",
+      "~Asesina...~ ~y~ ~recibirás~ ~recompensas...~",
+      "~Más...~ ~almas...~",
+      "~Aliméntanos......~ NL ~ALIMÉNTANOS......~",
+      "~Alimenta...~ ~la~ ~corrupción...~",
+      "~Las~ ~bendiciones...~ ~se~ ~ganan...~",
+      "~No...~ ~hay...~ ~piedad...~",
+      "~Cada vez...~ ~más fuerte...~",
+      "~Nuestro~ ~poder...~ ~es~ ~tuyo...~",
+      "~Mata~ ~a~ ~todos...~ ~en~ ~tu~ ~camino...~",
+      "~Lucha...~ ~cae...~ ~y~ ~alimenta...~",
+      "~Somos...~ ~legión...~",
+      "~Avanza...~ ~y~ ~cosecha...~",
+      "~Deliciosas...~ ~almas...~",
+      "~Cosecha...~ ~a los caídos...~"
+    ]
+  },
+  "downfall:OctoChoiceCards": {
+    "NAMES": [
+      "Almas",
+      "Éxito",
+      "Un Estímulo",
+      "Guardián",
+      "Hexafantasma",
+      "Rey Babosa",
+      "Autómata",
+      "Campeón",
+      "Coleccionista",
+      "Devorador de Tiempo",
+      "El Despertado",
+      "Ancestros",
+      "Dividir: Bronce",
+      "Dividir: Llama Fantasma",
+      "Dividir: Cabezafuego",
+      "Dividir: Cultista",
+      "Dividir: Protector",
+      "Dividir: Insultante",
+      "Dividir: Ancestro",
+      "Dividir: Temporal"
+    ],
+    "TEXT": [
+      "Pierde 3 PV. NL Obtén 15 Almas.",
+      "Pierde 3 PV. NL Añade una carta Incolora aleatoria a tu mano.",
+      "Pierde 7 PV. NL Obtén una Poción aleatoria.",
+      "Obtén cartas del *Jefe Guardián.",
+      "Obtén cartas del *Jefe Hexafantasma.",
+      "Obtén cartas del *Jefe Rey Babosa.",
+      "Obtén cartas del *Jefe Autómata.",
+      "Obtén cartas del *Jefe Campeón.",
+      "Obtén cartas del *Jefe Coleccionista.",
+      "Obtén cartas del *Jefe Devorador de Tiempo.",
+      "Obtén cartas del *Jefe Despertado.",
+      "Obtén cartas del *Jefe los Ancestros.",
+      "Divídete en una slimeboundmod:Baba_Bronce.",
+      "Divídete en una slimeboundmod:Baba_Fantasmal.",
+      "Divídete en una slimeboundmod:Baba_Antorcha.",
+      "Divídete en una slimeboundmod:Baba_Cultista.",
+      "Divídete en una slimeboundmod:Baba_Protectora.",
+      "Divídete en una slimeboundmod:Baba_Insultante.",
+      "Divídete en una slimeboundmod:Baba_Ancestral.",
+      "Divídete en una slimeboundmod:Baba_Temporal.",
+      "Divídete en una slimeboundmod:Baba_Bruta.",
+      "Divídete en una slimeboundmod:Baba_Guerrilla.",
+      "Divídete en una slimeboundmod:Baba_Lodosa.",
+      "Divídete en una slimeboundmod:Baba_Absorbente.",
+      "Pierde 3 PV. NL Obtén 20 Almas.",
+      "Pierde 3 PV. NL Añade una carta Incolora mejorada aleatoria a tu mano.",
+      "Pierde 5 PV. NL Obtén una Poción aleatoria."
+    ]
+  },
+  "downfall:lazyStorage": {
+    "NAMES": [],
+    "TEXT": [
+      "Elige un Jefe para estudiar.",
+      "Elige Avanzar, Retroceder o No Hacer Nada"
+    ]
+  },
+  "downfall:CharBossMerchant": {
+    "NAMES": [
+      "Mercader"
+    ],
+    "TEXT": []
+  },
+  "downfall:NeowBoss": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Alzarse...~",
+      "~Lucha~ ~una~ ~vez~ ~más...~",
+      "~El~ ~ciclo~ ~debe~ ~terminar...~"
+    ]
+  },
+  "downfall:NeowBossFinal": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": []
+  },
+  "downfall:OldNeow": {
+    "NAMES": [
+      "Viejo Neow"
+    ],
+    "TEXT": []
+  },
+  "downfall:CharBossSpeech": {
+    "NAMES": [
+      ""
+    ],
+    "TEXT": [
+      "No, ¡Eso no puede ser! Necesitamos más toxinas...",
+      "¡Muere, monstruo! ¡No perteneces a este mundo!"
+    ]
+  }
+
+}

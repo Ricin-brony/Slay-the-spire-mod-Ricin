@@ -1,0 +1,202 @@
+{
+  "Gremlin:Agony": {
+    "NAME": "苦悩する痛み",
+    "DESCRIPTIONS": [
+      "#yアタックで与えるダメージが #b",
+      "% 減少する。あと #b",
+      " ターン。",
+      " ターン。"
+    ]
+  },
+  "Gremlin:Bang": {
+    "NAME": "バン！",
+    "DESCRIPTIONS": [
+      "次に行う攻撃は #y魔力 をすべて消費して #b", " 追加ダメージを与える。"
+    ]
+  },
+  "Gremlin:Bashed": {
+    "NAME": "バシッ！",
+    "DESCRIPTIONS": [
+      "このターン、 #yブロック を得る度に #b", " HPを失う。"
+    ]
+  },
+  "Gremlin:BubbleBarrier": {
+    "NAME": "バブルバリア",
+    "DESCRIPTIONS": [
+      "このターン、カードをプレイする度に #b", " #yブロックを得る。"
+    ]
+  },
+  "Gremlin:CongaLine": {
+    "NAME": "コンガライン",
+    "DESCRIPTIONS": [
+      "あなたのターン開始時、 ",
+      " を得て、 次のグレムリンと #y交代 する。"
+    ]
+  },
+  "Gremlin:Crippled": {
+    "NAME": "廃人",
+    "DESCRIPTIONS": [
+      " #y脱力 を受ける度 HPを #b",
+      " 失う。"
+    ]
+  },
+  "Gremlin:Encore": {
+    "NAME": "アンコール",
+    "DESCRIPTIONS": [
+      " #y魔力 が追加で #b", " ダメージを与える。"
+    ]
+  },
+  "Gremlin:Enthusiasm": {
+    "NAME": "熱意",
+    "DESCRIPTIONS": [
+      " #y交代 を行うと、 カードを #b",
+      " 枚引く。",
+      " 枚引く。"
+    ]
+  },
+  "Gremlin:FatGremlin": {
+    "NAME": "太っちょグレムリン",
+    "DESCRIPTIONS": [
+      "アタックをプレイする度に対象に #y脱力 #b",
+      " を与える。"
+    ]
+  },
+  "Gremlin:Flex": {
+    "NAME": "筋力低下",
+    "DESCRIPTIONS": [
+      "このターン終了時に #y筋力 #b",
+      " を失う。"
+    ]
+  },
+  "Gremlin:Furious": {
+    "NAME": "激怒",
+    "DESCRIPTIONS": [
+      "このターン #yブロック を得る代わりに、敵全体にその分のダメージを与える。"
+    ]
+  },
+  "Gremlin:GremlinNob": {
+    "NAME": "グレムリンボス",
+    "DESCRIPTIONS": [
+      "ターン開始時、 #b3 枚のグレムリンボスカードを得る。 あなたはもう #y交代出来ない。 NL 全ての #y一時的な体力 を失う場合、超過したダメージを無効化し元に戻る。"
+    ]
+  },
+  "Gremlin:GremlinWizard": {
+    "NAME": "グレムリンウィザード",
+    "DESCRIPTIONS": [
+      "スキルをプレイするたびに #y魔力 #b",
+      " を得る。"
+    ]
+  },
+  "Gremlin:Heckle": {
+    "NAME": "足手まとい",
+    "DESCRIPTIONS": [
+      "敵にデバフを与える度に、 #y一時的な体力 #b",
+      " を得る。"
+    ]
+  },
+  "Gremlin:InfiniteBlocks": {
+    "NAME": "無限ブロック",
+    "DESCRIPTIONS": [
+      "あなたのターン開始時、 #b",
+      " 枚の #yガード を手札に加える。",
+      " 枚の #yガード"
+    ]
+  },
+  "Gremlin:MadGremlin": {
+    "NAME": "マッドグレムリン",
+    "DESCRIPTIONS": [
+      "攻撃を受ける度に #y一時的な #y筋力 #b",
+      " を得る。"
+    ]
+  },
+  "Gremlin:MakeshiftArmor": {
+    "NAME": "その場しのぎアーマー",
+    "DESCRIPTIONS": [
+      " #b",
+      " アタックをプレイするたび #b",
+      " アタックをプレイするたび #b",
+      " #yアーティファクト を得る。"
+    ]
+  },
+  "Gremlin:MakingMagic": {
+    "NAME": "魔法をかける",
+    "DESCRIPTIONS": [
+      "次のターン開始時、 #b",
+      " #yバン！ のコピーを得る。",
+      " #yバン！ のコピーを得る。"
+    ]
+  },
+  "Gremlin:MakingMoreMagic": {
+    "NAME": "魔法をかける+",
+    "DESCRIPTIONS": [
+      "次のターン開始時、 #b",
+      " #バン！+ のコピーを得る。",
+      " #バン！+ のコピーを得る。"
+    ]
+  },
+  "Gremlin:Polish": {
+    "NAME": "磨く",
+    "DESCRIPTIONS": [
+      "#yガード で得られる #yブロックがの #b",
+      " 上昇。"
+    ]
+  },
+  "Gremlin:Scatter": {
+    "NAME": "散れ！",
+    "DESCRIPTIONS": [
+      "次の #b",
+      " 回、HPを失う代わりにランダムなグレムリンと #y交代 する。",
+      " 回、HPを失う代わりにランダムなグレムリンと #y交代 する。"
+    ]
+  },
+  "Gremlin:ShadowShiv": {
+    "NAME": "隠しナイフ",
+    "DESCRIPTIONS": [
+      " #y廃棄 を持っていない アタックをプレイするたびに #b",
+      " 枚の #yナイフ を手札に加える。",
+      " 枚の #yナイフ を手札に加える。"
+    ]
+  },
+  "Gremlin:ShieldGremlin": {
+    "NAME": "シールドグレムリン",
+    "DESCRIPTIONS": [
+      "スキルをプレイする度に、 #b",
+      " #yブロック を得る。"
+    ]
+  },
+  "Gremlin:SneakyGremlin": {
+    "NAME": "スニーキーグレムリン",
+    "DESCRIPTIONS": [
+      "0コストのアタックが追加で #b",
+      " ダメージを与える。アタックをプレイする度に、ランダムな敵に #b",
+      " ダメージを与える。"
+    ]
+  },
+  "Gremlin:TargetWeakness": {
+    "NAME": "傷口を広げる",
+    "DESCRIPTIONS": [
+      "脱力状態の敵に 追加で #b",
+      " ダメージを与える。"
+    ]
+  },
+  "Gremlin:Unforgiving": {
+    "NAME": "許さない",
+    "DESCRIPTIONS": [
+      " #y筋力 が減少しない。"
+    ]
+  },
+  "Gremlin:Wiz": {
+    "NAME": "魔力",
+    "DESCRIPTIONS": [
+      "チャージ開始。 NL あと #b", " 多くのスタックが必要。", " 多くのスタックが必要。",
+      "これでも喰らえ！"
+    ]
+  },
+  "Gremlin:Wizardry": {
+    "NAME": "ウィザードリィ",
+    "DESCRIPTIONS": [
+      "ターン開始時、 #y魔力 #b",
+      " を得る。"
+    ]
+  }
+}

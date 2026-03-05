@@ -1,0 +1,94 @@
+{
+"hermit:Concentration": {
+        "NAME": "Concentration",
+        "DESCRIPTIONS": ["A próxima carta #yMorto #yVivo que você jogar neste turno ativa seu efeito independentemente da posição."]
+},
+"hermit:HighNoonPower": {
+        "NAME": "High Noon",
+        "DESCRIPTIONS": ["Sempre que você jogar um #yGolpe ou #yDefender, compre #b", " carta.", " cartas."]
+},
+"hermit:FatalDesirePower": {
+        "NAME": "Desejo Fatal",
+        "DESCRIPTIONS": ["No início do seu turno, compre #b", " cartas e adicione #b", " #yInjuria na sua mão.", " #yInjurias na sua mão."]
+},
+"hermit:ShadowCloakPower": {
+        "NAME": "Manto das Sombras",
+        "DESCRIPTIONS": ["Sempre que você comprar ou #yExaure uma maldição, ganhe #b", " de Proteção."]
+},
+"hermit:TakeAimPower": {
+        "NAME": "Mire",
+        "DESCRIPTIONS": ["No início do seu turno, #yConcentre-se."]
+},
+"hermit:AdaptPower": {
+        "NAME": "Adaptação",
+        "DESCRIPTIONS": ["No início do seu turno, #yExaure até #b", " carta para ganhar #b8 de Proteção." , " cartas. Ganhe #b8 de Proteção para cada carta."]
+},
+"hermit:Bruise": {
+        "NAME": "Contundido",
+        "DESCRIPTIONS": ["Neste turno, o alvo recebe #b", " de dano adicional de ataque."]
+},
+"hermit:HorrorPower": {
+        "NAME": "Horror",
+        "DESCRIPTIONS": ["Contusão não desaparecerá por #b", " turno.", " turnos."]
+},
+"hermit:ComboPower": {
+        "NAME": "Combinação",
+        "DESCRIPTIONS": ["A primeira carta #yMorto #yVivo #b", " ativada neste turno será colocada de volta em sua mão.", " cartas #yMorto #yVivo ativadas neste turno serão colocadas de volta em sua mão."]
+},
+"hermit:BigShotPower": {
+        "NAME": "Cano Fumegante",
+        "DESCRIPTIONS": ["Sempre que você ativar um efeito #yMorto #yVivo, seu próximo ataque causará #b", " de dano adicional."]
+},
+"hermit:BrawlPower": {
+        "NAME": "Briga",
+        "DESCRIPTIONS": ["No início do seu turno, aplique a todos os inimigos #b", " de Contusão."]
+},
+"hermit:Rugged": {
+        "NAME": "Robusto",
+        "DESCRIPTIONS": ["Nas próximas", " vezes em que você sofreria dano de ataque desprotegido, reduza-o para #b2.", " vez em que você sofreria dano desprotegido, reduza-o para #b2."]
+},
+"hermit:EternalPower": {
+        "NAME": "Poder Eterno",
+        "DESCRIPTIONS": ["As primeiras #b4 cartas compradas no início de cada turno custam #b", " a menos naquele turno."]
+},
+"hermit:OverwhelmingPowerPower": {
+        "NAME": "Poder Avassalador",
+        "DESCRIPTIONS": ["Perca #b", " PV se encerrar seu turno com #b0 de Energia."]
+},
+"hermit:Bounty": {
+        "NAME": "Recompensa",
+        "DESCRIPTIONS": ["Recompensa Atual: #b"]
+},
+"hermit:Drained": {
+        "NAME": "Drenado",
+        "DESCRIPTIONS": ["Ganhe #b", " a menos de energia no próximo turno."]
+},
+"hermit:DeterminationPower": {
+        "NAME": "Determinação",
+        "DESCRIPTIONS": ["Sempre que uma penalidade for aplicada em você, ganhe #b", " #yForça."]
+},
+"hermit:RyeStalkPower": {
+        "NAME": "Talo de Centeio",
+        "DESCRIPTIONS": ["Ao final deste turno, #yRetenha qualquer quantidade de cartas."]
+},
+"hermit:PetGhostPower": {
+        "NAME": "Fantasma de Estimação",
+        "DESCRIPTIONS": ["Você não pode morrer. Morra ao final", " do seu próximo turno.", " Este turno."]
+},
+"hermit:SnipePower": {
+        "NAME": "Tiro Certeiro",
+        "DESCRIPTIONS": ["O próximo efeito #b", " #yMorto #yVivo deste turno ocorre duas vezes.", " Efeitos #b #yMorto #yVivo neste turno ocorrem duas vezes."]
+},
+"hermit:CoalescencePower": {
+        "NAME": "Coesão",
+        "DESCRIPTIONS": ["Ao final do seu turno, #yRetenha até #b", " Carta.", " Cartas."]
+},
+"hermit:ReprievePower": {
+        "NAME": "Indulto",
+        "DESCRIPTIONS": ["Tenha #b", " turno extra após este.", " turnos extra após este."]
+},
+"hermit:MaintenanceStrikePower": {
+        "NAME": "Manutenção",
+        "DESCRIPTIONS": ["Seus #yGolpes causam #b", " a mais de dano."]
+}
+}

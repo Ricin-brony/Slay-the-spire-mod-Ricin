@@ -15,8 +15,10 @@ import com.megacrit.cardcrawl.helpers.ScreenShake;
 import com.megacrit.cardcrawl.localization.CharacterStrings;
 import com.megacrit.cardcrawl.screens.CharSelectInfo;
 import RicinMod.RicinMod;
-import RicinMod.cards.Defend;
-import RicinMod.cards.Strike;
+import RicinMod.cards.ConstellationDefend;
+import RicinMod.cards.Memento;
+import RicinMod.cards.StarlightStrike;
+import RicinMod.cards.Whisper;
 import RicinMod.relics.DreamChimeRelic;
 
 import java.util.ArrayList;
@@ -62,12 +64,14 @@ public class RicinCharacter extends CustomPlayer {
     @Override
     public ArrayList<String> getStartingDeck() {
         ArrayList<String> retVal = new ArrayList<>();
-        for (int x = 0; x < 4; x++) {
-            retVal.add(Strike.ID);
+        for (int i = 0; i < 4; i++) {
+            retVal.add(StarlightStrike.ID);
         }
-        for (int x = 0; x < 4; x++) {
-            retVal.add(Defend.ID);
+        for (int i = 0; i < 4; i++) {
+            retVal.add(ConstellationDefend.ID);
         }
+        retVal.add(Memento.ID);
+        retVal.add(Whisper.ID);
         return retVal;
     }
 
@@ -85,7 +89,7 @@ public class RicinCharacter extends CustomPlayer {
                 characterStrings.TEXT[0],
                 75,
                 75,
-                0,
+                3,
                 99,
                 5,
                 this,
@@ -107,7 +111,7 @@ public class RicinCharacter extends CustomPlayer {
 
     @Override
     public AbstractCard getStartCardForEvent() {
-        return new Strike();
+        return new StarlightStrike();
     }
 
     @Override

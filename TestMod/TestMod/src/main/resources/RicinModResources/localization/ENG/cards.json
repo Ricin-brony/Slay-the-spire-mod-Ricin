@@ -1,6 +1,9 @@
 {
-  "RicinMod:Strike": {
-    "NAME": "Strike",
-    "DESCRIPTION": "Deal !D! damage."
-  }
+  "RicinMod:ChronoStrike": {"NAME": "Chrono Strike", "DESCRIPTION": "Deal damage equal to turn count × !M!. NL ricinmod:Echo : Deal turn count × !M! damage."},
+  "RicinMod:StarlightStrike": {"NAME": "Starlight Strike", "DESCRIPTION": "Deal !D! damage. NL ricinmod:Echo : Deal !M! damage to a random enemy."},
+  "RicinMod:ConstellationDefend": {"NAME": "Constellation Defend", "DESCRIPTION": "Gain !B! Block. NL ricinmod:Echo : Gain !M! Block."},
+  "RicinMod:Memento": {"NAME": "Memento", "DESCRIPTION": "ricinmod:Eternalize !M! card in hand, draw 1 card."},
+  "RicinMod:Whisper": {"NAME": "Whisper", "DESCRIPTION": "ricinmod:Lament 1 , ricinmod:Charon the rightmost card in the echo bar."},
+  "RicinMod:EmberWake": {"NAME": "Ember Wake", "DESCRIPTION": "Whenever a card is ricinmod:Charon'd , gain 1 Energy.", "UPGRADE_DESCRIPTION": "ricinmod:Innate. NL Whenever a card is ricinmod:Charon'd , gain 1 Energy."},
+  "RicinMod:StakingStardust": {"NAME": "Staking Stardust", "DESCRIPTION": "Draw cards until your hand is full. NL Each time you play this card, it costs 1 more.", "UPGRADE_DESCRIPTION": "Innate. NL Draw cards until your hand is full. NL Each time you play this card, it costs 1 more."}
 }

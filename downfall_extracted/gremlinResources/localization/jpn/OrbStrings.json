@@ -1,0 +1,42 @@
+{
+  "Gremlin:FatGremlin": {
+    "NAME": "太っちょグレムリン",
+    "DESCRIPTION": [
+      "アタックをプレイ後、ターゲットしたモンスター全てに #y脱力 #b",
+      " を与える。"
+    ]
+  },
+
+  "Gremlin:GremlinWizard": {
+    "NAME": "グレムリンウィザード",
+    "DESCRIPTION": [
+      "スキルをプレイ後、 #y魔力 #b",
+      " を得る。"
+    ]
+  },
+
+  "Gremlin:MadGremlin": {
+    "NAME": "マッドグレムリン",
+    "DESCRIPTION": [
+      "攻撃を受けた時 #y一時的な #y筋力 #b",
+      " を得る。"
+    ]
+  },
+
+  "Gremlin:ShieldGremlin": {
+    "NAME": "シールドグレムリン",
+    "DESCRIPTION": [
+      "スキルをプレイ後 #b",
+      " #yブロック を得る。"
+    ]
+  },
+
+  "Gremlin:SneakyGremlin": {
+    "NAME": "スニーキーグレムリン",
+    "DESCRIPTION": [
+      "0 コストのアタックが 追加で #b",
+      " ダメージを与える。また、アタックをプレイした時、ランダムな敵に #b",
+      " ダメージを与える。"
+    ]
+  }
+}

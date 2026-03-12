@@ -1,7 +1,7 @@
 # 🎴 杀戮尖塔原创角色：Ricin（芮卿）
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-0.1.0--alpha-blue" alt="版本">
+  <img src="https://img.shields.io/badge/版本-1.0.0--梦开始的地方-blue" alt="版本">
   <img src="https://img.shields.io/badge/Mod%20The%20Spire-支持-brightgreen" alt="Mod The Spire">
   <img src="https://img.shields.io/badge/许可证-MIT-green" alt="许可证">
   <img src="https://img.shields.io/badge/状态-开发中-orange" alt="状态">

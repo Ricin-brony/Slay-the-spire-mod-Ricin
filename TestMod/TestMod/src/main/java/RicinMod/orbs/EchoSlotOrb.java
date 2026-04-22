@@ -12,6 +12,7 @@ import com.megacrit.cardcrawl.localization.OrbStrings;
 import com.megacrit.cardcrawl.orbs.AbstractOrb;
 import RicinMod.cards.ChronoStrike;
 import RicinMod.cards.ConstellationDefend;
+import RicinMod.cards.FlawEcho;
 import RicinMod.cards.StarlightStrike;
 
 public class EchoSlotOrb extends AbstractOrb {
@@ -48,7 +49,9 @@ public class EchoSlotOrb extends AbstractOrb {
     }
 
     private String getEchoEffectText() {
-        if (orbStrings == null || orbStrings.DESCRIPTION == null || orbStrings.DESCRIPTION.length < 9) return "";
+        if (orbStrings == null || orbStrings.DESCRIPTION == null || orbStrings.DESCRIPTION.length < 11) {
+            return "";
+        }
         if (storedCard instanceof StarlightStrike) {
             return ((StarlightStrike) storedCard).upgraded ? orbStrings.DESCRIPTION[4] : orbStrings.DESCRIPTION[3];
         }
@@ -57,6 +60,9 @@ public class EchoSlotOrb extends AbstractOrb {
         }
         if (storedCard instanceof ChronoStrike) {
             return ((ChronoStrike) storedCard).upgraded ? orbStrings.DESCRIPTION[8] : orbStrings.DESCRIPTION[7];
+        }
+        if (storedCard instanceof FlawEcho) {
+            return ((FlawEcho) storedCard).upgraded ? orbStrings.DESCRIPTION[10] : orbStrings.DESCRIPTION[9];
         }
         return "";
     }
@@ -83,6 +89,8 @@ public class EchoSlotOrb extends AbstractOrb {
             ((ConstellationDefend) storedCard).triggerEchoEffect(AbstractDungeon.player);
         } else if (storedCard instanceof ChronoStrike) {
             ((ChronoStrike) storedCard).triggerEchoEffect(AbstractDungeon.player);
+        } else if (storedCard instanceof FlawEcho) {
+            ((FlawEcho) storedCard).triggerEchoEffect(AbstractDungeon.player);
         }
     }
 

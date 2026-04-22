@@ -1,26 +1,26 @@
 [
   {
-    "NAMES": [
-      "Eternalize"
-    ],
-    "DESCRIPTION": "Eternalize: Place cards that can #yEcho into empty echo slots."
+    "NAMES": ["Eternalize"],
+    "DESCRIPTION": "Place cards that can #yEcho into empty echo slots."
   },
   {
-    "NAMES": [
-      "Echo"
-    ],
+    "NAMES": ["Echo"],
     "DESCRIPTION": "Cards with this keyword can be #yEternalize'd and trigger their echo effect when #yCharon triggers."
   },
   {
-    "NAMES": [
-      "Lament"
-    ],
-    "DESCRIPTION": "Trigger all echo effects from all cards in the echo bar."
+    "NAMES": ["Lament"],
+    "DESCRIPTION": "Trigger all echo effects from all cards in the echo bar and in the elegy zone."
   },
   {
-    "NAMES": [
-      "Charon"
-    ],
-    "DESCRIPTION": "Charon: Consume the rightmost card in the echo bar and trigger its echo effect a number of times equal to Ember layers."
+    "NAMES": ["Charon"],
+    "DESCRIPTION": "Exhaust the rightmost card in the echo bar and trigger its echo effect a number of times equal to #yEmber stacks."
+  },
+  {
+    "NAMES": ["Ephemera"],
+    "DESCRIPTION": "At end of turn, if this card is in your hand, reduce X by 1 and #yRetain it; when X reaches 0, #yExhaust it and lose 3 HP; when #yCharon'd, it enters the elegy zone."
+  },
+  {
+    "NAMES": ["Nightmare"],
+    "DESCRIPTION": "At end of turn, if this card is in your hand, #yEternalize it; if there are not enough echo slots, put the rightmost echo bar card into the discard pile."
   }
 ]

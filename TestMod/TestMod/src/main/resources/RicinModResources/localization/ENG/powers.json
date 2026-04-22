@@ -8,7 +8,13 @@
   "RicinMod:EmberWakePower": {
     "NAME": "Ember Wake",
     "DESCRIPTIONS": [
-      "Whenever a card is #yCharon'd , gain #b%d Energy."
+      "Whenever a card is #yCharon'd , gain #b%d [E] ."
+    ]
+  },
+  "RicinMod:EmberferryPower": {
+    "NAME": "Emberferry",
+    "DESCRIPTIONS": [
+      "Whenever a card is #yCharon'd , gain #b%d #yEmber ."
     ]
   }
 }

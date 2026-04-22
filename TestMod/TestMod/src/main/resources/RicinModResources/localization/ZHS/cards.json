@@ -1,9 +1,15 @@
 {
   "RicinMod:ChronoStrike": {"NAME": "时序打击", "DESCRIPTION": "造成当前回合数×!M!的伤害。 NL ricinmod:回响 ：造成当前回合数×!M!的伤害。"},
   "RicinMod:StarlightStrike": {"NAME": "星辉打击", "DESCRIPTION": "造成 !D! 点伤害。 NL ricinmod:回响 ：随机对敌人造成 !M! 点伤害。"},
+  "RicinMod:FlawEcho": {"NAME": "瑕疵回响", "DESCRIPTION": "造成 !D! 点伤害，你每拥有 1 个负面效果，则额外攻击一次。 NL ricinmod:回响 ：造成 !M! 点伤害，你每拥有 1 个负面效果，则额外攻击一次。"},
+  "RicinMod:Finale": {"NAME": "绝唱", "DESCRIPTION": "消耗。 NL ricinmod:悲歌 !M! 。 NL 将回响栏中所有卡牌移回手牌。若手牌溢出，将溢出的牌置入弃牌堆。"},
+  "RicinMod:MemoryPalace": {"NAME": "记忆宫殿", "DESCRIPTION": "获得 !M! 个回响栏位。"},
+  "RicinMod:Emberferry": {"NAME": "余烬引渡", "DESCRIPTION": "每当有一张牌被 ricinmod:引渡 时，获得 1 层 #y余温 。"},
   "RicinMod:ConstellationDefend": {"NAME": "星辰防御", "DESCRIPTION": "获得 !B! 点格挡。 NL ricinmod:回响 ：获得 !M! 点格挡。"},
+  "RicinMod:DreamWard": {"NAME": "入梦屏障", "DESCRIPTION": "获得 !B! 点格挡。 NL 将手牌置入弃牌堆，用 *晕眩 填满手牌。"},
   "RicinMod:Memento": {"NAME": "记忆碎片", "DESCRIPTION": "ricinmod:铭刻 !M! 张手牌，抽 1 张牌。"},
   "RicinMod:Whisper": {"NAME": "低语", "DESCRIPTION": "ricinmod:悲歌 1 ， ricinmod:引渡 回响栏最右侧的卡牌。"},
   "RicinMod:EmberWake": {"NAME": "余波", "DESCRIPTION": "每当有牌被 ricinmod:引渡 时，获得 1 点能量。", "UPGRADE_DESCRIPTION": "ricinmod:固有。 NL 每当有牌被 ricinmod:引渡 时，获得 1 点能量。"},
-  "RicinMod:StakingStardust": {"NAME": "孤注一掷", "DESCRIPTION": "抽牌直到手牌抽满。 NL 你每打出一次，这张牌的耗能增加 1。", "UPGRADE_DESCRIPTION": "固有 。 NL 抽牌直到手牌抽满。 NL 你每打出一次，这张牌的耗能增加 1。"}
+  "RicinMod:StakingStardust": {"NAME": "孤注一掷", "DESCRIPTION": "抽牌直到手牌抽满。 NL 你每打出一次，这张牌的耗能增加 1。", "UPGRADE_DESCRIPTION": "固有 。 NL 抽牌直到手牌抽满。 NL 你每打出一次，这张牌的耗能增加 1。"},
+  "RicinMod:SolemnOath": {"NAME": "庄严誓约", "DESCRIPTION": "获得 !M! 层 *金属化 。 NL 所有敌人获得 1 层 *仪式 。"}
 }

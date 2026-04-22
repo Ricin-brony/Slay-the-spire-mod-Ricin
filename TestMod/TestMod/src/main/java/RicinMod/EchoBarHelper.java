@@ -3,6 +3,7 @@ package RicinMod;
 import com.megacrit.cardcrawl.characters.AbstractPlayer;
 import RicinMod.cards.ChronoStrike;
 import RicinMod.cards.ConstellationDefend;
+import RicinMod.cards.FlawEcho;
 import RicinMod.cards.StarlightStrike;
 import com.megacrit.cardcrawl.orbs.AbstractOrb;
 import RicinMod.orbs.EchoOrb;
@@ -17,7 +18,7 @@ public class EchoBarHelper {
 
     /** 检查卡牌是否具有回响效果（悲歌/引渡时触发） */
     public static boolean hasEchoEffect(com.megacrit.cardcrawl.cards.AbstractCard card) {
-        return card instanceof StarlightStrike || card instanceof ConstellationDefend || card instanceof ChronoStrike;
+        return card instanceof StarlightStrike || card instanceof ConstellationDefend || card instanceof ChronoStrike || card instanceof FlawEcho;
     }
 
     /** 触发所有回响槽位中卡牌的回响效果（EchoOrb 或 EchoSlotOrb 中有卡时） */

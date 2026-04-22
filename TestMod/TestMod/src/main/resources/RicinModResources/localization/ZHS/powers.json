@@ -8,7 +8,13 @@
   "RicinMod:EmberWakePower": {
     "NAME": "余波",
     "DESCRIPTIONS": [
-      "每当有牌被 #y引渡 时，获得 #b%d 点能量。"
+      "每当有一张牌被 #y引渡 时，获得 #b%d 点费用。"
+    ]
+  },
+  "RicinMod:EmberferryPower": {
+    "NAME": "余烬引渡",
+    "DESCRIPTIONS": [
+      "每当有一张牌被 #y引渡 时，获得 #b%d 层 #y余温 。"
     ]
   }
 }

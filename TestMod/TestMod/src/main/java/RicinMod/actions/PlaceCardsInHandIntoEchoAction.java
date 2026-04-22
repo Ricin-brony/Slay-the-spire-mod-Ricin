@@ -61,7 +61,9 @@ public class PlaceCardsInHandIntoEchoAction extends AbstractGameAction {
             if (!RicinMod.canSpawnEchoOrb()) {
                 returnCards();
                 isDone = true;
-                String msg = TEXT != null && TEXT.length > 3 ? TEXT[3] : "No empty Echo slot.";
+                String msg = TEXT != null && TEXT.length > 3
+                        ? TEXT[3]
+                        : "My mind is but a small attic — it cannot hold a roomful of treasure.";
                 AbstractDungeon.effectList.add(new ThoughtBubble(
                         AbstractDungeon.player.dialogX, AbstractDungeon.player.dialogY, 3.0F,
                         msg, true));

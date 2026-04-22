@@ -1,1 +1,38 @@
-{"RicinMod:EchoSlot":{"NAME":"Echo Slot","DESCRIPTION":["Empty. ricinmod:Eternalize to place cards.","#yEcho: "," NL ","Deal 3 damage to random enemy.","Deal 4 damage to random enemy.","Gain 2 Block.","Gain 3 Block.","Deal turn count × 2 damage to random enemy.","Deal turn count × 3 damage to random enemy."]},"RicinMod:EchoOrb":{"NAME":"Echo: ","DESCRIPTION":["Empty","#yEcho: "," NL ","Deal 3 damage to random enemy.","Deal 4 damage to random enemy.","Gain 2 Block.","Gain 3 Block.","Deal turn count × 2 damage to random enemy.","Deal turn count × 3 damage to random enemy."]},"RicinMod:EternalizePrompt":{"NAME":"Eternalize","DESCRIPTION":["Eternalize"]}}
+{
+  "RicinMod:EchoSlot": {
+    "NAME": "Echo Slot",
+    "DESCRIPTION": [
+      "Empty. ricinmod:Eternalize to place cards.",
+      "#yEcho: ",
+      " NL ",
+      "Deal 3 damage to random enemy.",
+      "Deal 4 damage to random enemy.",
+      "Gain 2 Block.",
+      "Gain 3 Block.",
+      "Deal turn count × 2 damage to random enemy.",
+      "Deal turn count × 3 damage to random enemy.",
+      "Deal 3 damage to random enemy. One extra hit per debuff on you.",
+      "Deal 4 damage to random enemy. One extra hit per debuff on you."
+    ]
+  },
+  "RicinMod:EchoOrb": {
+    "NAME": "Echo: ",
+    "DESCRIPTION": [
+      "Empty",
+      "#yEcho: ",
+      " NL ",
+      "Deal 3 damage to random enemy.",
+      "Deal 4 damage to random enemy.",
+      "Gain 2 Block.",
+      "Gain 3 Block.",
+      "Deal turn count × 2 damage to random enemy.",
+      "Deal turn count × 3 damage to random enemy.",
+      "Deal 3 damage to random enemy. One extra hit per debuff on you.",
+      "Deal 4 damage to random enemy. One extra hit per debuff on you."
+    ]
+  },
+  "RicinMod:EternalizePrompt": {
+    "NAME": "Eternalize",
+    "DESCRIPTION": ["Eternalize"]
+  }
+}

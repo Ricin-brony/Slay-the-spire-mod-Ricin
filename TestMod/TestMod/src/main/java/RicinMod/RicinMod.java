@@ -20,8 +20,14 @@ import com.megacrit.cardcrawl.localization.RelicStrings;
 import com.megacrit.cardcrawl.localization.UIStrings;
 import RicinMod.cards.ChronoStrike;
 import RicinMod.cards.ConstellationDefend;
+import RicinMod.cards.DreamWard;
+import RicinMod.cards.Emberferry;
 import RicinMod.cards.EmberWake;
+import RicinMod.cards.Finale;
+import RicinMod.cards.FlawEcho;
+import RicinMod.cards.MemoryPalace;
 import RicinMod.cards.Memento;
+import RicinMod.cards.SolemnOath;
 import RicinMod.cards.StakingStardust;
 import RicinMod.cards.StarlightStrike;
 import RicinMod.cards.Whisper;
@@ -80,10 +86,16 @@ public class RicinMod implements EditCardsSubscriber, EditStringsSubscriber, Edi
     public void receiveEditCards() {
         BaseMod.addCard(new StarlightStrike());
         BaseMod.addCard(new ChronoStrike());
+        BaseMod.addCard(new FlawEcho());
+        BaseMod.addCard(new Finale());
         BaseMod.addCard(new ConstellationDefend());
+        BaseMod.addCard(new MemoryPalace());
+        BaseMod.addCard(new DreamWard());
         BaseMod.addCard(new Memento());
         BaseMod.addCard(new Whisper());
+        BaseMod.addCard(new Emberferry());
         BaseMod.addCard(new EmberWake());
+        BaseMod.addCard(new SolemnOath());
         BaseMod.addCard(new StakingStardust());
     }
 
